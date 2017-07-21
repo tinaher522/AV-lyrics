@@ -8,7 +8,7 @@ Dissertation project for MSc in Advanced Computer Science of the University of S
 ** Supervisor = Dr. Jon Barker **
 
 
-## Introduction to the project
+## Introduction to the project.
 
 This project is extended by an MSc project that ran last year called ‘Automatic Speech Recognition in Music’.  
 Aim to develop an AV-ASR system with HMM-GMM methodologies in music based on the Audio-only ASR system that ran last year.
