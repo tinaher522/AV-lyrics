@@ -1,0 +1,3 @@
+<song artist="The_Beatles" title="Cry_For_A_Shadow">
+ Instrumental
+</song>

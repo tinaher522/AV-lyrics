@@ -1,0 +1,5 @@
+<song artist="Tom_Petty" title="Hello_CD_Listeners">
+"Hello, CD listeners.
+We've come to the point in this album where those listening on cassette (or records) will have to stand up (or sit down) and turn over the record (or tape). In fairness to those listeners, we'll now take a few seconds before we begin side two.
+Thank you. Here's side two.
+</song>

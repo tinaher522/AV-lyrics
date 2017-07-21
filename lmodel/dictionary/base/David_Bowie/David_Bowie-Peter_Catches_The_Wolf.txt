@@ -1,0 +1,5 @@
+<song artist="David_Bowie" title="Peter_Catches_The_Wolf">
+Meanwhile, Peter made a lasso and carefully letting it down and down and down, caught the wolf by the tail and pulled with all his might.
+Feeling himself caught, the wolf began to jump wildly trying to get loose.
+But Peter tied the other end of rope to the tree, and the wolf's jumping only made the rope round his tail tighter.
+</song>

@@ -1,0 +1,3 @@
+<song artist="Queen" title="The_Ring_(Hypnotic_Seduction_Of_Dale)">
+ Instrumental
+</song>

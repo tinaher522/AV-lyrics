@@ -1,0 +1,4 @@
+<song artist="Muse" title="Sling">
+It's so sad
+Do you know how much I try?
+</song>

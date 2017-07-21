@@ -1,0 +1,6 @@
+<song artist="Who" title="Wasp_Man">
+Waspman...
+Sting, sting
+Don't get stung
+You're gonna get stung
+</song>

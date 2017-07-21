@@ -1,0 +1,6 @@
+<song artist="Outkast" title="The_Love_Below_(Intro)">
+Some say Atlanta
+Some say New York
+Some say Paris, France but...
+Who knows... where this flower... grows
+</song>

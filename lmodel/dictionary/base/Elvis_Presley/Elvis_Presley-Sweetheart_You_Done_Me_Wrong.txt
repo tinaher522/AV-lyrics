@@ -1,0 +1,9 @@
+<song artist="Elvis_Presley" title="Sweetheart_You_Done_Me_Wrong">
+Well now sweetheart
+You done me wrong
+You have left me all alone
+Maybe there will come a time sweetheart
+When you will change your mind
+The road is rough
+And rocky too, and ...
+</song>

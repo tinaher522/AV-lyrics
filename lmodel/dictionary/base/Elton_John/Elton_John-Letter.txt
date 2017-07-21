@@ -1,0 +1,7 @@
+<song artist="Elton_John" title="Letter">
+Music by ? ?
+Produced by chris thomas
+Recorded 1969 at emi studios, abbey road
+Never released (the bread and beer band)
+[instrumental]
+</song>

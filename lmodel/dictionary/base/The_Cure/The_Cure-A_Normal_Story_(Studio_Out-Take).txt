@@ -1,0 +1,3 @@
+<song artist="The_Cure" title="A_Normal_Story_(Studio_Out-Take)">
+ Instrumental
+</song>

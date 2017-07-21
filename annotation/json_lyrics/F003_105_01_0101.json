@@ -1,0 +1,310 @@
+[
+    {
+        "end": 23.845549011200006, 
+        "index": 1, 
+        "lyric": "Load up on guns, bring your friends It's fun to lose and to pretend\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 12.0488040447, 
+        "transcription": "Load up on guns and  bring your friends It's fun to lose and to pretend\n", 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 35.040908908844, 
+        "index": 2, 
+        "lyric": "She's over-bored and self-assured Oh no, I know a dirty word\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 23.530050897598265, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 40.44987692832947, 
+        "index": 3, 
+        "lyric": "Hello, hello, hello, how low?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 34.723427057266235, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 46.19431509971619, 
+        "index": 4, 
+        "lyric": "Hello, hello, hello, how low?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 40.33957505226135, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 51.678254032135015, 
+        "index": 5, 
+        "lyric": "Hello, hello, hello, how low?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 46.04644799232483, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 54.75249199867249, 
+        "index": 6, 
+        "lyric": "Hello, hello\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 51.51446509361267, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 61.2954628944397, 
+        "index": 7, 
+        "lyric": "With the lights out, it's less dangerous\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 55.06923689842223, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 66.82853794097898, 
+        "index": 8, 
+        "lyric": "Here we are now, entertain us\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 61.06068601608276, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 72.3391189575195, 
+        "index": 9, 
+        "lyric": "I feel stupid and contagious\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 66.55085492134094, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 78.03427205085751, 
+        "index": 10, 
+        "lyric": "Here we are now, entertain us\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 71.85407705307009, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 101.10282206535337, 
+        "index": 11, 
+        "lyric": "I'm worse at what I do best And for this gift I feel blessed\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 90.01191692352225, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 112.47539405822752, 
+        "index": 12, 
+        "lyric": "Our little group has always been And always will until the end\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 100.92683811187746, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 117.8345829963684, 
+        "index": 13, 
+        "lyric": "Hello, hello, hello, how low?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 112.10729393959048, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 123.3098410606384, 
+        "index": 14, 
+        "lyric": "Hello, hello, hello, how low?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 117.58795695304872, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 128.61509199142455, 
+        "index": 15, 
+        "lyric": "Hello, hello, hello, how low?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 123.09239711761475, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 131.56735296249389, 
+        "index": 16, 
+        "lyric": "Hello, hello\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 128.59090795516968, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 137.94009404182432, 
+        "index": 17, 
+        "lyric": "With the lights out, it's less dangerous\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 132.08814091682436, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 143.27293710708616, 
+        "index": 18, 
+        "lyric": "Here we are now, entertain us\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 137.60086007118227, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 148.65047111511228, 
+        "index": 19, 
+        "lyric": "I feel stupid and contagious\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 142.90582089424134, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 154.05701303482053, 
+        "index": 20, 
+        "lyric": "Here we are now, entertain us\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 148.35192289352418, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 159.53046994209288, 
+        "index": 21, 
+        "lyric": "A mulatto, an albino\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 153.71016006469728, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 164.83153290748595, 
+        "index": 22, 
+        "lyric": "A mosquito, my libido\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 159.1962941169739, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 188.6093030452728, 
+        "index": 23, 
+        "lyric": "And I forget just why I taste Oh yeah, I guess it makes me smile\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 176.54675292968693, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 199.60608892399998, 
+        "index": 24, 
+        "lyric": "I found it hard, was hard to find Oh well, whatever, never mind\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 188.354343939, 
+        "transcription": "I found it hard, it's hard to find Oh well, whatever, never mind\n", 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 205.0863679885864, 
+        "index": 25, 
+        "lyric": "Hello, hello, hello, how low?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 199.23614702224734, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 210.52847194671628, 
+        "index": 26, 
+        "lyric": "Hello, hello, hello, how low?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 204.7454209804535, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 216.00844392776486, 
+        "index": 27, 
+        "lyric": "Hello, hello, hello, how low?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 210.12819209098816, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 218.87885289192198, 
+        "index": 28, 
+        "lyric": "Hello, hello\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 215.51163592338563, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 225.05714898109434, 
+        "index": 29, 
+        "lyric": "With the lights out, it's less dangerous\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 219.35313811302186, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 230.44074406623838, 
+        "index": 30, 
+        "lyric": "Here we are now, entertain us\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 224.82284107208253, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 236.07431697845456, 
+        "index": 31, 
+        "lyric": "I feel stupid and contagious\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 230.2115300178528, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 241.2819279670715, 
+        "index": 32, 
+        "lyric": "Here we are now, entertain us\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 235.66073088645936, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 246.7028398990631, 
+        "index": 33, 
+        "lyric": "A mulatto, an albino\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 240.97795395851136, 
+        "wavfile": "F003_105_01_0101"
+    }, 
+    {
+        "end": 252.60372796058653, 
+        "index": 34, 
+        "lyric": "A mosquito, my libido\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 246.50358095169068, 
+        "wavfile": "F003_105_01_0101"
+    }
+]

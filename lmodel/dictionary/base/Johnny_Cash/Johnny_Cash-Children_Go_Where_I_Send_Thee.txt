@@ -1,0 +1,6 @@
+<song artist="Johnny_Cash" title="Children_Go_Where_I_Send_Thee">
+Children go where I send thee,
+How will I send thee,
+I'm gonna send thee one by one
+Cause the one was the little bitty baby.
+</song>

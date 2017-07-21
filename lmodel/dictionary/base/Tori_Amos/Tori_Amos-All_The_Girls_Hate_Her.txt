@@ -1,0 +1,3 @@
+<song artist="Tori_Amos" title="All_The_Girls_Hate_Her">
+ Instrumental
+</song>

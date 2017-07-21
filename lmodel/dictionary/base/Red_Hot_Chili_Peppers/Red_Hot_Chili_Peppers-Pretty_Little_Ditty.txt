@@ -1,0 +1,3 @@
+<song artist="Red_Hot_Chili_Peppers" title="Pretty_Little_Ditty">
+ Instrumental
+</song>

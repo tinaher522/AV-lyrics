@@ -1,0 +1,9 @@
+<song artist="Janet_Jackson" title="Play_Selection_(Interlude)">
+Hello, Miss Janet.
+Hi Kilko. Door open. Music selections.
+Select.
+Playlist.
+Scan.
+Stop! Play selection.
+Play.
+</song>

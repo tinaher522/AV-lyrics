@@ -1,0 +1,7 @@
+<song artist="David_Bowie" title="The_Wolf">
+No sooner had Peter gone, than a big grey wolf came out of the forest.
+In a twinkling the cat climbed up into the tree.
+The duck quacked, and in her excitement jumped out of the pond.
+But no matter how hard the duck tried to run, she couldn't escape the wolf.
+He was getting nearer, nearer, catching up with her.
+</song>

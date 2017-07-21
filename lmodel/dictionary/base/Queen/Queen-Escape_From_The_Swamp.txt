@@ -1,0 +1,3 @@
+<song artist="Queen" title="Escape_From_The_Swamp">
+ Instrumental
+</song>

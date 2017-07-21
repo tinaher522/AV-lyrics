@@ -1,0 +1,3 @@
+<song artist="The_Doors" title="All_Right,_All_Right,_All_Right">
+All right, all right, all right, all right, all right, all right!
+</song>

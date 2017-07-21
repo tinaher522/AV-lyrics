@@ -1,0 +1,3 @@
+<song artist="David_Bowie" title="The_Bird">
+On a branch of a big tree sat a little bird, Peter's friend.  "All is quiet, All is quiet" chirped the bird gaily. Yes all is quiet.
+</song>

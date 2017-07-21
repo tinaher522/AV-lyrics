@@ -1,0 +1,33 @@
+<song artist="Carole_King" title="Alligators_All_Around">
+A - alligators all around
+B - bursting balloons
+C - catching colds
+D - doing dishes
+E - entertaining elephants
+F - forever fooling
+G - getting giggles
+H - having headaches
+I - imitating Indians
+J - juggling jellybeans
+K - keeping kangaroos
+L - looking like lions
+M - making macaroni
+N - never napping
+O - ordering oatmeal
+P - pushing people
+Q - quite quarrelsome
+R - riding reindeer
+S - shockingly spoiled
+T - throwing tantrums
+U - usually upside down
+V - very vain
+W - wearing wigs
+X - x-ing x's
+Y - yackety-yacking
+Z - zippity zound
+A - alligators ALL around!
+Alligators ALL around! (Alligators ALL around!)
+Alligators ALL around!
+Alligators ALL around! (Alligators ALL around!)
+Alligators ALL around!
+</song>

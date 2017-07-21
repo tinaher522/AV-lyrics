@@ -1,0 +1,4 @@
+<song artist="Paul_McCartney" title="Welcome_To_Soundcheck">
+(crickets chirping, plane flying in the distance)
+Welcome to soundcheck!
+</song>

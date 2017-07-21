@@ -1,0 +1,3 @@
+<song artist="Paul_McCartney" title="Inner_City_Madness">
+ Instrumental
+</song>

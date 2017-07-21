@@ -1,0 +1,4 @@
+<song artist="Sting" title=""..._And_Accordinge_As_I_Desired_Ther_Cam_A_Letter..."">
+spoken:
+...And according as I desired, there came a letter to me out of Germany from the Duke of Brunswick, whereupon I spake to your honor and to my Lord of Essex, who willingly gave me both your hands, for which I would be glad if there were any service in me that your honors could command. When I came to the Duke he used me kindly, and gave me a rich chain of gold...with velvet and satin and gold lace to make me apparel, with promise that if I would serve him he would give me as much as any prince in the world...
+</song>

@@ -1,0 +1,9 @@
+<song artist="Ozzy_Osbourne" title="Dog,_The_Bounty_Hunter">
+There's fear and darkness all around you,
+The criminals are on the run.
+No use in hiding in the dark,
+I'll hunt you down 'cause I'm the dog.
+I'm the dog,
+The big bad dog.
+The bounty hunter.
+</song>

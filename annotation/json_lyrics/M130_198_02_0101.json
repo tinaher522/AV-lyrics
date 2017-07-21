@@ -1,0 +1,476 @@
+[
+    {
+        "end": 7.259995079040527, 
+        "index": 1, 
+        "lyric": "I don't like the way he's looking at you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 2.8239111423492425, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 13.781166982650756, 
+        "index": 2, 
+        "lyric": "I'm starting to think you want him too\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 9.263029003143304, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 18.25389895439148, 
+        "index": 3, 
+        "lyric": "Am I crazy, have I lost you?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 14.072826147079468, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 22.776696062088014, 
+        "index": 4, 
+        "lyric": "Even though I know you love me, can't help it\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 17.910063123702997, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 27.052588081359865, 
+        "index": 5, 
+        "lyric": "I turn my chin music up\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 22.904693126678467, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 29.581526041030884, 
+        "index": 6, 
+        "lyric": "And I'm puffing my chest\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 26.862527942657465, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 32.66669015884399, 
+        "index": 7, 
+        "lyric": "I'm getting red in the face\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 29.324912166595453, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 35.5991101265, 
+        "index": 8, 
+        "lyric": "You can call me obsessed\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 32.5609431267, 
+        "transcription": "You call me obsessed\n", 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 39.12506709098816, 
+        "index": 9, 
+        "lyric": "It's not your fault that they hover\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 35.32820796966552, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 41.5043830871582, 
+        "index": 10, 
+        "lyric": "I mean no disrespect\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 39.157865047454834, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 45.1175000667572, 
+        "index": 11, 
+        "lyric": "It's my right to be hellish\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 41.647403955459595, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 48.71008801460266, 
+        "index": 12, 
+        "lyric": "I still get jealous\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 45.25573205947876, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 51.58244614601136, 
+        "index": 13, 
+        "lyric": "you're too sexy, beautiful\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 48.342632055282586, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 54.000288009643555, 
+        "index": 14, 
+        "lyric": "everybody wants a taste\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 51.531049966812134, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 56.64759511947632, 
+        "index": 15, 
+        "lyric": "That's why\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 53.61726999282836, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 60.49127912521362, 
+        "index": 16, 
+        "lyric": "I still get jealous\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 56.62692999839783, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 63.5106579781, 
+        "index": 17, 
+        "lyric": "'Cause you're too sexy, beautiful\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 60.2187939644, 
+        "transcription": "you're too sexy, beautiful\n", 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 65.84009714126586, 
+        "index": 18, 
+        "lyric": "everybody wants a taste\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 63.28260998725891, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 68.56161413192748, 
+        "index": 19, 
+        "lyric": "That's why\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 65.74811902046204, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 72.61387009620665, 
+        "index": 20, 
+        "lyric": "I still get jealous\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 68.57852101325989, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 79.46597094535826, 
+        "index": 21, 
+        "lyric": "I wish you didn't have to post it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 74.91874203681934, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 85.93816304206848, 
+        "index": 22, 
+        "lyric": "I wish you'd save a little bit just for me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 80.86975512504571, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 91.12828712463372, 
+        "index": 23, 
+        "lyric": "possessive or Protective yeah\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 86.42026996612549, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 94.89792513847354, 
+        "index": 24, 
+        "lyric": "Call it passive or aggressive\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 90.69196410179134, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 98.2571241378784, 
+        "index": 25, 
+        "lyric": "I turn my chin music up\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 94.65443110466009, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 100.62748894691467, 
+        "index": 26, 
+        "lyric": "And I'm puffing my chest\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 98.25322213172913, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 103.48903098106385, 
+        "index": 27, 
+        "lyric": "I'm getting red in the face\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 100.64426612854004, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 106.414074039, 
+        "index": 28, 
+        "lyric": "You can call me obsessed\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 103.242821932, 
+        "transcription": "You call me obsessed\n", 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 109.93384108543395, 
+        "index": 29, 
+        "lyric": "It's not your fault that they hover\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 105.98416304588321, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 112.71251006126403, 
+        "index": 30, 
+        "lyric": "I mean no disrespect\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 109.76106600761415, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 115.81265912055969, 
+        "index": 31, 
+        "lyric": "It's my right to be hellish\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 112.49498801231385, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 119.1259971141815, 
+        "index": 32, 
+        "lyric": "I still get jealous\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 115.6946421146393, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 122.2509401321411, 
+        "index": 33, 
+        "lyric": "you're too sexy, beautiful\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 118.90992412567141, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 124.534508085, 
+        "index": 34, 
+        "lyric": "And everybody wants a taste\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 121.857362938, 
+        "transcription": "everybody wants a taste\n", 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 127.26177015304563, 
+        "index": 35, 
+        "lyric": "That's why\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 124.2765039920807, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 131.17420306205747, 
+        "index": 36, 
+        "lyric": "I still get jealous\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 127.29673099517822, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 134.1158511161804, 
+        "index": 37, 
+        "lyric": "you're too sexy, beautiful\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 130.68811607360843, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 136.34509110450745, 
+        "index": 38, 
+        "lyric": "everybody wants a taste\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 133.8076080799103, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 138.83352799415587, 
+        "index": 39, 
+        "lyric": "That's why\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 136.12995309829714, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 143.39230494499205, 
+        "index": 40, 
+        "lyric": "I still get jealous\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 138.96577095985413, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 150.58881397247313, 
+        "index": 41, 
+        "lyric": "You're the only one invited\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 144.238018989563, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 156.31430511474608, 
+        "index": 42, 
+        "lyric": "I said there's no one else for you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 150.9233250617981, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 162.302898979187, 
+        "index": 43, 
+        "lyric": "'Cause you know I get excited\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 156.37622714042664, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 165.36139893531802, 
+        "index": 44, 
+        "lyric": "When you get jealous too\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 162.39996194839478, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 168.81501398086547, 
+        "index": 45, 
+        "lyric": "I turn my chin music up\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 165.05325913429266, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 171.15828695297242, 
+        "index": 46, 
+        "lyric": "And I'm puffing my chest\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 168.89447712898254, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 174.105408955, 
+        "index": 47, 
+        "lyric": "I'm turning red in the face\n", 
+        "repeat": 0, 
+        "start": 170.929773092, 
+        "transcription": "I'm getting red in the face\n", 
+        "wavfile": "M130_198_02_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 177.075261116, 
+        "index": 48, 
+        "lyric": "You can call me obsessed\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 174.980044985, 
+        "transcription": "call me obsessed\n", 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 180.58648405075073, 
+        "index": 49, 
+        "lyric": "It's not your fault that they hover\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 176.8131521701813, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 183.14174304008483, 
+        "index": 50, 
+        "lyric": "I mean no disrespect\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 180.44053797721864, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 186.4463840484619, 
+        "index": 51, 
+        "lyric": "It's my right to be hellish\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 183.1715889453888, 
+        "wavfile": "M130_198_02_0101"
+    }, 
+    {
+        "end": 192.90269207954407, 
+        "index": 52, 
+        "lyric": "I still I still get jealous\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 186.12235913276675, 
+        "wavfile": "M130_198_02_0101"
+    }
+]

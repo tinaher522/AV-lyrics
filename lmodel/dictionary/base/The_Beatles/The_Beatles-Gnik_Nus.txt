@@ -1,0 +1,7 @@
+<song artist="The_Beatles" title="Gnik_Nus">
+Gnik nus eht semoc ereh
+Gnik nus eht semoc ereh
+Gnihgual s'ydobyreve
+Yppah s'ydobyreve
+Gnik nus eht semoc ereh
+</song>

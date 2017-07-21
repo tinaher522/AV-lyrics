@@ -1,0 +1,14 @@
+<song artist="Neil_Diamond" title="Shabbat_Shalom">
+Shabbat shalom
+Shabbat shalom
+Shabbat, Shabbat shalom
+Shabbat shalom
+Shabbat shalom
+Shabbat, Shabbat shalom
+Shabbat shalom
+Shabbat shalom
+Shabbat, Shabbat shalom
+Shabbat shalom
+Shabbat shalom
+Shabbat, Shabbat shalom
+</song>

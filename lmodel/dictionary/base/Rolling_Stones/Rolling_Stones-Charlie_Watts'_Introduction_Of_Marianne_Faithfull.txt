@@ -1,0 +1,3 @@
+<song artist="Rolling_Stones" title="Charlie_Watts'_Introduction_Of_Marianne_Faithfull">
+And now I'd like to welcome our next guest, the beautiful Miss Marianne Faithfull.
+</song>

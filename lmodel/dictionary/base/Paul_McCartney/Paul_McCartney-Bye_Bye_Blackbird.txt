@@ -1,0 +1,23 @@
+<song artist="Paul_McCartney" title="Bye_Bye_Blackbird">
+Blackbird, blackbird, singing the blues all day
+Right outside my door
+Blackbird, blackbird, I gotta be on my way
+... the sun shines once more.
+I pack up all my cares and woes
+Here I go, singing low
+Bye bye, blackbird.
+Where somebody waits for me
+Sugar's sweet and so is she
+Bye bye, blackbird.
+No one here can love or understand me
+Oh, what hard luck stories they all hand me.
+I'll make my bed and light the light
+I'll arrive late tonight
+Blackbird, bye bye.
+No one here can love or understand me
+Oh, what hard luck stories they all hand me.
+I'll make my bed and light the light
+I'll be home late tonight
+Blackbird, oh blackbird
+Blackbird, bye bye.
+</song>

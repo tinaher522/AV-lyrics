@@ -1,0 +1,14 @@
+<song artist="Nobuo_Uematsu" title="Mon_P'tit_Chat">
+Un petit garçon, bien sage,
+Aurait bien voulu savoir,
+Comme tout enfants de son âge
+Comment rencontrer la fée.
+Celle des livres d’images
+Qui punit tous les méchants.
+Ou bien la fée des voyages
+Qui protège les pauvres gens.
+Pourvu qu’il rencontre une fée,
+Il lui dirait :
+« Madame, pouvez-vous m’aider
+À retrouver et ramener mon p’tit chat ? »
+</song>

@@ -1,0 +1,5 @@
+<song artist="Marvin_Gaye" title="Life_Is_A_Gamble">
+Life is a gamble, oh, oh baby
+Where you win all rules
+I'm right, just paid my due
+</song>

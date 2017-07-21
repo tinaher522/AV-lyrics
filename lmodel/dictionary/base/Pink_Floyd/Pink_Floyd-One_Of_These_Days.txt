@@ -1,0 +1,5 @@
+<song artist="Pink_Floyd" title="One_Of_These_Days">
+ Instrumental
+spoken:
+One of these days, I'm going to cut you into little pieces!
+</song>

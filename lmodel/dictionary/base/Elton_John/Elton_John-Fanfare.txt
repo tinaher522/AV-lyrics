@@ -1,0 +1,3 @@
+<song artist="Elton_John" title="Fanfare">
+ Instrumental
+</song>

@@ -1,0 +1,8 @@
+<song artist="Janet_Jackson" title="Interlude:_Fasten_Your_Seatbelts">
+"I'm sorry"
+"Now you can say it"
+"What am I suppose to say?"
+"Chris is so cute"
+"But you're on Blanche, you're on"
+"Fasten your seatbelts darling, it's gonna be a bumpy ride"
+</song>

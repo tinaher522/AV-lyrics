@@ -1,0 +1,461 @@
+[
+    {
+        "end": 14.041754102706909, 
+        "index": 1, 
+        "lyric": "I used to bite my tongue and hold my breath\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 10.448661184310902, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 16.899937057495123, 
+        "index": 2, 
+        "lyric": "Scared to rock the boat and make a mess\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 13.890534210205079, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 19.374005174636842, 
+        "index": 3, 
+        "lyric": "So I sat quietly\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 16.65919508934021, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 21.900093984603885, 
+        "index": 4, 
+        "lyric": "Agreed politely\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 19.456593990325928, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 24.96086416244507, 
+        "index": 5, 
+        "lyric": "I guess that I forgot I had a choice\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 22.043979167938232, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 27.78902921676636, 
+        "index": 6, 
+        "lyric": "I let you push me past the breaking point\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 24.70124311447143, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 30.30339212417603, 
+        "index": 7, 
+        "lyric": "I stood for nothing\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 27.807182216644286, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 32.937153101, 
+        "index": 8, 
+        "lyric": "So I fell for everything\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 30.3090701103, 
+        "transcription": "So I lost everything\n", 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 35.718914127349855, 
+        "index": 9, 
+        "lyric": "You held me down, but I got up\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 32.56455516815185, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 38.2675641537, 
+        "index": 10, 
+        "lyric": "Already brushing off the dust\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 35.6675549984, 
+        "transcription": "Get ready 'cause I've had enough", 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 41.15329418182373, 
+        "index": 11, 
+        "lyric": "You hear my voice, you hear that sound\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 38.015973997116085, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 43.651652097702026, 
+        "index": 12, 
+        "lyric": "Like thunder gonna shake the ground\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 41.13391103744507, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 46.5059910774231, 
+        "index": 13, 
+        "lyric": "You held me down, but I got up\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 43.325455188751214, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 49.06337518692017, 
+        "index": 14, 
+        "lyric": "Get ready 'cause I've had enough\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 46.54929208755493, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 50.2425120831, 
+        "index": 15, 
+        "lyric": "I see it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 48.901294136, 
+        "transcription": "I see it all\n", 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 51.898716068267824, 
+        "index": 16, 
+        "lyric": "I see it now\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 50.10183720588684, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 56.679388999938965, 
+        "index": 17, 
+        "lyric": "I got the eye of the tiger, a fighter\n", 
+        "repeat": 0, 
+        "start": 51.9474720954895, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 59.26811408996582, 
+        "index": 18, 
+        "lyric": "Dancing through the fire\n", 
+        "repeat": 0, 
+        "start": 56.85217499732971, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 61.910752058029175, 
+        "index": 19, 
+        "lyric": "'Cause I am a champion\n", 
+        "repeat": 0, 
+        "start": 59.43284511566162, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 65.97799305915834, 
+        "index": 20, 
+        "lyric": "And you're gonna hear me roar\n", 
+        "repeat": 0, 
+        "start": 62.158565044403076, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 69.82825517654419, 
+        "index": 21, 
+        "lyric": "Louder, louder than a lion\n", 
+        "repeat": 0, 
+        "start": 66.04057002067572, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 72.76855611801147, 
+        "index": 22, 
+        "lyric": "'Cause I am a champion\n", 
+        "repeat": 0, 
+        "start": 70.03636717796326, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 76.71859216690063, 
+        "index": 23, 
+        "lyric": "And you're gonna hear me roar\n", 
+        "repeat": 0, 
+        "start": 73.01007604598999, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 87.42085499763488, 
+        "index": 24, 
+        "lyric": "You're gonna hear me roar\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 83.27249007225038, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 94.37015900611877, 
+        "index": 25, 
+        "lyric": "Now I'm floating like a butterfly\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 91.2094202041626, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 97.14495906829833, 
+        "index": 26, 
+        "lyric": "Stinging like a bee, I earned my stripes\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 94.12576303482058, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 99.70472512245178, 
+        "index": 27, 
+        "lyric": "I went from zero\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 97.18430304527283, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 102.21223711967468, 
+        "index": 28, 
+        "lyric": "To my own hero\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 99.78496599197388, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 105.01930413246154, 
+        "index": 29, 
+        "lyric": "You held me down, but I got up\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 102.03961319923403, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 107.5726390838623, 
+        "index": 30, 
+        "lyric": "Get ready 'cause I've had enough\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 105.04141306877136, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 110.39116702079772, 
+        "index": 31, 
+        "lyric": "You hear my voice, you hear that sound\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 107.31066913604738, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 112.76035213470459, 
+        "index": 32, 
+        "lyric": "Like thunder gonna shake the ground\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 110.40331020355225, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 115.51187205314636, 
+        "index": 33, 
+        "lyric": "You held me down, but I got up\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 112.51060900688174, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 118.09151110649108, 
+        "index": 34, 
+        "lyric": "Get ready 'cause I've had enough\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 115.67824816703796, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 119.42003998800003, 
+        "index": 35, 
+        "lyric": "I see it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 117.913785028, 
+        "transcription": "see it all\n", 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 120.83712706565856, 
+        "index": 36, 
+        "lyric": "I see it now\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 119.26048107147221, 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 125.67119216918945, 
+        "index": 37, 
+        "lyric": "I got the eye of the tiger, a fighter\n", 
+        "repeat": 0, 
+        "start": 120.96250705718995, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 128.12585616111755, 
+        "index": 38, 
+        "lyric": "Dancing through the fire\n", 
+        "repeat": 0, 
+        "start": 125.80922508239746, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 130.9672451019287, 
+        "index": 39, 
+        "lyric": "'Cause I am a champion\n", 
+        "repeat": 0, 
+        "start": 128.39745807647705, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 135.2024531364441, 
+        "index": 40, 
+        "lyric": "And you're gonna hear me roar\n", 
+        "repeat": 0, 
+        "start": 131.15863704681396, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 138.6009320735931, 
+        "index": 41, 
+        "lyric": "Louder, louder than a lion\n", 
+        "repeat": 0, 
+        "start": 135.8340561389923, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 141.09607815742493, 
+        "index": 42, 
+        "lyric": "'Cause I am a champion\n", 
+        "repeat": 0, 
+        "start": 138.68790817260742, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 145.65888118743896, 
+        "index": 43, 
+        "lyric": "And you're gonna hear me roar\n", 
+        "repeat": 0, 
+        "start": 141.2880551815033, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 155.3541100025177, 
+        "index": 44, 
+        "lyric": "You're gonna hear me roar\n", 
+        "repeat": 0, 
+        "start": 151.87651910781827, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 167.27632017099998, 
+        "index": 45, 
+        "lyric": "You're gonna hear me roar\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 162.034018183, 
+        "transcription": "I got the eye of the tiger, a fighter", 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 169.696014023, 
+        "index": 46, 
+        "lyric": "I got the eye of the tiger, a fighter\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 167.08675818400002, 
+        "transcription": "Dancing through the fire", 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 172.597052193, 
+        "index": 47, 
+        "lyric": "Dancing through the fire\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 169.455434036, 
+        "transcription": "'Cause I am a champion", 
+        "wavfile": "F083_180_01_0101"
+    }, 
+    {
+        "end": 177.936258078, 
+        "index": 48, 
+        "lyric": "'Cause I am a champion\n", 
+        "repeat": 0, 
+        "start": 172.684432983, 
+        "transcription": "And you're gonna hear me roar", 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 188.66052412986755, 
+        "index": 49, 
+        "lyric": "And you're gonna hear me roar\n", 
+        "repeat": 0, 
+        "start": 182.906634044647, 
+        "wavfile": "F083_180_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 198.99921317099998, 
+        "index": 50, 
+        "lyric": "And you're gonna hear me roar\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 193.376302004, 
+        "transcription": "you're gonna hear me roar", 
+        "wavfile": "F083_180_01_0101"
+    }
+]

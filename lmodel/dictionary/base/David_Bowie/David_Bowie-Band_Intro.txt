@@ -1,0 +1,5 @@
+<song artist="David_Bowie" title="Band_Intro">
+Richie Grando, Dave Sanborn, Herbie Flowers, Tony Newman
+
+Earl Slick, Mike Kamen, Mike Garson, Pablo Rosario
+</song>

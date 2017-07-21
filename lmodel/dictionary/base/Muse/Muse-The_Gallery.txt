@@ -1,0 +1,3 @@
+<song artist="Muse" title="The_Gallery">
+ Instrumental
+</song>

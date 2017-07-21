@@ -1,0 +1,6 @@
+<song artist="Paul_McCartney" title="The_Lovely_Linda">
+La la la la la the lovely Linda 
+With the lovely flowers in her hair
+La la la la la the lovely Linda 
+With the lovely flowers in her hair
+</song>

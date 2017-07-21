@@ -1,0 +1,3 @@
+<song artist="Blur" title="Anniversary_Waltz">
+ Instrumental
+</song>

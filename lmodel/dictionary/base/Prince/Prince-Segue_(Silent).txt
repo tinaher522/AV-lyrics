@@ -1,0 +1,3 @@
+<song artist="Prince" title="Segue_(Silent)">
+ Instrumental
+</song>

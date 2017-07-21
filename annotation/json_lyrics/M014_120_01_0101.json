@@ -1,0 +1,386 @@
+[
+    {
+        "end": 28.282517004013066, 
+        "index": 1, 
+        "lyric": "Hello\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 26.221972990036015, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 32.18272690773011, 
+        "index": 2, 
+        "lyric": "Is there anybody in there?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 28.89527492523193, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 35.238358926773074, 
+        "index": 3, 
+        "lyric": "Just nod if you can hear me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 32.40459489822387, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 40.581416893000004, 
+        "index": 4, 
+        "lyric": "Is there anyone home?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 36.2988729477, 
+        "transcription": "Is there anyone at home?\n", 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 43.66624779701233, 
+        "index": 5, 
+        "lyric": "Come on now\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 40.571060991287226, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 46.95644087791443, 
+        "index": 6, 
+        "lyric": "I hear you're feeling down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 43.57154278755188, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 50.8647828578949, 
+        "index": 7, 
+        "lyric": "I can ease your pain\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 47.30304188728333, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 54.3675817966, 
+        "index": 8, 
+        "lyric": "And get you on your feet again\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 50.6408969402, 
+        "transcription": "Get you on your feet again\n", 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 56.59844799041748, 
+        "index": 9, 
+        "lyric": "Relax\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 54.990966987609866, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 61.51490993499756, 
+        "index": 10, 
+        "lyric": "I'll need some information first\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 57.22234582901001, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 64.69884495735167, 
+        "index": 11, 
+        "lyric": "Just the basic facts\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 61.728593826293945, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 68.60076885223387, 
+        "index": 12, 
+        "lyric": "Can you show me where it hurts?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 64.74997782707214, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 74.5519058227539, 
+        "index": 13, 
+        "lyric": "There is no pain, you are receding\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 68.92585301399231, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 81.50318579673765, 
+        "index": 14, 
+        "lyric": "A distant ship smoke on the horizon\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 75.14353699684142, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 87.88457493782042, 
+        "index": 15, 
+        "lyric": "You are only coming through in waves\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 82.60013594627378, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 95.43633184432983, 
+        "index": 16, 
+        "lyric": "Your lips move but I can't hear what you're saying\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 89.36368494033806, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 102.60403580665587, 
+        "index": 17, 
+        "lyric": "When I was a child I had a fever\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 96.15660190582273, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 109.14272899627684, 
+        "index": 18, 
+        "lyric": "My hands felt just like two balloons\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 103.10873484611511, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 116.1407169818878, 
+        "index": 19, 
+        "lyric": "Now I've got that feeling once again\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 110.13777184486389, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 120.51327486038207, 
+        "index": 20, 
+        "lyric": "I can't explain, you would not understand\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 115.97808299064639, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 123.61996979713439, 
+        "index": 21, 
+        "lyric": "This is not how I am\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 120.2331919193268, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 135.37100501060485, 
+        "index": 22, 
+        "lyric": "I have become comfortably numb\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 124.65423798561093, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 142.50937490463255, 
+        "index": 23, 
+        "lyric": "O.K.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 140.46640291213967, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 146.40544099807735, 
+        "index": 24, 
+        "lyric": "Just a little pinprick\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 142.66919684410095, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 148.59516286849976, 
+        "index": 25, 
+        "lyric": "There'll be no more \n", 
+        "repeat": 0, 
+        "start": 146.97438497543337, 
+        "wavfile": "M014_120_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 154.38683686299998, 
+        "index": 26, 
+        "lyric": "But you may feel a little sick\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 151.09273800799997, 
+        "transcription": "You may feel a little sick\n", 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 156.81779799461364, 
+        "index": 27, 
+        "lyric": "Can you stand up?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 154.79675478935243, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 161.9293379306793, 
+        "index": 28, 
+        "lyric": "I do believe it's working, good\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 157.26561188697815, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 165.66866393089293, 
+        "index": 29, 
+        "lyric": "That'll keep you going through the show\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 161.8461819648743, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 169.56569595336913, 
+        "index": 30, 
+        "lyric": "Come on it's time to go\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 165.60298886299134, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 175.64604682922362, 
+        "index": 31, 
+        "lyric": "There is no pain, you are receding\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 169.6104549407959, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 182.9171028614044, 
+        "index": 32, 
+        "lyric": "A distant ship smoke on the horizon\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 177.20517787933343, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 189.60007586479185, 
+        "index": 33, 
+        "lyric": "You are only coming through in waves\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 183.39735889434814, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 197.69335389137268, 
+        "index": 34, 
+        "lyric": "Your lips move but I can't hear what you're saying\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 190.65578789710992, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 201.93469581604003, 
+        "index": 35, 
+        "lyric": "When I was a child\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 198.41872096061707, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 204.86852297782897, 
+        "index": 36, 
+        "lyric": "I caught a fleeting glimpse\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 201.89099292755128, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 211.9421847820282, 
+        "index": 37, 
+        "lyric": "Out of the corner of my eye\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 206.28680682182312, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 218.34345684051513, 
+        "index": 38, 
+        "lyric": "I turned to look but it was gone\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 212.93384289741516, 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 222.75844388, 
+        "index": 39, 
+        "lyric": "I cannot put my finger on it now\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 217.921924877, 
+        "transcription": "Cannot put my finger on it now\n", 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 224.62443799972533, 
+        "index": 40, 
+        "lyric": "The child is grown\n", 
+        "repeat": 0, 
+        "selected": false, 
+        "start": 222.47052483558656, 
+        "wavfile": "M014_120_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 226.99410390899996, 
+        "index": 41, 
+        "lyric": "The dream is gone\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 224.326122952, 
+        "transcription": "Dream is gone\n", 
+        "wavfile": "M014_120_01_0101"
+    }, 
+    {
+        "end": 238.90573596954346, 
+        "index": 42, 
+        "lyric": "I have become comfortably numb\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 228.1832458496094, 
+        "wavfile": "M014_120_01_0101"
+    }
+]

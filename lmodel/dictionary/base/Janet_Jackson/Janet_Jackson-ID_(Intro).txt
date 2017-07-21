@@ -1,0 +1,9 @@
+<song artist="Janet_Jackson" title="ID_(Intro)">
+Required voice identification.
+Kyoko, it's me.
+Confirmed. Hello Miss Janet. Loading all signals; you are now signed in.
+Thank you.
+Loading Media Player. Select album.
+Discipline
+Confirmed. Discipline now loading. Now playing in 5, 4, 3, 2, 1...
+</song>

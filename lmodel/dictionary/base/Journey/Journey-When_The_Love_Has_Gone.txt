@@ -1,0 +1,3 @@
+<song artist="Journey" title="When_The_Love_Has_Gone">
+ Instrumental
+</song>

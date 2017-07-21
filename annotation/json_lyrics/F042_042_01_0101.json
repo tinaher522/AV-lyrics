@@ -1,0 +1,387 @@
+[
+    {
+        "end": 15.309362983703613, 
+        "index": 1, 
+        "lyric": "You gotta go and get angry at all of my honesty\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 10.795037984848022, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 20.26304898262024, 
+        "index": 2, 
+        "lyric": "You know I try but I don't do too well with apologies\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 15.539427995681763, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 25.208272075653078, 
+        "index": 3, 
+        "lyric": "I hope I don't run out of time, could someone call the referee?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 20.4223370552063, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 30.023282003402713, 
+        "index": 4, 
+        "lyric": "'Cause I just need one more shot at forgiveness\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 25.230464935302734, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 35.5599259853, 
+        "index": 5, 
+        "lyric": "I know you know that I made those mistakes maybe once or twice\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 29.9613480568, 
+        "transcription": "I know you know that I made those mistakes maybe once to twice\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 40.1883809566, 
+        "index": 6, 
+        "lyric": "And by once or twice I mean maybe a couple a hundred times\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 35.7047379017, 
+        "transcription": "by once to twice I mean maybe a couple a hundred times\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 45.27791805267334, 
+        "index": 7, 
+        "lyric": "So let me, oh let me redeem, oh redeem, oh myself tonight\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 40.557379961013794, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 50.29429588317871, 
+        "index": 8, 
+        "lyric": "'Cause I just need one more shot, second chances\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 45.314176082611084, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 55.66752300262451, 
+        "index": 9, 
+        "lyric": "Is it too late now to say sorry?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 51.6534359931946, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 62.396248865100006, 
+        "index": 10, 
+        "lyric": "'Cause I'm missing more than just your body, oh\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 55.8461930752, 
+        "transcription": "'Cause I'm missing more than just to your body, oh\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 65.73804006576538, 
+        "index": 11, 
+        "lyric": "Is it too late now to say sorry?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 62.26102590560913, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 69.4489628791809, 
+        "index": 12, 
+        "lyric": "Yeah, I know that I let you down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 65.74087586402894, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 72.26316695209998, 
+        "index": 13, 
+        "lyric": "Is it too late to say I'm sorry now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 69.21899895669999, 
+        "transcription": "Is too late to say I'm sorry now?\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 77.96209993359997, 
+        "index": 14, 
+        "lyric": "I'm sorry, yeah\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 74.2270699501, 
+        "transcription": "sorry, yeah\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 82.86583986279997, 
+        "index": 15, 
+        "lyric": "So Sorry, yeah\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 78.0285670757, 
+        "transcription": "So Sorry, oh", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 89.61102809906006, 
+        "index": 16, 
+        "lyric": "Sorry Yeah, I know that I let you down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 82.65636897087097, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 93.06010909079995, 
+        "index": 17, 
+        "lyric": "Is it too late to say I'm sorry now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 89.33319091800001, 
+        "transcription": "Is too late to say I'm sorry now?\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 101.11241006851196, 
+        "index": 18, 
+        "lyric": "I'll take every single piece of the blame if you want me to\n", 
+        "repeat": 0, 
+        "start": 96.95238699913003, 
+        "wavfile": "F042_042_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 106.283113909, 
+        "index": 19, 
+        "lyric": "But you know that there is no innocent one in this game for two\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 101.474662066, 
+        "transcription": "you know that there is no innocent one in this game for two\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 111.52313308715819, 
+        "index": 20, 
+        "lyric": "I'll go, I'll go and then you go, you go out and spill the truth\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 106.29605197906494, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 116.37190098762511, 
+        "index": 21, 
+        "lyric": "Can we both say the words and forget this?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 111.38768291473389, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 121.72012991905211, 
+        "index": 22, 
+        "lyric": "Yeah, is it too late now to say sorry?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 116.43609499931335, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 126.674478054, 
+        "index": 23, 
+        "lyric": "'Cause I'm missing more than just your body, oh\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 121.640003014, 
+        "transcription": "'Cause I'm missing more than just to your body", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 131.58344707489013, 
+        "index": 24, 
+        "lyric": "Is it too late now to say sorry?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 127.79639005661005, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 135.32415199279785, 
+        "index": 25, 
+        "lyric": "Yeah, I know that I let you down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 131.6805899143219, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 138.03425998687743, 
+        "index": 26, 
+        "lyric": "Is it too late to say I'm sorry now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 135.16784687042238, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 142.20276198400003, 
+        "index": 27, 
+        "lyric": "I'm not just trying to get you back on me, oh no\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 138.060765982, 
+        "transcription": "I'm not just trying to get you back on me", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 148.58007497799994, 
+        "index": 28, 
+        "lyric": "'Cause I'm missing more than just your body, oh\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 141.79314003, 
+        "transcription": "'Cause I'm missing more than just to your body, oh\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 151.75940594673156, 
+        "index": 29, 
+        "lyric": "Is it too late now to say sorry?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 148.0758819580078, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 155.7588930606842, 
+        "index": 30, 
+        "lyric": "Yeah, I know that I let you down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 151.7975389957428, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 158.467399073, 
+        "index": 31, 
+        "lyric": "Is it too late to say I'm sorry now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 155.386160898, 
+        "transcription": "Is too late to say I'm sorry now?\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 163.32727703999998, 
+        "index": 32, 
+        "lyric": "I'm sorry, yeah\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 158.725342989, 
+        "transcription": "sorry, yeah\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 168.47144603729248, 
+        "index": 33, 
+        "lyric": "So Sorry, oh\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 163.45542001724243, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 172.11366600990294, 
+        "index": 34, 
+        "lyric": "Sorry\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 168.65976095199585, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 175.62863001823425, 
+        "index": 35, 
+        "lyric": "Yeah, I know that I let you down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 172.1017870903015, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 178.53797903099996, 
+        "index": 36, 
+        "lyric": "Is it too late to say I'm sorry now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 175.629659891, 
+        "transcription": "Is too late to say I'm sorry now?\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 183.38803496399998, 
+        "index": 37, 
+        "lyric": "I'm sorry, yeah\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 180.28950109500002, 
+        "transcription": "sorry, yeah\n", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 187.185062885, 
+        "index": 38, 
+        "lyric": "so Sorry oh\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 183.865430069, 
+        "transcription": "so Sorry", 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 192.27193098068236, 
+        "index": 39, 
+        "lyric": "Sorry\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 190.0095980167388, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 195.55194187164307, 
+        "index": 40, 
+        "lyric": "Yeah, I know that I let you down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 191.91238398551943, 
+        "wavfile": "F042_042_01_0101"
+    }, 
+    {
+        "end": 199.01312193870544, 
+        "index": 41, 
+        "lyric": "Is it too late to say I'm sorry now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 195.32197103500368, 
+        "wavfile": "F042_042_01_0101"
+    }
+]

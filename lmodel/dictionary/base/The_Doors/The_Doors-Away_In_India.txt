@@ -1,0 +1,6 @@
+<song artist="The_Doors" title="Away_In_India">
+Away, away, away,
+Away in India.
+Away, away, away,
+Away in India.
+</song>

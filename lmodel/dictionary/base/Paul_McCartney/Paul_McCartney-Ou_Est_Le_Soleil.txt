@@ -1,0 +1,5 @@
+<song artist="Paul_McCartney" title="Ou_Est_Le_Soleil">
+Ou Est Le Soleil, 
+Dans La Tete, 
+Travaillez.
+</song>

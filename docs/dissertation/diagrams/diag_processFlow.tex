@@ -1,0 +1,34 @@
+\tikzstyle{decision} = [diamond, draw, fill=blue!40, 
+    text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{block} = [rectangle, draw, fill=blue!25, 
+    text width=7em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{line} = [draw, -latex']
+\tikzstyle{cloud} = [draw, ellipse,fill=red!20, node distance=3cm,
+    minimum height=2em]
+   
+\begin{tikzpicture}[node distance = 3.5cm, auto]
+    % Place nodes
+    \node [block] (init) {Characteristics Decisions};
+   % \node [cloud, left of=init] (expert) {expert};
+   % \node [cloud, right of=init] (system) {system};
+    \node [block, right of=init] (dcollection) {Data Collection};
+    \node [block, right of=dcollection] (annotation) {Annotation Process};
+   % \node [block, left of=evaluate, node distance=3cm] (update) {update model};
+    \node [block, right of=annotation] (extraction) {Utterance Extraction};
+    \node [block, below of=extraction, node distance = 2.5cm] (modifications) {Utterance Modifications};
+    \node [block, below of=annotation, node distance = 2.5cm] (language) {Language Model};
+    \node [block, left of=language] (acoustic) {Acoustic Model};
+    \node [block, left of=acoustic] (stop) {Train, Dev \& Test Sets};
+    % Draw edges
+    \path [line] (init) -- (dcollection);
+    \path [line] (dcollection) -- (annotation);
+    \path [line] (annotation) -- (extraction);
+    \path [line,dashed] (extraction) -- (modifications);
+    \path [line] (extraction) -- (language);
+    \path [line,dashed] (modifications) -- (language);
+    \path [line] (language) -- (acoustic);
+    \path [line] (acoustic) -- (stop);
+    %\path [line,dashed] (expert) -- (init);
+    %\path [line,dashed] (system) -- (init);
+    %\path [line,dashed] (system) |- (evaluate);
+\end{tikzpicture}

@@ -1,0 +1,240 @@
+001,Oasis - Wonderwall
+002,Adele - Send My Love (To Your New Lover)
+003,Gnarls Barkley - Crazy
+004,Calvin Harris - How Deep Is Your Love
+005,Tracy Chapman - Fast Car
+006,Extreme - More Than Words
+007,Who - Behind Blue Eyes
+008,Birdy - Tee Shirt
+009,Obadiah Parker - Hey Ya
+010,Ellie Goulding - Love Me Like You Do
+011,Lorde - Royals
+012,Zella Day - Seven Nation Army
+013,Robin Thicke - Blurred Lines
+014,Tonic - If You Could Only See
+015,The Beatles - Come Together
+016,The Ramones - Baby I Love You
+017,The Ramones - Pet Sematary
+018,John Mayer - Queen Of California
+019,Queen - Save Me
+020,Blink-182 - Bored To Death
+021,Al Green - Let'S Stay Together
+022,Stevie Wonder - Isn'T She Lovely
+023,Maroon 5 - Sunday Morning
+024,Gotye - Somebody That I Used To Know
+025,The Zutons - Valerie
+026,Justin Timberlake - Suit & Tie
+027,Pharrell Williams - Happy
+028,Sam Smith - Stay With Me
+029,Janet Jackson - Let'S Wait Awhile
+030,The Beatles - Something
+031,Foo Fighters - Learn To Fly
+032,Prince - Purple Rain
+033,Justin Bieber - What Do You Mean
+034,Seal - Kiss From A Rose
+035,Justin Bieber - Love Yourself
+036,50 Cent - 21 Questions
+037,Chris Stapleton - Tennessee Whiskey
+038,Florida Georgia Line - Anything Goes
+039,Rolling Stones - Paint It Black
+040,Jake Bugg - Seen It All
+041,Lady Gaga - Paparazzi
+042,Justin Bieber - Sorry
+043,Nobuo Uematsu - Eyes On Me
+044,James Bay - Let It Go
+045,Temple Of The Dog - Hunger Strike
+046,Bon Jovi - Always
+047,Eric Clapton - Tears In Heaven
+048,Pearl Jam - Black
+049,The Distillers - The Hunger
+050,Bad Religion - You
+051,Bad Religion - Sorrow
+052,Bee Gees - How Deep Is Your Love
+053,Bee Gees - To Love Somebody
+054,Bob Dylan - Hurricane
+055,Bouncing Souls - Kids And Heroes
+056,Carole King - You'Ve Got A Friend
+057,Faith No More - Easy
+058,Guns N' Roses - Don'T Cry
+059,John Lennon - Jealous Guy
+060,Journey - Don'T Stop Believing
+061,Scorpions - Send Me An Angel
+062,Survivor - Eye Of The Tiger
+063,The Cure - Friday I'M In Love
+064,The Offspring - Want You Bad
+065,Whitesnake - Is This Love
+066,Peter Cetera - Glory Of Love
+067,Gorillaz - Feel Good Inc.
+068,Partynextdoor - Come & See Me
+069,Rihanna - Consideration
+070,Adele - All I Ask
+071,Banks - Bette
+072,Alessia Cara - Here
+073,Outkast - Hey Ya!
+074,Zayn - Pillow Talk
+075,Lukas Graham - 7 Years
+076,Zara Larsson & Mnek - Never Forget You
+077,Omi - Cheerleader
+078,Shawn Mendes - Stitches
+079,Grimes - Flesh Without Blood
+042,Justin Bieber - Sorry
+035,Justin Bieber - Love Yourself
+080,Beyonce - Runnin'
+080,Beyonce - Runnin'
+004,Calvin Harris - How Deep Is Your Love
+081,Adele - Hello
+035,Justin Bieber - Love Yourself
+082,Sam Smith - La La La
+083,Major Lazer - Lean On
+084,Sam Smith - Writing'S On The Wall
+085,The Neighbourhood - Rip 2 My Youth
+086,Lianne La Havas - Ghost
+087,Jamie Lawson - Wasn'T Expecting That
+088,Alunageorge - You Know You Like It
+089,Rihanna - Man Down
+090,K. Michelle - Love 'Em All
+091,Cody Simpson - Free
+092,Years & Years - Shine
+093,Kygo - Firestone
+094,Miguel - Quickie
+095,Years & Years - King
+096,Lionel Richie - All Night Long
+044,James Bay - Let It Go
+097,Marlon Roudette - When The Beat Drops Out
+098,Rihanna - Fourfive Seconds
+099,Charli Xcx - Doing It
+098,Rihanna - Fourfive Seconds
+100,Foo Fighters - Everlong
+047,Eric Clapton - Tears In Heaven
+101,John Mayer - The Age Of Worry
+102,Amy Winehouse - Back To Black
+103,Rihanna - Higher
+104,Pixies - Where Is My Mind?
+105,Nirvana - Smells Like Teen Spirit
+081,Adele - Hello
+106,Ed Sheeran - Don'T
+107,Ed Sheeran - All Of The Stars
+108,Red Hot Chili Peppers - Under The Bridge
+109,Led Zeppelin - Stairway To Heaven
+001,Oasis - Wonderwall
+110,Five For Fighting - Superman
+111,David Bowie - Heroes
+112,Creed - My Sacrifice
+113,Ronan Keating - When You Say Nothing At All
+114,Joan Osborne - One Of Us
+115,Tristan Prettyman - I Was Gonna Marry You
+116,Beyonce - Resentment
+117,Bruno Mars - Locked Out Of Heaven
+118,Elton John - Tiny Dancer
+119,Foo Fighters - My Hero
+120,Pink Floyd - Comfortably Numb
+121,Radiohead - Creep
+122,The Doors - Light My Fire
+123,Elton John - Your Song
+047,Eric Clapton - Tears In Heaven
+124,Leonard Cohen - Hallelujah
+125,The Beatles - From Me To You
+126,The Beatles - Let It Be
+127,Ed Sheeran - Kiss Me
+128,5 Seconds Of Summer - She'S Kinda Hot
+129,Maroon 5 - Sugar
+130,U2 - Ordinary Love
+131,Coldplay - Midnight
+132,Bring Me The Horizon - Drown
+133,Linkin Park - Final Masquerade
+134,A Day To Remember - All I Want
+135,Rihanna - We Found Love
+136,Tori Amos - Winter
+137,The Police - Every Breath You Take
+138,Lionel Richie - Hello
+139,Adele - Someone Like You
+001,Oasis - Wonderwall
+140,Rihanna - Work
+141,Katy Perry - Legendary Lovers
+142,Sia - Elastic Heart
+143,Jazmine Sullivan - Stupid Girl
+144,Jennifer Hudson - Trouble
+145,Tove Lo - Habits (Stay High)
+146,John Newman - Blame
+147,Taylor Swift - Blank Space
+148,Grades - Crocodile Tears
+149,Sam Smith - I'M Not The Only One
+150,Magic! - Rude
+151,Jessie J - Bang Bang
+152,Kwabs - Wrong Or Right
+153,Kacey Musgraves - Follow Your Arrow
+154,Raleigh Ritchie - Stronger Than Ever
+155,Rita Ora - I Will Never Let You Down
+156,Ed Sheeran - Thinking Out Loud
+157,Bruno Mars - Gorilla
+158,Michael Jackson - Love Never Felt So Good
+159,Beyonce - Pretty Hurts
+158,Michael Jackson - Love Never Felt So Good
+160,Coldplay - Magic
+161,Kiesza - Hideaway
+155,Rita Ora - I Will Never Let You Down
+162,Ellie Goulding - Beating Heart
+163,Jhené Aiko - The Worst
+164,Pixie Lott - Nasty
+165,A Great Big World - Say Something
+166,Beyonce - Mine
+167,Ne-Yo - Let Me Love You
+168,Miguel - Adorn
+169,Miguel - Do You
+170,Rihanna - Stay
+171,Macklemore - Can'T Hold Us
+172,Bon Iver - I Can'T Make You Love Me
+173,J. Cole - Workout
+174,Frank Ocean - Swim Good
+175,Marvin Gaye - Let'S Get It On
+176,Adele - Skyfall
+177,Jessie Ware - Night Light
+178,Disclosure - Latch
+179,Taylor Swift - I Knew You Were Trouble
+180,Katy Perry - Roar
+181,Onerepublic - Counting Stars
+182,Imagine Dragons - Demons
+183,Onerepublic - If I Lose Myself
+184,5 Seconds Of Summer - She Looks So Perfect
+185,Katy B - Crying For No Reason
+186,Jason Derulo - Trumpets
+081,Adele - Hello
+010,Ellie Goulding - Love Me Like You Do
+187,John Legend - All Of Me
+188,Alan Walker - Faded
+189,Justin Bieber - What Do You Mean?
+126,The Beatles - Let It Be
+190,Flume - Never Be Like You
+070,Adele - All I Ask
+191,Kodaline - All I Want
+087,Jamie Lawson - Wasn'T Expecting That
+042,Justin Bieber - Sorry
+084,Sam Smith - Writing'S On The Wall
+192,Jamie Xx - Loud Places
+193,Birdy - Wings
+181,Onerepublic - Counting Stars
+194,Nick Jonas - Jealous
+195,Selena Gomez - The Heart Wants What It Wants
+196,Onerepublic - I Lived
+197,Naughty Boy - Home
+198,Pharrell Williams - Lost Queen
+199,Disclosure - White Noise
+200,Ed Sheeran - Give Me Love
+201,Passenger - Let Her Go
+202,Lianne La Havas - Gone
+203,The Lumineers - Stubborn Love
+204,Imagine Dragons - Radioactive
+205,The Wanted - Glad You Came
+206,Owl City - Good Time
+207,Justin Bieber - As Long As You Love Me
+208,Jessie Ware - Wildest Moments
+209,Tom Petty - Free Fallin'
+210,Calvin Harris - I Need Your Love
+193,Birdy - Wings
+211,Emeli Sandé - Free
+212,Ellie Goulding - How Long Will I Love You
+160,Coldplay - Magic
+140,Rihanna - Work
+042,Justin Bieber - Sorry
+005,Tracy Chapman - Fast Car
+213,Adele - Rolling In The Deep

@@ -1,0 +1,338 @@
+[
+    {
+        "end": 17.840684986114496, 
+        "index": 1, 
+        "lyric": "I'm always screaming my lungs out 'til my head starts spinning.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 12.673400068283085, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 22.009924983978273, 
+        "index": 2, 
+        "lyric": "Playing my songs is the way I cope with life.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 17.578692150115955, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 24.013181066513063, 
+        "index": 3, 
+        "lyric": "Won't keep my voice down.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 21.563148975372307, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 28.362720108032228, 
+        "index": 4, 
+        "lyric": "Know the words I speak are the thoughts I think out loud.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 23.543764019012443, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 30.661360025405884, 
+        "index": 5, 
+        "lyric": "I like to keep things honest.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 28.09011216163635, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 33.47374811172485, 
+        "index": 6, 
+        "lyric": "I'm a set bet, like you life's staked on it.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 30.456976127624507, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 36.81830806732177, 
+        "index": 7, 
+        "lyric": "For real, I'd hate to keep you all wondering.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 33.2693730354309, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 40.0209301949, 
+        "index": 8, 
+        "lyric": "I'm constant like the seasons, and I will never be forgotten, man.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 36.7140100002, 
+        "transcription": "I'm constant like the seasons, and I will never be forgotten", 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 46.609473133087164, 
+        "index": 9, 
+        "lyric": "Let's leave no words unspoken, and save regrets for the broken.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 40.332470035552966, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 52.21777195930481, 
+        "index": 10, 
+        "lyric": "Will you even look back when you think of me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 46.368688106536865, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 59.293889141082765, 
+        "index": 11, 
+        "lyric": "All I want is a place to call my own to mend the hearts on everyone who feels alone.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 52.485591173172, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 65.31836709976196, 
+        "index": 12, 
+        "lyric": "You know to keep your hopes up high and your head down low.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 59.34552311897278, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 73.20451517105101, 
+        "index": 13, 
+        "lyric": "Keep your hopes up high and your head down low.\n", 
+        "repeat": 0, 
+        "selected": false, 
+        "start": 66.82458305358881, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 76.74099516868591, 
+        "index": 14, 
+        "lyric": "Still got something left to prove.\n", 
+        "repeat": 0, 
+        "start": 74.68007297515874, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 83.44479713439941, 
+        "index": 15, 
+        "lyric": "It tends to keep things movin' while everyone around me says my lasts days are looming overhead.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 77.11326918601992, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 85.21017513275152, 
+        "index": 16, 
+        "lyric": "What the hell so they think they know?\n", 
+        "repeat": 0, 
+        "start": 83.08281598091128, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 88.74259114265442, 
+        "index": 17, 
+        "lyric": "I keep my head above water while they drown in the undertow.\n", 
+        "repeat": 0, 
+        "start": 86.54629707336426, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 94.74880013469999, 
+        "index": 18, 
+        "lyric": "Let's leave no words unspoken and save regrets for the broken.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 88.5651130676, 
+        "transcription": "Let's leave no words unspoken, save regrets for the broken.\n", 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 99.88684611320494, 
+        "index": 19, 
+        "lyric": "Will you even look back when you think of me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 94.62533907890321, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 107.1816520690918, 
+        "index": 20, 
+        "lyric": "All I want is a place to call my own to mend the hearts of everyone who feels alone.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 100.25298619270322, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 112.74678301811218, 
+        "index": 21, 
+        "lyric": "You know to keep your hopes up high and your head down low.\n", 
+        "repeat": 0, 
+        "start": 107.29314517974854, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 118.96826014518737, 
+        "index": 22, 
+        "lyric": "All I want is a place to call my own to mend the hearts of everyone who feels alone.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 112.36504511833195, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 127.18106317520142, 
+        "index": 23, 
+        "lyric": "You know to keep your hopes up high and your head down low.\n", 
+        "repeat": 0, 
+        "start": 119.07898497581482, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 140.33456897735596, 
+        "index": 24, 
+        "lyric": "If you take it from me, live your life for yourself.\n", 
+        "repeat": 0, 
+        "start": 134.44579505920413, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 144.21366815567018, 
+        "index": 25, 
+        "lyric": "'Cause when it's all said and done, you don't need anyone else.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 140.08557105064395, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 149.15374417304992, 
+        "index": 26, 
+        "lyric": "Come on.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 144.21460719108583, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 164.82502398490905, 
+        "index": 27, 
+        "lyric": "So let's go back to when everything seemed perfect, not a worry in the world.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 157.84927697181652, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 166.75662302970886, 
+        "index": 28, 
+        "lyric": "So tell me, was it all worth it?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 164.65568609237673, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 169.55958518981933, 
+        "index": 29, 
+        "lyric": "I get what I want, so everyone's always judging me.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 166.22670297622685, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 172.696591091156, 
+        "index": 30, 
+        "lyric": "I'm not afraid of anything, and I've got the whole world in front of me.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 169.17053413391116, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 178.8901271343231, 
+        "index": 31, 
+        "lyric": "All I want is a place to call my own to mend the hearts of everyone who feels alone.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 172.63531017303467, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 184.4492220878601, 
+        "index": 32, 
+        "lyric": "You know to keep your hopes up high and your head down low.\n", 
+        "repeat": 0, 
+        "start": 179.09497213363647, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 190.61215510368345, 
+        "index": 33, 
+        "lyric": "All I want is a place to call my own to mend the hearts of everyone who feels alone.\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 184.61270713806152, 
+        "wavfile": "M020_134_01_0101"
+    }, 
+    {
+        "end": 198.27624917030334, 
+        "index": 34, 
+        "lyric": "You know to keep your hopes up high and your head down low.\n", 
+        "repeat": 0, 
+        "start": 190.6445779800415, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 203.49783897399902, 
+        "index": 35, 
+        "lyric": "Keep your hopes up high and your head down low.\n", 
+        "repeat": 0, 
+        "start": 198.51753401756287, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 210.04365801811218, 
+        "index": 36, 
+        "lyric": "Keep your hopes up high and your head down low.\n", 
+        "repeat": 0, 
+        "start": 203.98320198059082, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 216.73321199417114, 
+        "index": 37, 
+        "lyric": "Keep your hopes up high and your head down low.\n", 
+        "repeat": 0, 
+        "start": 210.2904291152954, 
+        "wavfile": "M020_134_01_0101", 
+        "wrong": true
+    }
+]

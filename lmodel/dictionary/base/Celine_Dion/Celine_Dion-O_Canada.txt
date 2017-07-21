@@ -1,0 +1,18 @@
+<song artist="Celine_Dion" title="O_Canada">
+O Canada!
+Terre de nos aïeux,
+Ton front est ceint
+de fleurons glorieux!
+Car ton bras sait 
+porter l'epée
+Il sait porter la croix!
+Ton histoire est une
+epopée, Des plus
+brillants exploits.
+God keep our land
+glorious and free!
+we stand on guard
+we stand on guard for thee.
+O Canada, we stand on guard
+for thee!
+</song>

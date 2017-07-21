@@ -1,0 +1,18 @@
+<song artist="Neil_Diamond" title="Havah_Nagilah">
+Havah nagilah, havah nagilah
+Havah nagilah v'nismchah
+Havah nagilah, havah nagilah
+Havah nagilah v'nismchah
+Havah n ran' nah, havah nran' nah
+Havah n'ran' nah v'nismcha
+Havah n ran' nah, havah nran' nah
+Havah n'ran' nah v'nismcha
+Uru, uru achim, uru achim
+B'lev sameiach
+Uru achim b'lev sameiach
+Uru achim
+B'lev sameiach
+Uru achim b'lev sameiach
+Uru achim, uru achim
+B'lev sa meiach
+</song>

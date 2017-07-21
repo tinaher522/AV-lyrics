@@ -1,0 +1,15 @@
+<song artist="Elton_John" title="Song_For_Guy">
+Life
+Isn't everything
+Isn't everything
+Isn't everything
+Life
+Isn't everything
+Isn't everything
+Isn't everything
+Life
+Isn't everything
+Isn't everything
+Isn't everything
+Life...
+</song>

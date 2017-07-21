@@ -1,0 +1,7 @@
+<song artist="Prince" title="NPG_Operator_1">
+[Spoken]
+Hello. Welcome to the Dawn.
+Playground for the New Power Generation.
+There are over 500 experiences to choose from.
+Here's a set...
+</song>

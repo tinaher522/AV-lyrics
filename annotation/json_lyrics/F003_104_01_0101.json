@@ -1,0 +1,144 @@
+[
+    {
+        "end": 23.527841901779176, 
+        "index": 1, 
+        "lyric": "With your feet on the air and your head on the ground\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 18.162195920944214, 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 32.4457629204, 
+        "index": 2, 
+        "lyric": "Try this trick and spin it, yeah\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 26.0189589977, 
+        "transcription": "Try this trick can spin it, yeah\n", 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 40.4036408424, 
+        "index": 3, 
+        "lyric": "Your head will collapse if there's nothing in it and you'll ask yourself\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 33.775747776, 
+        "transcription": "And your head will collapse 'cause there's nothing in it, ask yourself\n", 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 46.08780083656311, 
+        "index": 4, 
+        "lyric": "Where is my mind? Where is my mind?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 40.17199082374572, 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 52.01995596885681, 
+        "index": 5, 
+        "lyric": "Where is my mind?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 45.83446288108825, 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 58.84960079193115, 
+        "index": 6, 
+        "lyric": "I was swimming in the Caribbean\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 53.74935088157653, 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 67.5638548851013, 
+        "index": 7, 
+        "lyric": "Animals were hiding behind the rock\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 60.714349985122695, 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 75.2997047901, 
+        "index": 8, 
+        "lyric": "Except for one little fish, bump into me I swear he's trying to talk to me coy Koi\n", 
+        "repeat": 0, 
+        "start": 68.8446547985, 
+        "transcription": "Except for little fish, bump into me I swear he's trying to talk to me coy Koi\n", 
+        "wavfile": "F003_104_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 81.42206292152403, 
+        "index": 9, 
+        "lyric": "Where is my mind? Where is my mind?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 75.14773888587953, 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 87.3493360042572, 
+        "index": 10, 
+        "lyric": "Where is my mind? \n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 80.80206885337833, 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 112.45942797699998, 
+        "index": 11, 
+        "lyric": "With your feet on the air and your head on the ground\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 106.004381847, 
+        "transcription": "So, with your feet on the air, head on the ground\n", 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 118.973833799, 
+        "index": 12, 
+        "lyric": "Try this trick and spin it\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 114.194676876, 
+        "transcription": "Try this trick can spin it\n", 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 127.978677988, 
+        "index": 13, 
+        "lyric": "Your head will collapse if there's nothing in it and you'll ask yourself\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 121.738591909, 
+        "transcription": "And your head will collapse 'cause there's nothing in it, ask yourself\n", 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 131.50998187099998, 
+        "index": 14, 
+        "lyric": "Where is my mind?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 128.265201855, 
+        "transcription": "Where is my mind?\n", 
+        "wavfile": "F003_104_01_0101"
+    }, 
+    {
+        "end": 140.05122995376587, 
+        "index": 15, 
+        "lyric": "Where is my mind? Where is my mind?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 131.8262269973755, 
+        "wavfile": "F003_104_01_0101"
+    }
+]

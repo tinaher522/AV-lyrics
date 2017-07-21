@@ -1,0 +1,240 @@
+M001,Boyce Avenue,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+F002,Sofia,https://www.youtube.com/channel/UCfjnEW3mVXfW0Wb602r1IrQ
+F003,Daniela Andrade,https://www.youtube.com/channel/UC2vPHIqjFdpPVMa2PGwJuYg
+F004,Beth,https://www.youtube.com/channel/UCfYReF1e8lI85qH8FndkqBw
+F005,Mackenzie Johnson,https://www.youtube.com/channel/UC4r0mPU6KZLgAwXDEjqQv_g
+F006,Jess Greenberg,https://www.youtube.com/channel/UC7gHHtlv-Oyll1jbsJh8qJA
+M007,Mike Massé,https://www.youtube.com/channel/UCEVZNpzM9oDegvplv5Z36Sw
+F008,Birdy,-
+M009,Obadiah Parker,-
+M010,Gustavo Trebien,https://www.youtube.com/channel/UCwE5BXvQEmF14oqTzzYigLA
+M011,Ed Sheeran,-
+F012,Zella Day,-
+F013,Rebecca Shearing,https://www.youtube.com/channel/UCVJiwN_aOgQ75RBg91ANjqQ
+M014,Brian Mikula,https://www.youtube.com/channel/UCfM4QHJnyKLvQLED5aGNSvw
+M015,Alex Hamel,https://www.youtube.com/channel/UCF8KPEcWk1GDc86nRKw38Ow
+M016,Alan Robinson,https://www.youtube.com/channel/UCEGsUxJtGEJhDfKSwYDNaXw
+M017,Mike Peralta,https://www.youtube.com/channel/UCIfnWOeWsRHpZsjBGnz8_Hw
+M018,John Mayer,https://www.youtube.com/channel/UC9KhB07HSEtWISy_LFWwHzw
+M019,Awake! Awake!,https://www.youtube.com/channel/UCxtjoXZ03mKLUnW7eaKAqKA
+M020,Janick Thibault,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+F021,Emg Acoustics Cover,https://www.youtube.com/channel/UCSax4jQjNjIRjXbUtbUantw
+F022,Grace Weber,https://www.youtube.com/channel/UCfTNidt3axo_u_ioJVQWwDg
+M023,Andrew Garcia,https://www.youtube.com/channel/UC6issK8yf-L-sW-SZgU8vOA
+M024,Jeremy Passion,-
+M025,Noah Cover,-
+F026,Tori Kelly,-
+F027,Arlene Zelina,-
+F028,Hannah Trigwell,https://www.youtube.com/channel/UCwE5BXvQEmF14oqTzzYigLA
+F029,Alexandra Burke,-
+F030,Lindsey Saunders,-
+M031,Acmusic7,https://www.youtube.com/user/ACMusic7
+M032,Joe Muscatello,-
+F033,Amanda Law,-
+M034,Fré Monti,-
+M035,Will Gittens,-
+F036,Isabelle Alexandra,-
+F037,Cammie Lester,-
+M038,Braeden Counts,-
+M039,Fabio Righi,-
+M040,Kjgydell,-
+M041,Jon Prucha,-
+F042,Laurenbonnell24,-
+F043,Murasakimochi,-
+M044,Alex Aiono,https://www.youtube.com/user/AlexAiono
+M045,Jeremy Ornelas,-
+M046,Travis Cormier,-
+F047,Jennifer Hannah,-
+M048,Banesilvermoon,-
+F049,Moderndaywarrior3,-
+F050,Emily Davis,-
+M051,Dennis Baumann,-
+M052,Jaysongw,-
+M053,Ray Lamontagne,-
+M054,Mel Plant Music,-
+M055,Craig,-
+M056,Ortopilot,-
+M057,Rick Farmer,-
+M058,Vintagejamest,-
+F059,Florence Pardoe,-
+M020,Janick Thibault,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+M060,220Volt74,https://www.youtube.com/user/220volt74
+M061,Patrick Carroll,-
+M062,Luke Duffett,-
+F063,Jenn Fiorentino,-
+M064,Henry Capelossi,-
+M065,Danny Mcevoy,-
+M066,Jamé Forbes,https://www.youtube.com/channel/UCDqnR1rC-FQ6sKq5QxVyMfA
+F067,Val Maugenest,-
+F068,Iman,-
+F069,Phebe Edwards,-
+F070,Magdalena Wolk,-
+F071,Eliza,-
+F072,Sophia Alexa,https://www.youtube.com/channel/UCasVZcSPRBQPt7R_XORnkwg
+M073,Mullally,-
+F074,Rothwell,-
+F075,Lauren Thalia,-
+F076,Phoebe Katis,-
+F077,Clara Bond,-
+F078,Mila Falls,-
+M079,Tom Bem,-
+F080,Kristie Killick,-
+F081,Stephanie Rainey,-
+F082,Philippa June,-
+F083,Ebony Day,-
+M084,Etham,-
+F083,Ebony Day,-
+F072,Sophia Alexa,https://www.youtube.com/channel/UCasVZcSPRBQPt7R_XORnkwg
+F085,Linah Is,-
+M086,Jasper Storey,-
+F087,Lisa Wright,-
+F088,De La Rose,-
+M089,Conor Coughlan,-
+M090,Matt Wills,-
+M091,Richard De Soussa,-
+F092,Letisha Gordon,-
+M093,Brodie Kelly,-
+F094,Storm,-
+M095,Harry Pane,-
+M096,Ady Suleiman,https://www.youtube.com/user/AdySuleimanVEVO
+F097,Scarlet Baxter,-
+M098,Kyko,-
+M099,Project Alfie,-
+M100,Shaun Colwill,-
+M101,Mark Asari,-
+M102,Sam Brett,-
+M103,Elliott Pritchard,-
+M001,Boyce Avenue,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+M001,Boyce Avenue,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+M001,Boyce Avenue,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+F002,Sofia,https://www.youtube.com/channel/UCfjnEW3mVXfW0Wb602r1IrQ
+F003,Daniela Andrade,https://www.youtube.com/channel/UC2vPHIqjFdpPVMa2PGwJuYg
+F003,Daniela Andrade,https://www.youtube.com/channel/UC2vPHIqjFdpPVMa2PGwJuYg
+F003,Daniela Andrade,https://www.youtube.com/channel/UC2vPHIqjFdpPVMa2PGwJuYg
+F005,Mackenzie Johnson,https://www.youtube.com/channel/UC4r0mPU6KZLgAwXDEjqQv_g
+F005,Mackenzie Johnson,https://www.youtube.com/channel/UC4r0mPU6KZLgAwXDEjqQv_g
+F005,Mackenzie Johnson,https://www.youtube.com/channel/UC4r0mPU6KZLgAwXDEjqQv_g
+F006,Jess Greenberg,https://www.youtube.com/channel/UC7gHHtlv-Oyll1jbsJh8qJA
+F006,Jess Greenberg,https://www.youtube.com/channel/UC7gHHtlv-Oyll1jbsJh8qJA
+F006,Jess Greenberg,https://www.youtube.com/channel/UC7gHHtlv-Oyll1jbsJh8qJA
+M007,Mike Massé,https://www.youtube.com/channel/UCEVZNpzM9oDegvplv5Z36Sw
+M007,Mike Massé,https://www.youtube.com/channel/UCEVZNpzM9oDegvplv5Z36Sw
+M010,Gustavo Trebien,https://www.youtube.com/channel/UCwE5BXvQEmF14oqTzzYigLA
+M010,Gustavo Trebien,https://www.youtube.com/channel/UCwE5BXvQEmF14oqTzzYigLA
+M010,Gustavo Trebien,https://www.youtube.com/channel/UCwE5BXvQEmF14oqTzzYigLA
+F104,Tristan Prettyman,-
+F013,Rebecca Shearing,https://www.youtube.com/channel/UCVJiwN_aOgQ75RBg91ANjqQ
+F013,Rebecca Shearing,https://www.youtube.com/channel/UCVJiwN_aOgQ75RBg91ANjqQ
+M014,Brian Mikula,https://www.youtube.com/channel/UCfM4QHJnyKLvQLED5aGNSvw
+M014,Brian Mikula,https://www.youtube.com/channel/UCfM4QHJnyKLvQLED5aGNSvw
+M014,Brian Mikula,https://www.youtube.com/channel/UCfM4QHJnyKLvQLED5aGNSvw
+M015,Alex Hamel,https://www.youtube.com/channel/UCF8KPEcWk1GDc86nRKw38Ow
+M015,Alex Hamel,https://www.youtube.com/channel/UCF8KPEcWk1GDc86nRKw38Ow
+M015,Alex Hamel,https://www.youtube.com/channel/UCF8KPEcWk1GDc86nRKw38Ow
+M015,Alex Hamel,https://www.youtube.com/channel/UCF8KPEcWk1GDc86nRKw38Ow
+M016,Alan Robinson,https://www.youtube.com/channel/UCEGsUxJtGEJhDfKSwYDNaXw
+M016,Alan Robinson,https://www.youtube.com/channel/UCEGsUxJtGEJhDfKSwYDNaXw
+M016,Alan Robinson,https://www.youtube.com/channel/UCEGsUxJtGEJhDfKSwYDNaXw
+M017,Mike Peralta,https://www.youtube.com/channel/UCIfnWOeWsRHpZsjBGnz8_Hw
+M017,Mike Peralta,https://www.youtube.com/channel/UCIfnWOeWsRHpZsjBGnz8_Hw
+M017,Mike Peralta,https://www.youtube.com/channel/UCIfnWOeWsRHpZsjBGnz8_Hw
+M019,Awake! Awake!,https://www.youtube.com/channel/UCxtjoXZ03mKLUnW7eaKAqKA
+M019,Awake! Awake!,https://www.youtube.com/channel/UCxtjoXZ03mKLUnW7eaKAqKA
+M020,Janick Thibault,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+M020,Janick Thibault,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+M020,Janick Thibault,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+M020,Janick Thibault,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+F021,Emg Acoustics Cover,https://www.youtube.com/channel/UCSax4jQjNjIRjXbUtbUantw
+F021,Emg Acoustics Cover,https://www.youtube.com/channel/UCSax4jQjNjIRjXbUtbUantw
+F021,Emg Acoustics Cover,https://www.youtube.com/channel/UCSax4jQjNjIRjXbUtbUantw
+F021,Emg Acoustics Cover,https://www.youtube.com/channel/UCSax4jQjNjIRjXbUtbUantw
+M023,Andrew Garcia,https://www.youtube.com/channel/UC6issK8yf-L-sW-SZgU8vOA
+M023,Andrew Garcia,https://www.youtube.com/channel/UC6issK8yf-L-sW-SZgU8vOA
+F105,Lovelle,-
+F106,Ayelle,-
+F107,Sylvia Mwenze,-
+F108,Flynn,-
+F109,Lilly Ahlberg,-
+F110,Lianne Kaye,-
+F111,Jess Thristan,-
+F112,Rukhsana Merrise,-
+F113,Delaire,-
+M114,Fraser Churchill,-
+F115,Kyra,-
+F116,Effie,-
+F117,Katie Nicholas,-
+M118,Jamie Grey,-
+M119,Chromatone,-
+F120,Violet Skies,-
+M121,Etham Basden,-
+M122,Alex Francis,-
+F123,Amber Whitworth,-
+F124,Beth Sherburn,-
+F125,Kina Grannis,-
+F126,Eliza Shaddad,-
+F127,Miss Sha,-
+F128,Laura Zocca,-
+F129,Sasha Keable,-
+M130,James Robb,https://www.youtube.com/user/jamja3
+M131,Andreas Moe,-
+F132,Shannon Saunders,https://www.youtube.com/user/Shannooonx
+M133,Jc Villafan,-
+M134,Charlie Brown,-
+F115,Kyra,-
+M135,Jp Cooper,-
+M118,Jamie Grey,-
+M136,Jake Isaac,-
+M137,Zach London,-
+F132,Shannon Saunders,https://www.youtube.com/user/Shannooonx
+M138,Jacob Banks,-
+M139,Rufio Summers,-
+M140,James Craise,-
+M141,Jackie D Williams,https://www.youtube.com/user/jackiedwilliams
+F142,Olivia Leisk,-
+F083,Ebony Day,-
+F143,Lucy Kilner,-
+F110,Lianne Kaye,-
+M144,Zack Knight,-
+M145,Luke Towler,-
+M146,Eskimos,-
+M147,Yo Preston,-
+M001,Boyce Avenue,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+M001,Boyce Avenue,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+F002,Sofia,https://www.youtube.com/channel/UCfjnEW3mVXfW0Wb602r1IrQ
+F004,Beth,https://www.youtube.com/channel/UCfYReF1e8lI85qH8FndkqBw
+F004,Beth,https://www.youtube.com/channel/UCfYReF1e8lI85qH8FndkqBw
+M007,Mike Massé,https://www.youtube.com/channel/UCEVZNpzM9oDegvplv5Z36Sw
+F013,Rebecca Shearing,https://www.youtube.com/channel/UCVJiwN_aOgQ75RBg91ANjqQ
+F013,Rebecca Shearing,https://www.youtube.com/channel/UCVJiwN_aOgQ75RBg91ANjqQ
+F148,Emi Mcdade,-
+F149,Abi Alton,https://www.youtube.com/channel/UCzYCy4ByCl-3GXUqtBJj2eA
+F150,Sally Caitlin,-
+F151,Rebecca James,-
+M152,Jamie,-
+F153,Hope,-
+M154,Quigley,-
+M130,James Robb,https://www.youtube.com/user/jamja3
+F155,Pharella,-
+F149,Abi Alton,https://www.youtube.com/channel/UCzYCy4ByCl-3GXUqtBJj2eA
+M156,Tom Prior,-
+F157,Lauren Faith,-
+M158,Benedict,-
+F159,Mallie,-
+M141,Jackie D Williams,https://www.youtube.com/user/jackiedwilliams
+M160,Sid Batham,-
+M161,Jody Brock,-
+F162,Raphaella,-
+F163,Erika David,-
+F164,Sarah Close,-
+F162,Raphaella,-
+F165,Kelli-Leigh,-
+M166,Mexirass,https://www.youtube.com/channel/UCrXSVOxl1xot5nJwiAhUNKQ
+F167,Carrie Haber,-
+M168,Jacob Wellfair,-
+M169,Martin Luke Brown,-
+M170,Ollie Sloan,-
+F171,Lauren Aquilina,-
+M172,Ben Schuller,-
+F173,Ellysa Rose,https://www.youtube.com/channel/UCl1_SyiLIx7f4TBTwW9aDfg
+M174,Sean Rumsey,https://www.youtube.com/channel/UCDZwNdT9yq9ClSDqVoBJxrA
+F125,Kina Grannis,https://www.youtube.com/channel/UCMJOksbUeFSWjzw4AFI3tig

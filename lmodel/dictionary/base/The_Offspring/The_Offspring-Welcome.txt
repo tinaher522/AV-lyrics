@@ -1,0 +1,3 @@
+<song artist="The_Offspring" title="Welcome">
+Welcome to Americana. Please make your selection followed by the pound sign. Now...
+</song>

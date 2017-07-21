@@ -1,0 +1,4 @@
+<song artist="Sting" title=""...And_From_Thence_I_Had_Great_Desire_To_See_Italy..."">
+spoken:
+...And from thence I had great desire to see Italy, and came to Venice, and from thence to Florence, where I played before the Duke and got great favors...
+</song>

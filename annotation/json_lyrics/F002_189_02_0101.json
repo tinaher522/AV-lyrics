@@ -1,0 +1,481 @@
+[
+    {
+        "end": 12.86956000328064, 
+        "index": 1, 
+        "lyric": "What would I do without your smart mouth?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 8.59740705490111, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 16.868199157714848, 
+        "index": 2, 
+        "lyric": "Drawing me in, and you kicking me out\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 12.56242609024048, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 24.7630371094, 
+        "index": 3, 
+        "lyric": "You've got my head spinning, no kidding, I can't pin you down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 16.5990681171, 
+        "transcription": "Got my head spinning, no kidding, I can't pin you down\n", 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 28.35803909301758, 
+        "index": 4, 
+        "lyric": "What's going on in that beautiful mind\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 24.490249156951897, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 32.33492407798767, 
+        "index": 5, 
+        "lyric": "I'm on your magical mystery ride\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 28.369493007659912, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 40.90707006454468, 
+        "index": 6, 
+        "lyric": "And I'm so dizzy, don't know what hit me, but I'll be alright\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 32.25663499832153, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 44.54116406440735, 
+        "index": 7, 
+        "lyric": "My head's under water\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 40.95021915435791, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 48.75159916877747, 
+        "index": 8, 
+        "lyric": "But I'm breathing fine\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 44.26329517364501, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 54.39591212272644, 
+        "index": 9, 
+        "lyric": "You're crazy and I'm out of my mind\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 48.77374601364136, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 57.688014125823976, 
+        "index": 10, 
+        "lyric": "'Cause all of me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 54.41067814826965, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 61.49019813537598, 
+        "index": 11, 
+        "lyric": "Loves all of you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 57.55402998924255, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 65.30926303863524, 
+        "index": 12, 
+        "lyric": "Love your curves and all your edges\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 61.24367699623107, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 69.20928306579589, 
+        "index": 13, 
+        "lyric": "All your perfect imperfections\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 65.15799307823181, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 73.19707903861999, 
+        "index": 14, 
+        "lyric": "Give your all to me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 69.33390617370605, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 77.29994711875915, 
+        "index": 15, 
+        "lyric": "I'll give my all to you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 73.06163911819459, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 80.90267105102538, 
+        "index": 16, 
+        "lyric": "You're my end and my beginning\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 77.15915112495424, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 84.78800020217895, 
+        "index": 17, 
+        "lyric": "Even when I lose I'm winning\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 80.86910820007324, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 91.74350204467771, 
+        "index": 18, 
+        "lyric": "'Cause I give you all of me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 84.65889506340028, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 101.4571392059326, 
+        "index": 19, 
+        "lyric": "And you give me all of you, oh oh\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 91.99612116813657, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 106.42267699241637, 
+        "index": 20, 
+        "lyric": "How many times do I have to tell you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 101.77727222442627, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 110.33977818489075, 
+        "index": 21, 
+        "lyric": "Even when you're crying you're beautiful too\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 106.35623722076417, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 118.25834808349609, 
+        "index": 22, 
+        "lyric": "The world is beating you down, I'm around through every mood\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 109.99985408782962, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 121.97719821929931, 
+        "index": 23, 
+        "lyric": "You're my downfall, you're my muse\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 118.10612015724183, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 125.81525621414184, 
+        "index": 24, 
+        "lyric": "My worst distraction, my rhythm and blues\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 121.75402112007143, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 134.41587300300597, 
+        "index": 25, 
+        "lyric": "I can't stop singing, it's ringing, in my head for you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 125.70539503097535, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 138.2435800075531, 
+        "index": 26, 
+        "lyric": "My head's under water\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 134.3398702144623, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 142.4709511756897, 
+        "index": 27, 
+        "lyric": "But I'm breathing fine\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 137.9273032188416, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 148.2421721935272, 
+        "index": 28, 
+        "lyric": "You're crazy and I'm out of my mind\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 142.10977015495303, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 151.38455400466918, 
+        "index": 29, 
+        "lyric": "'Cause all of me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 148.26338720321655, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 155.12334299087524, 
+        "index": 30, 
+        "lyric": "Loves all of you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 151.13006815910342, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 158.9400671482086, 
+        "index": 31, 
+        "lyric": "Love your curves and all your edges\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 154.82141399383548, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 162.96421709060667, 
+        "index": 32, 
+        "lyric": "All your perfect imperfections\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 159.0370171070099, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 166.911306142807, 
+        "index": 33, 
+        "lyric": "Give your all to me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 163.0352861881256, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 170.88065910339355, 
+        "index": 34, 
+        "lyric": "I'll give my all to you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 166.72884001731876, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 174.60286722183227, 
+        "index": 35, 
+        "lyric": "You're my end and my beginning\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 170.64702901840212, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 178.54227409362792, 
+        "index": 36, 
+        "lyric": "Even when I lose I'm winning\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 174.66288709640503, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 184.94450106620786, 
+        "index": 37, 
+        "lyric": "'Cause I give you all of me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 178.39853005409242, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 192.915318203, 
+        "index": 38, 
+        "lyric": "And you give me all of you, oh oh\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 185.158357143, 
+        "transcription": "And you give me all of you", 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 195.99228816032408, 
+        "index": 39, 
+        "lyric": "Give me all of you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 193.6868901729584, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 204.67084622383118, 
+        "index": 40, 
+        "lyric": "Cards on the table, we're both showing hearts\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 197.13553309440607, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 210.28861603736877, 
+        "index": 41, 
+        "lyric": "Risking it all, though it's hard\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 204.642538022995, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 213.76494107246398, 
+        "index": 42, 
+        "lyric": "'Cause all of me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 210.4282670021057, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 217.6218620300293, 
+        "index": 43, 
+        "lyric": "Loves all of you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 213.54703302383425, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 221.48419198989868, 
+        "index": 44, 
+        "lyric": "Love your curves and all your edges\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 217.44410209655763, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 225.43175721168518, 
+        "index": 45, 
+        "lyric": "All your perfect imperfections\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 221.39928822517396, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 229.41187720298765, 
+        "index": 46, 
+        "lyric": "Give your all to me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 225.31778321266177, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 233.37351512908936, 
+        "index": 47, 
+        "lyric": "I'll give my all to you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 228.98342604637148, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 237.07641716003417, 
+        "index": 48, 
+        "lyric": "You're my end and my beginning\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 232.9172021389008, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 240.86032004356383, 
+        "index": 49, 
+        "lyric": "Even when I lose I'm winning\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 237.0123770236969, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 247.76616621017453, 
+        "index": 50, 
+        "lyric": "'Cause I give you all of me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 240.81585812568665, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 255.57966809272764, 
+        "index": 51, 
+        "lyric": "And you give me all of you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 248.46564006805414, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 263.76293821334855, 
+        "index": 52, 
+        "lyric": "I give you all of me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 256.5407751560212, 
+        "wavfile": "F002_189_02_0101"
+    }, 
+    {
+        "end": 274.14801502227783, 
+        "index": 53, 
+        "lyric": "And you give me all of you, oh oh \n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 263.40359711647034, 
+        "wavfile": "F002_189_02_0101"
+    }
+]

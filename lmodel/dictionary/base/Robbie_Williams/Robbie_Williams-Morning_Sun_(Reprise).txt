@@ -1,0 +1,5 @@
+<song artist="Robbie_Williams" title="Morning_Sun_(Reprise)">
+The morning brings a mystery
+The evening makes it history
+Who am I to rate the morning sun?
+</song>

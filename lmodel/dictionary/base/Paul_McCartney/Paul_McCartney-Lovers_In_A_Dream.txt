@@ -1,0 +1,5 @@
+<song artist="Paul_McCartney" title="Lovers_In_A_Dream">
+Lovers in a dream
+Warmer than the Sun
+[repeat]
+</song>

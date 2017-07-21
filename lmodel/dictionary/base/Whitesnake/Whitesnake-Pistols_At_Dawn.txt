@@ -1,0 +1,3 @@
+<song artist="Whitesnake" title="Pistols_At_Dawn">
+ Instrumental
+</song>

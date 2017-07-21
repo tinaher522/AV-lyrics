@@ -1,0 +1,16 @@
+<song artist="Leona_Lewis" title="Somewhere_Over_The_Rainbow">
+Somewhere over the rainbow way up high
+In the land that I heard of once
+Once in a lullaby
+Well someday I'll wish upon a star
+And wake up where the clouds are far behind me
+Where troubles melt like lemon drops
+Away above the chimney tops that's where you'll find me
+
+Somewhere over the rainbow
+Skies are blue
+And the dreams that you dare to dream
+They really do come true
+If happy little blue birds fly beyond the rainbow
+Why oh why can't I?
+</song>

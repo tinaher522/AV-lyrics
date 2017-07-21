@@ -1,0 +1,3 @@
+<song artist="Queen" title="The_Kiss_(Aura_Resurrects_Flash)">
+ Instrumental
+</song>

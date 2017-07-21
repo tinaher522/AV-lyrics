@@ -1,0 +1,26 @@
+<song artist="Johnny_Cash" title="I'm_Working_On_A_Building">
+I'm a working on building
+I'm a working on building
+I'm a working on building
+For my Lord, for my Lord
+It's a holy ghost building
+It's a holy ghost building
+It's a holy ghost building
+For my Lord, for my Lord
+If I was a liar
+I tell you what I would do
+I'd quit my lying
+And work on a building too
+If I was a drunkard
+I tell you what I would do
+I'd quit my drinking
+And work on a building too
+If I was a gambler
+I tell you what I would do
+I'd quit my gambling
+And work on a building too
+If I was a preacher
+I tell you what I would do
+I would keep on preaching
+And work on a building too
+</song>

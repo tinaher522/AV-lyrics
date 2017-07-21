@@ -1,0 +1,11 @@
+<song artist="Phil_Collins" title="Waiting_For_This_Moment_(Reprise)">
+Jane
+All things bright and beautiful
+All creatures great and small
+All things wise and wonderful
+The Lord, God made them all
+Each little flow'r that opens
+Each little bird that sings
+He made their glowing colors
+He made their tiny wings
+</song>

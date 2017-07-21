@@ -1,0 +1,7 @@
+<song artist="John_Lennon" title="Yesterday_(Parody)">
+One, two, three, four!
+Suddenly,
+I'm not half the man I used to be...
+'Cause now I'm an amputee.
+"Okay!"
+</song>

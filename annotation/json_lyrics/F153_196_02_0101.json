@@ -1,0 +1,386 @@
+[
+    {
+        "end": 9.742650938034057, 
+        "index": 1, 
+        "lyric": "Sunlight comes creeping in\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 6.552904796600345, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 12.523902988433838, 
+        "index": 2, 
+        "lyric": "Illuminates our skin\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 9.857820987701416, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 15.633756828308105, 
+        "index": 3, 
+        "lyric": "We watched the day go by\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 12.494049835205079, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 18.62336497306824, 
+        "index": 4, 
+        "lyric": "Stories of all we did\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 15.230921840667726, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 21.289208841323855, 
+        "index": 5, 
+        "lyric": "It made me think of you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 18.42110481262207, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 25.831139945983914, 
+        "index": 6, 
+        "lyric": "It made me think of you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 21.397770881652832, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 33.04045577049256, 
+        "index": 7, 
+        "lyric": "Under a trillion stars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 29.1035418510437, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 35.73649797439575, 
+        "index": 8, 
+        "lyric": "We danced on top of cars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 32.75485677719116, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 38.69421892166138, 
+        "index": 9, 
+        "lyric": "Took pictures of the stage\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 35.55674691200256, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 41.66177492141724, 
+        "index": 10, 
+        "lyric": "So far from where we are\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 38.4223629951477, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 44.3472699642, 
+        "index": 11, 
+        "lyric": "They made me think of you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 41.4571799278, 
+        "transcription": "it made me think of you\n", 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 48.416427803000005, 
+        "index": 12, 
+        "lyric": "They made me think of you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 44.3608047962, 
+        "transcription": "it made me think of you\n", 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 55.01411981582642, 
+        "index": 13, 
+        "lyric": "Oh lights go down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 51.410402774810805, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 60.68524594306946, 
+        "index": 14, 
+        "lyric": "In the moment, we're lost and found\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 55.029637813568115, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 66.77271890640259, 
+        "index": 15, 
+        "lyric": "I just wanna be by your side\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 60.82934980392456, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 71.79758477210999, 
+        "index": 16, 
+        "lyric": "If these wings could fly\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 66.7857749938965, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 77.39959287643433, 
+        "index": 17, 
+        "lyric": "For the rest of our lives\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 72.22518587112427, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 83.49604091644287, 
+        "index": 18, 
+        "lyric": "I'm in a foreign state\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 80.13306488990773, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 85.88907790184021, 
+        "index": 19, 
+        "lyric": "My thoughts, they slip away\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 83.36577491760255, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 88.96128792759998, 
+        "index": 20, 
+        "lyric": "My words are leaving me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 85.9112469196, 
+        "transcription": "My life is leaving me\n", 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 91.60047698020935, 
+        "index": 21, 
+        "lyric": "They caught an aeroplane\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 88.74271183013917, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 94.38069686889648, 
+        "index": 22, 
+        "lyric": "Because I thought of you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 91.56521086692811, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 99.08194680213927, 
+        "index": 23, 
+        "lyric": "Just from the thought of you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 94.29387884140016, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 104.78758392333984, 
+        "index": 24, 
+        "lyric": "Oh lights go down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 101.10225696563711, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 110.50272889137267, 
+        "index": 25, 
+        "lyric": "In the moment, we're lost and found\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 105.02006578445435, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 116.397316933, 
+        "index": 26, 
+        "lyric": "I just wanna be by your side\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 110.689350843, 
+        "transcription": "And I just wanna be by your side\n", 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 121.39804587364196, 
+        "index": 27, 
+        "lyric": "If these wings could fly\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 116.59683299064636, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 127.65517683029174, 
+        "index": 28, 
+        "lyric": "Oh damn these walls\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 123.52384581565846, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 132.75738892555236, 
+        "index": 29, 
+        "lyric": "In the moment, we're ten feet tall\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 127.83077788352966, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 138.11720294952391, 
+        "index": 30, 
+        "lyric": "how you told me after it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 132.921728849411, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 143.21100697517394, 
+        "index": 31, 
+        "lyric": "We'd remember tonight\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 138.37054586410522, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 147.33306488990786, 
+        "index": 32, 
+        "lyric": "For the rest of our lives\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 143.59210777282715, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 165.34368, 
+        "index": 33, 
+        "lyric": "If these wings could fly\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 160.627372932, 
+        "transcription": "We'd remember tonight", 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 170.46229586601257, 
+        "index": 34, 
+        "lyric": "Oh lights go down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 166.9244477748871, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 176.19570393562316, 
+        "index": 35, 
+        "lyric": "In the moment, we're lost and found\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 170.8037919998169, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 182.462455845, 
+        "index": 36, 
+        "lyric": "I just wanna be by your side\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 176.576075792, 
+        "transcription": "I just want to be by your side\n", 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 187.62876391410828, 
+        "index": 37, 
+        "lyric": "If these wings could fly\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 183.036780834198, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 193.63302993774414, 
+        "index": 38, 
+        "lyric": "Oh damn these walls\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 189.01053881645203, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 199.27651891708373, 
+        "index": 39, 
+        "lyric": "In the moment, we're ten feet tall\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 193.79528393745423, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 204.5017219543457, 
+        "index": 40, 
+        "lyric": "how you told me after it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 199.4186858177185, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 209.18377480506896, 
+        "index": 41, 
+        "lyric": "We'd remember tonight\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 204.68829989433289, 
+        "wavfile": "F153_196_02_0101"
+    }, 
+    {
+        "end": 215.99249777793884, 
+        "index": 42, 
+        "lyric": "For the rest of our lives\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 210.16143579483028, 
+        "wavfile": "F153_196_02_0101"
+    }
+]

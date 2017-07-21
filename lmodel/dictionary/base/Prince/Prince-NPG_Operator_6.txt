@@ -1,0 +1,9 @@
+<song artist="Prince" title="NPG_Operator_6">
+[Spoken]
+You've just accessed the Beautiful experience...
+...
+...
+Welcome to the Dawn.
+You've just accessed the Gold experience.
+Press Gold to begin.
+</song>

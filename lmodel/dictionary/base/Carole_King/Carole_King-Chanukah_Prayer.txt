@@ -1,0 +1,3 @@
+<song artist="Carole_King" title="Chanukah_Prayer">
+Barukh atah Adonai, Eloheinu, melekh ha'olam asher kidishanu b'mitz'votav v'tzivanu l'had'lik neir shel Chanukah. (Amein)
+</song>

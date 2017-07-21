@@ -1,0 +1,3 @@
+<song artist="The_Police" title="How_Stupid_Mr._Bates">
+ Instrumental
+</song>

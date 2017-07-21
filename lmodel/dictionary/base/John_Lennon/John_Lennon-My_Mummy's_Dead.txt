@@ -1,0 +1,10 @@
+<song artist="John_Lennon" title="My_Mummy's_Dead">
+My mummy's dead
+I can't get it through my head
+Though it's been so many years
+My mummy's dead
+I can't explain
+So much pain
+I could never show it
+My mummy's dead
+</song>

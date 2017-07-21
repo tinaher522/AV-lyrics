@@ -1,0 +1,4 @@
+<song artist="Janet_Jackson" title="Spinnin">
+Love, the one thing that keeps you up and keeps you down,
+Just spinning round like a roller coaster...
+</song>

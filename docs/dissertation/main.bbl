@@ -1,0 +1,308 @@
+\begin{thebibliography}{10}
+
+\bibitem{Bartholomew2005}
+{\sc Bartholomew, W.~T.}
+\newblock {A Physical Definition of "Good Voice-Quality" in the Male Voice.}
+\newblock {\em The Journal of the Acoustical Society of America 5}, 3 (2005),
+  224.
+
+\bibitem{DS:Weembly}
+{\sc Bittner, R., Salamon, J., Tierney, M., Mauch, M., Cannam, C., and Bello,
+  J.~P.}
+\newblock {MedleyDB: A Multitrack Dataset for Annotation-Intensive MIR
+  Research}.
+\newblock In {\em 5th International Society for Music Information Retrieval
+  Conference\/} (Taipei, Taiwan, 2014).
+
+\bibitem{Boll1979}
+{\sc Boll, S.}
+\newblock {Suppression of acoustic noise in speech using spectral subtraction}.
+\newblock {\em IEEE Transactions on Acoustics, Speech and Signal Processing
+  27}, 2 (1979), 113--120.
+
+\bibitem{HTK}
+{\sc {Cambridge University Engineering Department}}.
+\newblock {HTK Speech Recognition Toolkit}.
+
+\bibitem{SOX}
+{\sc Cbagwell, Robs, and Uklauer}.
+\newblock {SoX - Sound eXchange}.
+
+\bibitem{Chavan2015}
+{\sc Chavan, K.}
+\newblock {Speech Recognition in Noisy Environment , Issues and Challenges : A
+  Review}.
+
+\bibitem{CMU}
+{\sc CMU}.
+\newblock {The CMU Pronouncing Dictionary}.
+
+\bibitem{DS:DeMan2014}
+{\sc {De Man}, B., Mora-Mcginity, M., Fazek, G., and Reiss, J.~D.}
+\newblock {The Open Multitrack Testbed}.
+\newblock In {\em 137th Convention of the Audio Engineering Society\/} (2014).
+
+\bibitem{El-fattah2010}
+{\sc El-Fattah, M. A.~A., Dessouky, M.~I., Diab, S.~M., and El-samie, F. E.~A.}
+\newblock {Adaptive Wiener Filtering Approach for Speech Enhancement}.
+\newblock {\em Ubiquitous Computing and Communication Journal 3}, 2 (2010),
+  23--31.
+
+\bibitem{Ellis2006}
+{\sc Ellis, D. P.~W.}
+\newblock {Extracting Information From Music Audio}.
+\newblock {\em Communications of the ACM 49}, 8 (2006).
+
+\bibitem{Endolith}
+{\sc Endolith}.
+\newblock {Frequency estimation methods in Python}.
+
+\bibitem{Ephraim1995}
+{\sc Ephraim, Y., and Trees, H. L.~V.}
+\newblock {A Signal Subspace Approach for Speech Enhancement}.
+\newblock {\em IEEE Transactions on Speech and Audio Processing 3\/} (1995),
+  804--807.
+
+\bibitem{Geirhofer2014}
+{\sc Geirhofer, S.}
+\newblock {Feature reduction with linear discriminant analysis and its
+  performance on phoneme recognition}.
+\newblock Tech. rep., University of Illinois at Urbana-Champaign, 2004.
+
+\bibitem{Goto2004}
+{\sc Goto, M., Itou, K., and Kitayama, K.}
+\newblock {Speech-recognition interfaces for music information retrieval}.
+\newblock {\em Music Information Retrieval\/} (2004).
+
+\bibitem{Hain2016a}
+{\sc Hain, T.}
+\newblock {Speech Technology - Handout 3a - Neural Network in Speech
+  Technology}, 2016.
+
+\bibitem{Hinton2010}
+{\sc Hinton, G.}
+\newblock {A Practical Guide to Training Restricted Boltzmann Machines A
+  Practical Guide to Training Restricted Boltzmann Machines}.
+\newblock {\em Computer 9}, 3 (2010), 1.
+
+\bibitem{DS:Janer2013}
+{\sc Janer, J.}
+\newblock {Audio Signal Separation | Music Technology Group}, 2013.
+
+\bibitem{Jurafsky2000}
+{\sc Jurafsky, D., and Martin, J.}
+\newblock {\em {Speech and Language Processing}}, second edi~ed.
+\newblock Parson, 2000.
+
+\bibitem{Kan2008}
+{\sc Kan, M.~Y., Wang, Y., Iskandar, D., Nwe, T.~L., and Shenoy, A.}
+\newblock {LyricAlly: Automatic synchronization of textual lyrics to acoustic
+  music signals}.
+\newblock {\em IEEE Transactions on Audio, Speech and Language Processing 16},
+  2 (2008), 338--349.
+
+\bibitem{King2005}
+{\sc King, S., Bartels, C., and Bilmes, J.}
+\newblock {SVitchboard 1: Small Vocabulary Tasks from Switchboard 1}.
+\newblock In {\em INTERSPEECH-2005\/} (Lisbon, Portugal, 2005), pp.~3385--3388.
+
+\bibitem{Kob2011a}
+{\sc Kob, M., Henrich, N., Herzel, H., Howard, D., Tokuda, I.~T., and Wolfe,
+  J.}
+\newblock {Analysing and understanding the singing voice: Recent progress and
+  open questions}.
+\newblock {\em Current Bioinformatics 6\/} (2011), 362--374.
+
+\bibitem{Latham2002}
+{\sc Latham, A.}
+\newblock {\em {The oxford companion to music.}}
+\newblock USA: Oxford University Press., 2002.
+
+\bibitem{DS:Lerch2015}
+{\sc Lerch, A.}
+\newblock {Audio Content Analysis - Datasets}, 2015.
+
+\bibitem{librosa}
+{\sc LibROSA}.
+\newblock librosa.feature.delta — librosa 0.4.2 documentation.
+
+\bibitem{LDC}
+{\sc {Linguistics Data Consortium}}.
+\newblock {Linguistic Data Consortium}.
+
+\bibitem{Lundy2000}
+{\sc Lundy, D.~S., Roy, S., Casiano, R.~R., Xue, J.~W., and Evans, J.}
+\newblock {Acoustic analysis of the singing and speaking voice in singing
+  students.}
+\newblock {\em Journal of voice : official journal of the Voice Foundation 14},
+  4 (2000), 490--493.
+
+\bibitem{Mesaros2013}
+{\sc Mesaros, A.}
+\newblock {Singing voice identification and lyrics transcription for music
+  information retrieval}.
+\newblock {\em 2013 7th Conference on Speech Technology and Human - Computer
+  Dialogue, SpeD\/} (2013), 1--10.
+
+\bibitem{Mesaros2010b}
+{\sc Mesaros, A., and Virtanen, T.}
+\newblock {Automatic Recognition of Lyrics in Singing}.
+\newblock {\em EURASIP Journal on Audio, Speech, and Music Processing 2010}, 4
+  (2010), 11.
+
+\bibitem{Mesaros2011}
+{\sc Mesaros, A., and Virtanen, T.}
+\newblock {Automatic Understanding of Lyrics From Singing}.
+\newblock {\em Korkeakoulunkatu 1, 33720, TAMPERE\/} (2011), 1--6.
+
+\bibitem{Mesaros2007}
+{\sc Mesaros, A., Virtanen, T., and Klapuri, A.}
+\newblock {Singer identification in polyphonic music using vocal separation and
+  pattern recognition methods}.
+\newblock {\em In Proc. 7th International Conference on Music Information
+  Retrieval\/} (2007), 375--378.
+
+\bibitem{Moore2015d}
+{\sc Moore, R.}
+\newblock {Speech Processing - Lecture 03 - Speaking}, 2015.
+
+\bibitem{Moore2015c}
+{\sc Moore, R.}
+\newblock {Speech Processing - Lecture 05 - The Nature of Speech.}, 2015.
+
+\bibitem{Moore2015b}
+{\sc Moore, R.}
+\newblock {Speech Processing - Lecture 19 - Cepstral Analizys}, 2015.
+
+\bibitem{Omori1996}
+{\sc Omori, K., Kacker, A., Carroll, L.~M., Riley, W.~D., and Blaugrund, S.~M.}
+\newblock {Singing power ratio: Quantitative evaluation of singing voice
+  quality}.
+\newblock {\em Journal of Voice 10}, 3 (1996), 228--235.
+
+\bibitem{Paul:1992:DWS:1075527.1075614}
+{\sc Paul, D.~B., and Baker, J.~M.}
+\newblock {The Design for the Wall Street Journal-based CSR Corpus}.
+\newblock In {\em Proceedings of the Workshop on Speech and Natural Language\/}
+  (Stroudsburg, PA, USA, 1992), HLT '91, Association for Computational
+  Linguistics, pp.~357--362.
+
+\bibitem{povey2011kaldi}
+{\sc Povey, D., Ghoshal, A., Boulianne, G., Burget, L., Glembek, O., Goel, N.,
+  Hannemann, M., Motlicek, P., Qian, Y., Schwarz, P., and Others}.
+\newblock {The Kaldi speech recognition toolkit}.
+\newblock In {\em IEEE 2011 workshop on automatic speech recognition and
+  understanding\/} (2011), no.~EPFL-CONF-192584, IEEE Signal Processing
+  Society.
+
+\bibitem{Povey2008}
+{\sc Povey, D., Kuo, H. K.~J., and Soltau, H.}
+\newblock {Fast speaker adaptive training for speech recognition}.
+\newblock {\em Proceedings of the Annual Conference of the International Speech
+  Communication Association, INTERSPEECH\/} (2008), 1245--1248.
+
+\bibitem{Psutka2007}
+{\sc Psutka, J.~V.}
+\newblock {\em {Benefit of Maximum Likelihood Linear Transform (MLLT) Used at
+  Different Levels of Covariance Matrices Clustering in ASR Systems}}.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2007, pp.~431--438.
+
+\bibitem{Quinn2006}
+{\sc Quinn, S., and Watt, R.}
+\newblock {The perception of tempo in music}.
+\newblock {\em Perception 35}, 2 (2006), 267--280.
+
+\bibitem{Raj1997}
+{\sc Raj, B., Parikh, V.~N., and Stern, R.~M.}
+\newblock {The effects of background music on speech recognition accuracy}.
+\newblock In {\em Acoustics, Speech, and Signal Processing, 1997. ICASSP-97.,
+  1997 IEEE International Conference on\/} (Munich, 1997), IEEE, pp.~851--854
+  vol.2.
+
+\bibitem{Rechel2013}
+{\sc Rechel, L.~M.}
+\newblock {The effect of singing tempo during specific song acquisition of
+  preschool aged children}, 2013.
+
+\bibitem{Rosenblatt1962}
+{\sc Rosenblatt, F.}
+\newblock {Principles of Neurodynamics. Perceptrons and the Theory of Brain
+  Mechanisms.}
+\newblock {\em Archives of General Psychiatry 7\/} (1962), 218--219.
+
+\bibitem{RosilloGil2016}
+{\sc {Rosillo Gil}, V.}
+\newblock {\em {Automatic Speech Recognition with Kaldi toolkit}}.
+\newblock PhD thesis, 2016.
+
+\bibitem{Rumelhart1985}
+{\sc Rumelhart, D.~E., and Zipser, D.}
+\newblock {Feature discovery by competitive learning}.
+\newblock {\em Cognitive Science 9}, 1 (1985), 75--112.
+
+\bibitem{DS:SiSEC2013}
+{\sc {SiSEC 2013}}.
+\newblock {SISEC 2013 : HomePage}, 2013.
+
+\bibitem{Sundberg1987}
+{\sc Sundberg, J.}
+\newblock {\em {The Science of the Singing Voice}}.
+\newblock Northern Illinois University Press, Dekalb, Illinois, 1987.
+
+\bibitem{Sundberg2006}
+{\sc Sundberg, J.}
+\newblock {Vocal tract resonance}.
+\newblock {\em Vocal Health and Pedagogy, Volume: Science and Assessment 1\/}
+  (2006), 103.
+
+\bibitem{TheUKCopyrightService2015}
+{\sc {The UK Copyright Service}}.
+\newblock {Fact sheet P-01: UK Copyright Law}, 2015.
+
+\bibitem{Tokuda2005}
+{\sc Tokuda, K.}
+\newblock {Drawing Figures of Hidden Markov Models in A T Xwith PSTricks}.
+\newblock 1--3.
+
+\bibitem{Tsai2008}
+{\sc Tsai, W.-H., Liao, S.-J., and Lai, C.}
+\newblock {Automatic Identification of Simultaneous Singers in Duet
+  Recordings.}
+\newblock In {\em 9th International Conference of Music Information
+  Retrieval\/} (Philadelphia, 2008), pp.~115--120.
+
+\bibitem{Tsai2006}
+{\sc Tsai, W.~H., and Wang, H.~M.}
+\newblock {Automatic singer recognition of popular music recordings via
+  estimation and modeling of solo vocal signals}.
+\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing 14},
+  1 (2006), 330--341.
+
+\bibitem{DS:Vincent2007}
+{\sc Vincent, E., Gribonval, R., and Plumbley, M.~D.}
+\newblock {BSS{\_}ORACLE: A toolbox to compute oracle estimators for source
+  separation}, 2007.
+
+\bibitem{Weiss2010}
+{\sc Weiss, R.~J., and Ellis, D. P.~W.}
+\newblock {Speech separation using speaker-adapted eigenvoice speech models}.
+\newblock {\em Computer Speech and Language 24}, 1 (2010), 16--29.
+
+\bibitem{Young2009}
+{\sc Young, S.~J., Evermann, G., Gales, M. J.~F., Hain, T., Kershaw, D., Liu,
+  X., Moore, G., Odell, J., Ollason, D., Povey, D., Valtchev, V., and Woodland,
+  P.~C.}
+\newblock {The HTK Book (for HTK Version 3.4)}.
+\newblock {\em Cambridge University Engineering Department}, July 2000 (2009),
+  384.
+
+\bibitem{YouTubeb}
+{\sc YouTube}.
+\newblock {Official YouTube Blog: Creating new opportunities for publishers and
+  songwriters}, 2011.
+
+\bibitem{ZyTrax}
+{\sc ZyTrax, I.}
+\newblock {Tech Stuff - Frequency Ranges}.
+
+\end{thebibliography}

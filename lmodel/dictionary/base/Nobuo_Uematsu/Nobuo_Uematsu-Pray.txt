@@ -1,0 +1,25 @@
+<song artist="Nobuo_Uematsu" title="Pray">
+==Original Japanese Lyrics==
+遠く静かな星空から
+あふれる命の唄が響く
+幾千光年　闇を越えて
+ひとつの大地にたどり着いた
+そっと瞳を閉じたままで
+(Close your dream in the silent night)
+遠い祈りのように
+(Pray your dream with honest heart)
+いつしか夢たちが
+叶うように
+こんな小さな掌では
+抱えきれぬほど時は長い
+幾千万里の旅の果てに
+やさしい笑顔にめぐり逢える
+今は涙に濡れたままで
+(Cross your palm in the holy night)
+深い祈りのように
+(Pray your dream with your honest love)
+いつしか哀しみも
+終わるように
+遠く静かな星空から
+あふれる命の唄が聞こえる
+</song>

@@ -1,0 +1,10 @@
+<song artist="David_Bowie" title="Indroduction">
+This is the story of Peter and the wolf.
+Each character in the tale is going to be represented by a different instrument of the orchestra. For instance, the bird will be played by the flute. (Like this.) Here's the duck, played by the oboe.
+The cat by the clarinet.
+The bassoon will represent grandfather.
+The wolf by the French horns.
+And Peter by the strings.
+The blast of the hunters' shotguns played by the kettle drums.
+Are you sitting comfortably? Then I shall begin.
+</song>

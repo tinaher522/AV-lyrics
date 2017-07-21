@@ -1,0 +1,6 @@
+<song artist="Outkast" title="I'm_Cool_(Interlude)">
+It's cold, it's cold. 
+No it's cold. It ain't cold, it's cold.
+I'm cool, I'm cool.
+I'm cool. It's me, I'm cool.
+</song>

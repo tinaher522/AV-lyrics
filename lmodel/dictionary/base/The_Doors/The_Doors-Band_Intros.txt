@@ -1,0 +1,3 @@
+<song artist="The_Doors" title="Band_Intros">
+Now, in this corner, Ray Manzarek. Over here, we got Robbie Krieger on... John Densmore on drums.
+</song>

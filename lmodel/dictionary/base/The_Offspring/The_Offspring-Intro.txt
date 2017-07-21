@@ -1,0 +1,5 @@
+<song artist="The_Offspring" title="Intro">
+When we're ready to sing, 
+We step up the microphone, 
+And it comes out something like this:
+</song>

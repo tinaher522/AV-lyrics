@@ -1,0 +1,5 @@
+<song artist="The_Doors" title="Roadhouse_Vamp">
+Yeah! Come on!
+Well, gonna start the show.
+Gonna start the show.
+</song>

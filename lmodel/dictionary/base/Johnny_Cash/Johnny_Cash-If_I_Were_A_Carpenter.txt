@@ -1,0 +1,63 @@
+<song artist="Johnny_Cash" title="If_I_Were_A_Carpenter">
+Johnny Cash:
+ If I were a carpenter
+ And you were a lady,
+ Would you marry me anyway?
+ Would you have my baby?
+June Carter:
+ If you were a carpenter,
+ And I were a lady,
+ I'd marry you anyway.
+ I'd have your baby.
+Johnny:
+ If a tinker was my trade,
+ Would I still find you?
+June:
+ I'd be carryin' the pots you made,
+Followin' behind you.
+Together:
+ Save your love through loneliness,
+ Save your love though sorrow,
+Johnny:
+ I'd give you my onliness,
+Together:
+ Give me your tomorrow.
+
+Johnny:
+ If I were a miller
+ At a mill wheel grinding,
+ Would you miss your colored blouse,
+ And your soft shoes shining?
+June:
+ If you were a miller,
+ At mill wheel grinding,
+ I'd not miss my color blouse
+ And my soft shoes shining.
+Together:
+ Save your love through loneliness,
+ Save your love though sorrow,
+Johnny:
+ I'd give you my onliness,
+Together:
+ Give me your tomorrow.
+Johnny:
+ If I worked my hands in wood,
+ Would you still love me?
+June:
+ I'd answer you, "Yes I would."
+Johnny:
+ And would you not be above me?
+Johnny:
+ If I were a carpenter,
+ And you were a lady,
+June:
+ I'd marry you anyway, 
+ I'd have your baby.
+Together:
+ Save your love through loneliness,
+ Save your love though sorrow,
+Johnny:
+ I'd give you my onliness,
+Together:
+ Give me your tomorrow.
+</song>

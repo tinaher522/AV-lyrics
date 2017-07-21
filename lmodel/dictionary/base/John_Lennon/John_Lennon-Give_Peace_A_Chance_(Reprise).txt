@@ -1,0 +1,7 @@
+<song artist="John_Lennon" title="Give_Peace_A_Chance_(Reprise)">
+All we are saying is give peace a chance
+All we are saying is give peace a chance
+All we are saying is give peace a chance
+All we are saying is give peace a chance
+etc.
+</song>

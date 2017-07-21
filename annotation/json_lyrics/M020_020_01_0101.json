@@ -1,0 +1,380 @@
+[
+    {
+        "end": 11.645041036605834, 
+        "index": 1, 
+        "lyric": "There's an echo pulling out the meaning\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 5.976672840118402, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 17.68593883514405, 
+        "index": 2, 
+        "lyric": "Rescuing a nightmare from a dream\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 11.634446859359741, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 23.98923687934876, 
+        "index": 3, 
+        "lyric": "The voices in my head are always screaming\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 17.554208993911743, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 29.68413395881653, 
+        "index": 4, 
+        "lyric": "That none of this means anything to me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 24.308632850646973, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 33.55834093093872, 
+        "index": 5, 
+        "lyric": "And it's a long way back from seventeen\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 29.776237869262694, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 36.48674492835998, 
+        "index": 6, 
+        "lyric": "The whispers turn into a scream\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 33.269876003265374, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 41.75522494316101, 
+        "index": 7, 
+        "lyric": "And I'm, I'm not coming home\n", 
+        "repeat": 0, 
+        "start": 36.282305955886834, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 42.943490982055664, 
+        "index": 8, 
+        "lyric": "Save your breath, I'm nearly\n", 
+        "repeat": 0, 
+        "start": 42.0433988571167, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 48.70171785354614, 
+        "index": 9, 
+        "lyric": "Bored to death and fading fast\n", 
+        "repeat": 0, 
+        "start": 42.81058297157287, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 52.41229796409607, 
+        "index": 10, 
+        "lyric": "Life is too short to last long\n", 
+        "repeat": 0, 
+        "start": 48.818548917770386, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 55.433863973617555, 
+        "index": 11, 
+        "lyric": "Back on Earth, I'm broken\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 52.07857394218444, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 61.17881894111633, 
+        "index": 12, 
+        "lyric": "Lost and cold and fading fast\n", 
+        "repeat": 0, 
+        "start": 55.41501893997192, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 64.63986897468567, 
+        "index": 13, 
+        "lyric": "Life is too short to last long\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 61.24034099578857, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 69.48076291084288, 
+        "index": 14, 
+        "lyric": "There's a stranger staring at the ceiling\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 64.23572592735295, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 75.47311506271362, 
+        "index": 15, 
+        "lyric": "Rescuing a tiger from a tree\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 69.61072783470155, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 81.825679063797, 
+        "index": 16, 
+        "lyric": "The pictures in her head are always dreaming\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 75.64662790298462, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 87.6875159740448, 
+        "index": 17, 
+        "lyric": "Each of them means everything to me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 81.96887888908387, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 91.63491501808167, 
+        "index": 18, 
+        "lyric": "And it's a long way back from seventeen\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 87.72789998054506, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 94.46670989990236, 
+        "index": 19, 
+        "lyric": "The whispers turn into a scream\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 91.26758089065555, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 98.73531794548035, 
+        "index": 20, 
+        "lyric": "And I'm, I'm not coming home\n", 
+        "repeat": 0, 
+        "start": 94.34146595001224, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 101.2165629863739, 
+        "index": 21, 
+        "lyric": "Save your breath, I'm nearly\n", 
+        "repeat": 0, 
+        "start": 98.974937915802, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 106.69619584083557, 
+        "index": 22, 
+        "lyric": "Bored to death and fading fast\n", 
+        "repeat": 0, 
+        "start": 101.40455985069275, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 110.57999086380005, 
+        "index": 23, 
+        "lyric": "Life is too short to last long\n", 
+        "repeat": 0, 
+        "start": 106.94666194915771, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 113.4652898311615, 
+        "index": 24, 
+        "lyric": "Back on Earth, I'm broken\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 110.18822398185733, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 119.2663140296936, 
+        "index": 25, 
+        "lyric": "Lost and cold and fading fast\n", 
+        "repeat": 0, 
+        "start": 113.61694502830505, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 122.40312190055849, 
+        "index": 26, 
+        "lyric": "Life is too short to last long\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 119.11778588294985, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 138.6127519607544, 
+        "index": 27, 
+        "lyric": "I think I met her at the minute that the rhythm was set down\n", 
+        "repeat": 0, 
+        "start": 134.5819379806512, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 141.53384399414062, 
+        "index": 28, 
+        "lyric": "I said I'm sorry I'm a little bit of a letdown\n", 
+        "repeat": 0, 
+        "start": 138.7614529132843, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 144.663400888443, 
+        "index": 29, 
+        "lyric": "But all my friends are daring me to come over\n", 
+        "repeat": 0, 
+        "start": 141.71206998825073, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 147.5556619167328, 
+        "index": 30, 
+        "lyric": "So I come over and over and over\n", 
+        "repeat": 0, 
+        "start": 144.83187198638916, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 150.1376450061798, 
+        "index": 31, 
+        "lyric": "So let me buy you a drink and we'll pretend that you think\n", 
+        "repeat": 0, 
+        "start": 147.71667194366455, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 153.35970902442932, 
+        "index": 32, 
+        "lyric": "That I'm the man of your dreams come to life in a dive bar\n", 
+        "repeat": 0, 
+        "start": 150.31982398033142, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 156.98873090744019, 
+        "index": 33, 
+        "lyric": "And we'll go over and over and over\n", 
+        "repeat": 0, 
+        "start": 153.62061095237732, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 159.91668486595154, 
+        "index": 34, 
+        "lyric": "And we'll go over and over and over\n", 
+        "repeat": 0, 
+        "start": 157.13618087768555, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 163.029944896698, 
+        "index": 35, 
+        "lyric": "And we'll go over and over and over\n", 
+        "repeat": 0, 
+        "start": 160.08421683311462, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 165.93286299705505, 
+        "index": 36, 
+        "lyric": "And we'll go over and over and over\n", 
+        "repeat": 0, 
+        "start": 163.2277228832245, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 168.53841304779053, 
+        "index": 37, 
+        "lyric": "Save your breath, I'm nearly\n", 
+        "repeat": 0, 
+        "start": 165.18215999603277, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 174.043212890625, 
+        "index": 38, 
+        "lyric": "Bored to death and fading fast\n", 
+        "repeat": 0, 
+        "start": 168.67647504806519, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 177.68646788597107, 
+        "index": 39, 
+        "lyric": "Life is too short to last long\n", 
+        "repeat": 0, 
+        "start": 174.36690306663513, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 180.77776503562927, 
+        "index": 40, 
+        "lyric": "Back on Earth, I'm broken\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 177.46839103698733, 
+        "wavfile": "M020_020_01_0101"
+    }, 
+    {
+        "end": 186.5617640018463, 
+        "index": 41, 
+        "lyric": "Lost and cold and fading fast\n", 
+        "repeat": 0, 
+        "start": 180.76816000938416, 
+        "wavfile": "M020_020_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 190.29914689064026, 
+        "index": 42, 
+        "lyric": "Life is too short to last long\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 186.54935293197633, 
+        "wavfile": "M020_020_01_0101"
+    }
+]

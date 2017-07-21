@@ -1,0 +1,240 @@
+M001_001_01_0101,https://youtu.be/FQNN5kCbQcQ,Boyce Avenue,Oasis - Wonderwall,guitar,original,original
+F002_002_01_0101,https://youtu.be/rq-RbqSXpp8,Sofia,Adele - Send My Love (To Your New Lover),guitar,original,original
+F003_003_01_0101,https://youtu.be/fzxag7U3Snk,Daniela Andrade,Gnarls Barkley - Crazy,guitar,original,original
+F004_004_02_0101,https://youtu.be/EsDfwqzOJRc,Beth,Calvin Harris - How Deep Is Your Love,piano,original,original
+F005_005_01_0101,https://youtu.be/53Tl_E6WcL8,Mackenzie Johnson,Tracy Chapman - Fast Car,guitar,original,original
+F006_006_01_0101,https://youtu.be/0gt5cEY6PKw,Jess Greenberg,Extreme - More Than Words,guitar,original,original
+M007_007_01_0101,https://youtu.be/E0ELg_rjIlQ,Mike Massé,Who - Behind Blue Eyes,guitar,original,original
+F008_008_01_0101,https://youtu.be/Z8Qnui5DWg4,Birdy,Birdy - Tee Shirt,guitar,original,original
+M009_009_01_0101,https://youtu.be/8ejeEBlDESc,Obadiah Parker,Obadiah Parker - Hey Ya,guitar,original,original
+M010_010_01_0101,https://youtu.be/wRzA0gxhZU8,Gustavo Trebien,Ellie Goulding - Love Me Like You Do,guitar,original,original
+M011_011_01_0101,https://youtu.be/AnFsq1Jx-yQ,Ed Sheeran,Lorde - Royals,guitar,original,original
+F012_012_01_0101,https://youtu.be/PndWEWfaCPs,Zella Day,Zella Day - Seven Nation Army,guitar,original,original
+F013_013_01_0101,https://youtu.be/C5YlcZ3TaUQ,Rebecca Shearing,Robin Thicke - Blurred Lines,guitar,original,original
+M014_014_01_0101,https://youtu.be/JLcl2698NaY,Brian Mikula,Tonic - If You Could Only See,guitar,original,original
+M015_015_01_0101,https://youtu.be/0J8SoKIyJHs,Alex Hamel,The Beatles - Come Together,guitar,original,original
+M016_016_01_0101,https://youtu.be/oEtoA--yyfA,Alan Robinson,The Ramones - Baby I Love You,guitar,original,original
+M017_017_01_0101,https://youtu.be/o5vAI-qb54M,Mike Peralta,The Ramones - Pet Sematary,guitar,original,original
+M018_018_01_0101,https://youtu.be/chLFi2cFxzo,John Mayer,John Mayer - Queen Of California,guitar,original,original
+M019_019_01_0101,https://youtu.be/5JuUMoZKFsk,Awake! Awake!,Queen - Save Me,guitar,original,original
+M020_020_01_0101,https://youtu.be/Hafa88i8E5Y,Janick Thibault,Blink-182 - Bored To Death,guitar,original,original
+F021_021_01_0101,https://youtu.be/uY6GPeeZ9aQ,Emg Acoustics Cover,Al Green - Let'S Stay Together,guitar,original,original
+F022_022_01_0101,https://youtu.be/NJA9Io_YbeE,Grace Weber,Stevie Wonder - Isn'T She Lovely,guitar,original,original
+M023_023_01_0101,https://youtu.be/4YS2qfVt4UQ,Andrew Garcia,Maroon 5 - Sunday Morning,guitar,original,original
+M024_024_01_0101,https://youtu.be/6rJnZRnRE4I,Jeremy Passion,Gotye - Somebody That I Used To Know,guitar,original,original
+M025_025_01_0101,https://youtu.be/l7XEggwOabs,Noah Cover,The Zutons - Valerie,guitar,original,original
+F026_026_01_0101,https://youtu.be/7_3hKVxOcRI,Tori Kelly,Justin Timberlake - Suit & Tie,guitar,original,original
+F027_027_01_0101,https://youtu.be/n-PPzymcxzA,Arlene Zelina,Pharrell Williams - Happy,guitar,original,original
+F028_028_01_0101,https://youtu.be/MGs2f1ncMgA,Hannah Trigwell,Sam Smith - Stay With Me,guitar,original,original
+F029_029_01_0101,https://youtu.be/81cjT12FRaw,Alexandra Burke,Janet Jackson - Let'S Wait Awhile,guitar,original,original
+F030_030_01_0101,https://youtu.be/tUiDg26s0o0,Lindsey Saunders,The Beatles - Something,guitar,original,original
+M031_031_01_0101,https://youtu.be/QvyglEro34s,Acmusic7,Foo Fighters - Learn To Fly,guitar,original,original
+M032_032_01_0101,https://youtu.be/aSLshMDX1EY,Joe Muscatello,Prince - Purple Rain,guitar,original,original
+F033_033_01_0101,https://youtu.be/8BpXAA1bqUk,Amanda Law,Justin Bieber - What Do You Mean,guitar,original,original
+M034_034_01_0101,https://youtu.be/kuaFUflWwdU,Fré Monti,Seal - Kiss From A Rose,guitar,original,original
+M035_035_01_0101,https://youtu.be/W_ydnsr0bm4,Will Gittens,Justin Bieber - Love Yourself,guitar,original,original
+F036_036_01_0101,https://youtu.be/89mfGEcrsWc,Isabelle Alexandra,50 Cent - 21 Questions,guitar,original,original
+F037_037_01_0101,https://youtu.be/theFtkdm5Ps,Cammie Lester,Chris Stapleton - Tennessee Whiskey,guitar,original,original
+M038_038_01_0101,https://youtu.be/OPK3jt5WAAA,Braeden Counts,Florida Georgia Line - Anything Goes,guitar,original,original
+M039_039_01_0101,https://youtu.be/0K0QIaVF4gA,Fabio Righi,Rolling Stones - Paint It Black,guitar,original,original
+M040_040_01_0101,https://youtu.be/tYHGvgdET7Y,Kjgydell,Jake Bugg - Seen It All,guitar,original,original
+M041_041_01_0101,https://youtu.be/eCq8vju2ndM,Jon Prucha,Lady Gaga - Paparazzi,guitar,original,original
+F042_042_01_0101,https://youtu.be/SFJqpgHOnvI,Laurenbonnell24,Justin Bieber - Sorry,guitar,original,original
+F043_043_01_0101,https://youtu.be/bG4fBOiG7Lw,Murasakimochi,Nobuo Uematsu - Eyes On Me,guitar,original,original
+M044_044_01_0101,https://youtu.be/MAh_OXCj0lA,Alex Aiono,James Bay - Let It Go,guitar,original,original
+M045_045_01_0101,https://youtu.be/oqZTOM8HKu4,Jeremy Ornelas,Temple Of The Dog - Hunger Strike,guitar,original,original
+M046_046_01_0101,https://youtu.be/G02QOSaxH-w,Travis Cormier,Bon Jovi - Always,guitar,original,original
+F047_047_01_0101,https://youtu.be/eLLvkJxMcFE,Jennifer Hannah,Eric Clapton - Tears In Heaven,guitar,original,original
+M048_048_01_0101,https://youtu.be/GcBOCelWoDE,Banesilvermoon,Pearl Jam - Black,guitar,original,original
+F049_049_01_0101,https://youtu.be/-EEanIx2W5g,Moderndaywarrior3,The Distillers - The Hunger,guitar,original,original
+F050_050_01_0101,https://youtu.be/-2rMeUkvpyI,Emily Davis,Bad Religion - You,guitar,original,original
+M051_051_01_0101,https://youtu.be/waBMrTY7xVA,Dennis Baumann,Bad Religion - Sorrow,guitar,original,original
+M052_052_01_0101,https://youtu.be/hECTRAAgMRU,Jaysongw,Bee Gees - How Deep Is Your Love,guitar,original,original
+M053_053_01_0101,https://youtu.be/-YAd9hN4eew,Ray Lamontagne,Bee Gees - To Love Somebody,guitar,original,original
+M054_054_01_0101,https://youtu.be/a8-t1FVxlQQ,Mel Plant Music,Bob Dylan - Hurricane,guitar,original,original
+M055_055_01_0101,https://youtu.be/_UWDuk5j92w,Craig,Bouncing Souls - Kids And Heroes,guitar,original,original
+M056_056_01_0101,https://youtu.be/rkz5TegISQA,Ortopilot,Carole King - You'Ve Got A Friend,guitar,original,original
+M057_057_01_0101,https://youtu.be/wCSPzu55KFU,Rick Farmer,Faith No More - Easy,guitar,original,original
+M058_058_01_0101,https://youtu.be/ykPc_6BVam4,Vintagejamest,Guns N' Roses - Don'T Cry,guitar,original,original
+F059_059_01_0101,https://youtu.be/3AF74JgDUS8,Florence Pardoe,John Lennon - Jealous Guy,guitar,original,original
+M020_060_01_0101,https://youtu.be/pNqpwTh-YE8,Janick Thibault,Journey - Don'T Stop Believing,guitar,original,original
+M060_061_01_0101,https://youtu.be/eOuQ-xVEqK8,220Volt74,Scorpions - Send Me An Angel,guitar,original,original
+M061_062_01_0101,https://youtu.be/oDkIp4pveXY,Patrick Carroll,Survivor - Eye Of The Tiger,guitar,original,original
+M062_063_01_0101,https://youtu.be/yqgj7v_nDnc,Luke Duffett,The Cure - Friday I'M In Love,guitar,original,original
+F063_064_01_0101,https://youtu.be/9g2JRk0OCkQ,Jenn Fiorentino,The Offspring - Want You Bad,guitar,original,original
+M064_065_01_0101,https://youtu.be/y6qVcW8BM80,Henry Capelossi,Whitesnake - Is This Love,guitar,original,original
+M065_066_01_0101,https://youtu.be/eRJmAPuJOBs,Danny Mcevoy,Peter Cetera - Glory Of Love,guitar,original,original
+M066_067_01_0101,https://youtu.be/IJFu-S47loY,Jamé Forbes,Gorillaz - Feel Good Inc.,guitar,original,original
+F067_068_01_0101,https://youtu.be/nISVPZ8SdB0,Val Maugenest,Partynextdoor - Come & See Me,guitar,original,original
+F068_069_01_0101,https://youtu.be/BrcPR1PpNkM,Iman,Rihanna - Consideration,guitar,original,original
+F069_070_01_0101,https://youtu.be/K0If3_Dw3vI,Phebe Edwards,Adele - All I Ask,guitar,original,original
+F070_071_01_0101,https://youtu.be/OspgP3hpcxU,Magdalena Wolk,Banks - Bette,guitar,original,original
+F071_072_01_0101,https://youtu.be/3hPZafPMpeI,Eliza,Alessia Cara - Here,guitar,original,original
+F072_073_01_0101,https://youtu.be/Lfdbv57x4gI,Sophia Alexa,Outkast - Hey Ya!,guitar,original,original
+M073_074_01_0101,https://youtu.be/6BKBZCRlpC4,Mullally,Zayn - Pillow Talk,guitar,original,original
+F074_075_01_0101,https://youtu.be/AQuIbWSqw28,Rothwell,Lukas Graham - 7 Years,guitar,original,original
+F075_076_01_0101,https://youtu.be/tsna7C-LRPg,Lauren Thalia,Zara Larsson & Mnek - Never Forget You,guitar,original,original
+F076_077_01_0101,https://youtu.be/lzWlBVH72XY,Phoebe Katis,Omi - Cheerleader,guitar,original,original
+F077_078_01_0101,https://youtu.be/7Q6q_nLOgPk,Clara Bond,Shawn Mendes - Stitches,guitar,original,original
+F078_079_01_0101,https://youtu.be/_9dXWgOrtMg,Mila Falls,Grimes - Flesh Without Blood,guitar,original,original
+M079_042_01_0101,https://youtu.be/AIzPxgRW9hQ,Tom Bem,Justin Bieber - Sorry,guitar,original,original
+F080_035_01_0101,https://youtu.be/Y-H6I2_OIEM,Kristie Killick,Justin Bieber - Love Yourself,guitar,original,original
+F081_080_01_0101,https://youtu.be/Y5WoWbPI7fs,Stephanie Rainey,Beyonce - Runnin',guitar,original,original
+F082_080_01_0101,https://youtu.be/Vgw_bwns_vU,Philippa June,Beyonce - Runnin',guitar,original,original
+F083_004_01_0101,https://youtu.be/ksNdLcWlG2w,Ebony Day,Calvin Harris - How Deep Is Your Love,guitar,original,original
+M084_081_01_0101,https://youtu.be/U9yZ9FDbgYk,Etham,Adele - Hello,guitar,original,original
+F083_035_01_0101,https://youtu.be/6wnNT1WSGgY,Ebony Day,Justin Bieber - Love Yourself,guitar,original,original
+F072_082_01_0101,https://youtu.be/kiuSmD-abxo,Sophia Alexa,Sam Smith - La La La,guitar,original,original
+F085_083_01_0101,https://youtu.be/jmi0SAscvw0,Linah Is,Major Lazer - Lean On,guitar,original,original
+M086_084_01_0101,https://youtu.be/tAIz2mo0VnM,Jasper Storey,Sam Smith - Writing'S On The Wall,guitar,original,original
+F087_085_01_0101,https://youtu.be/8hFXEy603Iw,Lisa Wright,The Neighbourhood - Rip 2 My Youth,guitar,original,original
+F088_086_01_0101,https://youtu.be/Nwa2Hvg9o-U,De La Rose,Lianne La Havas - Ghost,guitar,original,original
+M089_087_01_0101,https://youtu.be/seHEuq-hipg,Conor Coughlan,Jamie Lawson - Wasn'T Expecting That,guitar,original,original
+M090_088_01_0101,https://youtu.be/9jVif6czkAc,Matt Wills,Alunageorge - You Know You Like It,guitar,original,original
+M091_089_01_0101,https://youtu.be/2q2X9P8Ej1A,Richard De Soussa,Rihanna - Man Down,guitar,original,original
+F092_090_01_0101,https://youtu.be/6JSkkdXNZcw,Letisha Gordon,K. Michelle - Love 'Em All,guitar,original,original
+M093_091_01_0101,https://youtu.be/mwmj7Hsfqsk,Brodie Kelly,Cody Simpson - Free,guitar,original,original
+F094_092_01_0101,https://youtu.be/BudstJ0x-MI,Storm,Years & Years - Shine,guitar,original,original
+M095_093_01_0101,https://youtu.be/MY7Qgth1ieE,Harry Pane,Kygo - Firestone,guitar,original,original
+M096_094_01_0101,https://youtu.be/2JK9G0vdbro,Ady Suleiman,Miguel - Quickie,guitar,original,original
+F097_095_01_0101,https://youtu.be/dy1UOLBo4oo,Scarlet Baxter,Years & Years - King,guitar,original,original
+M098_096_01_0101,https://youtu.be/VW1ZDdseC_Q,Kyko,Lionel Richie - All Night Long,guitar,original,original
+M099_044_01_0101,https://youtu.be/RfLDRHOBzNE,Project Alfie,James Bay - Let It Go,guitar,original,original
+M100_097_01_0101,https://youtu.be/bJ6zMrHWLTU,Shaun Colwill,Marlon Roudette - When The Beat Drops Out,guitar,original,original
+M101_098_01_0101,https://youtu.be/gQDSWoxnvFU,Mark Asari,Rihanna - Fourfive Seconds,guitar,original,original
+M102_099_01_0101,https://youtu.be/D4vp0T5TNlU,Sam Brett,Charli Xcx - Doing It,guitar,original,original
+M103_098_01_0101,https://youtu.be/MwFmkDI3bl0,Elliott Pritchard,Rihanna - Fourfive Seconds,guitar,original,original
+M001_100_01_0101,https://youtu.be/Z1lpZRe7-R8,Boyce Avenue,Foo Fighters - Everlong,guitar,original,original
+M001_047_01_0101,https://youtu.be/yhAlVxcE3QA,Boyce Avenue,Eric Clapton - Tears In Heaven,guitar,original,original
+M001_101_01_0101,https://youtu.be/0SNCkrC2UCU,Boyce Avenue,John Mayer - The Age Of Worry,guitar,original,original
+F002_102_01_0101,https://youtu.be/A54wJ0zxIaI,Sofia,Amy Winehouse - Back To Black,guitar,original,original
+F003_103_01_0101,https://youtu.be/uQzm3GdqfMM,Daniela Andrade,Rihanna - Higher,guitar,original,original
+F003_104_01_0101,https://youtu.be/6Zex2x-6ePc,Daniela Andrade,Pixies - Where Is My Mind?,guitar,original,original
+F003_105_01_0101,https://youtu.be/LkxSU__Bi3w,Daniela Andrade,Nirvana - Smells Like Teen Spirit,guitar,original,original
+F005_081_01_0101,https://youtu.be/Rn00vAlcnR4,Mackenzie Johnson,Adele - Hello,guitar,original,original
+F005_106_01_0101,https://youtu.be/LLAhxpVCCe0,Mackenzie Johnson,Ed Sheeran - Don'T,guitar,original,original
+F005_107_01_0101,https://youtu.be/3IvM02BSMxI,Mackenzie Johnson,Ed Sheeran - All Of The Stars,guitar,original,original
+F006_108_01_0101,https://youtu.be/0CZuZZ17mck,Jess Greenberg,Red Hot Chili Peppers - Under The Bridge,guitar,original,original
+F006_109_01_0101,https://youtu.be/F6DusvaRmyY,Jess Greenberg,Led Zeppelin - Stairway To Heaven,guitar,original,original
+F006_001_01_0101,https://youtu.be/fk8oBPatupQ,Jess Greenberg,Oasis - Wonderwall,guitar,original,original
+M007_110_01_0101,https://youtu.be/ixOj_83IkEQ,Mike Massé,Five For Fighting - Superman,guitar,original,original
+M007_111_01_0101,https://youtu.be/jHzmi487z8U,Mike Massé,David Bowie - Heroes,guitar,original,original
+M010_112_01_0101,https://youtu.be/d-Zd6q7cdI4,Gustavo Trebien,Creed - My Sacrifice,guitar,original,original
+M010_113_01_0101,https://youtu.be/SrnCvD2OHlQ,Gustavo Trebien,Ronan Keating - When You Say Nothing At All,guitar,original,original
+M010_114_01_0101,https://youtu.be/QeXY678B7pM,Gustavo Trebien,Joan Osborne - One Of Us,guitar,original,original
+F104_115_01_0101,https://youtu.be/AB2ukG9t7cg,Tristan Prettyman,Tristan Prettyman - I Was Gonna Marry You,guitar,original,original
+F013_116_01_0101,https://youtu.be/wd17jJQwIiU,Rebecca Shearing,Beyonce - Resentment,guitar,original,original
+F013_117_01_0101,https://youtu.be/q23Kw1YTaUE,Rebecca Shearing,Bruno Mars - Locked Out Of Heaven,guitar,original,original
+M014_118_01_0101,https://youtu.be/ekv68VNC4CI,Brian Mikula,Elton John - Tiny Dancer,guitar,original,original
+M014_119_01_0101,https://youtu.be/3EvCSZglEWI,Brian Mikula,Foo Fighters - My Hero,guitar,original,original
+M014_120_01_0101,https://youtu.be/qX7zymWSw70,Brian Mikula,Pink Floyd - Comfortably Numb,guitar,original,original
+M015_121_01_0101,https://youtu.be/k1FOnYnW7ok,Alex Hamel,Radiohead - Creep,guitar,original,original
+M015_122_01_0101,https://youtu.be/Jt5Njb0bY4g,Alex Hamel,The Doors - Light My Fire,guitar,original,original
+M015_123_01_0101,https://youtu.be/NS4SrfV9PKQ,Alex Hamel,Elton John - Your Song,guitar,original,original
+M015_047_01_0101,https://youtu.be/Whvwh_uqH5s,Alex Hamel,Eric Clapton - Tears In Heaven,guitar,original,original
+M016_124_01_0101,https://youtu.be/KQyMoky6oK4,Alan Robinson,Leonard Cohen - Hallelujah,guitar,original,original
+M016_125_01_0101,https://youtu.be/JwGcobw6mD0,Alan Robinson,The Beatles - From Me To You,guitar,original,original
+M016_126_01_0101,https://youtu.be/uRGz08FKaiE,Alan Robinson,The Beatles - Let It Be,guitar,original,original
+M017_127_01_0101,https://youtu.be/C8C5dqXX6hA,Mike Peralta,Ed Sheeran - Kiss Me,guitar,original,original
+M017_128_01_0101,https://youtu.be/nK3cRrVOxgM,Mike Peralta,5 Seconds Of Summer - She'S Kinda Hot,guitar,original,original
+M017_129_01_0101,https://youtu.be/uDjQtjlxmkI,Mike Peralta,Maroon 5 - Sugar,guitar,original,original
+M019_130_01_0101,https://youtu.be/10dp0NZtyf0,Awake! Awake!,U2 - Ordinary Love,guitar,original,original
+M019_131_01_0101,https://youtu.be/k2edmOOC6G8,Awake! Awake!,Coldplay - Midnight,guitar,original,original
+M020_132_01_0101,https://youtu.be/IKWD_wG0S3s,Janick Thibault,Bring Me The Horizon - Drown,guitar,original,original
+M020_133_01_0101,https://youtu.be/7p9dKJXmS8Y,Janick Thibault,Linkin Park - Final Masquerade,guitar,original,original
+M020_134_01_0101,https://youtu.be/cdKaO1qp4jk,Janick Thibault,A Day To Remember - All I Want,guitar,original,original
+M020_135_01_0101,https://youtu.be/_nTcTMY7MFg,Janick Thibault,Rihanna - We Found Love,guitar,original,original
+F021_136_01_0101,https://youtu.be/2xUHkiANYts,Emg Acoustics Cover,Tori Amos - Winter,guitar,original,original
+F021_137_01_0101,https://youtu.be/iI5HLPnVGt0,Emg Acoustics Cover,The Police - Every Breath You Take,guitar,original,original
+F021_138_01_0101,https://youtu.be/EPCNnL2TkDc,Emg Acoustics Cover,Lionel Richie - Hello,guitar,original,original
+F021_139_01_0101,https://youtu.be/75Q05_l11wA,Emg Acoustics Cover,Adele - Someone Like You,guitar,original,original
+M023_001_01_0101,https://youtu.be/d9Sipy8t0II,Andrew Garcia,Oasis - Wonderwall,guitar,original,original
+M023_140_01_0101,https://youtu.be/-4Yx_GYcYdQ,Andrew Garcia,Rihanna - Work,guitar,original,original
+F105_141_01_0101,https://youtu.be/2d7o14FqaKw,Lovelle,Katy Perry - Legendary Lovers,guitar,original,original
+F106_142_01_0101,https://youtu.be/q0-_3fZBGuQ,Ayelle,Sia - Elastic Heart,guitar,original,original
+F107_143_01_0101,https://youtu.be/FlNdwdYiIjM,Sylvia Mwenze,Jazmine Sullivan - Stupid Girl,guitar,original,original
+F108_144_01_0101,https://youtu.be/W9IyAqoZnB0,Flynn,Jennifer Hudson - Trouble,guitar,original,original
+F109_145_01_0101,https://youtu.be/g-FdYrstOWo,Lilly Ahlberg,Tove Lo - Habits (Stay High),guitar,original,original
+F110_146_01_0101,https://youtu.be/QSjfPWfPmgo,Lianne Kaye,John Newman - Blame,guitar,original,original
+F111_147_01_0101,https://youtu.be/SRz85AArloI,Jess Thristan,Taylor Swift - Blank Space,guitar,original,original
+F112_148_01_0101,https://youtu.be/ip80MBQR5o8,Rukhsana Merrise,Grades - Crocodile Tears,guitar,original,original
+F113_149_01_0101,https://youtu.be/oALNHO-qQCA,Delaire,Sam Smith - I'M Not The Only One,guitar,original,original
+M114_150_01_0101,https://youtu.be/8tzHN2mct9A,Fraser Churchill,Magic! - Rude,guitar,original,original
+F115_151_01_0101,https://youtu.be/7psy1qoiFLU,Kyra,Jessie J - Bang Bang,guitar,original,original
+F116_152_01_0101,https://youtu.be/2jawiv5UmRc,Effie,Kwabs - Wrong Or Right,guitar,original,original
+F117_153_01_0101,https://youtu.be/lvWnNF0xu5M,Katie Nicholas,Kacey Musgraves - Follow Your Arrow,guitar,original,original
+M118_154_01_0101,https://youtu.be/oc8Efc5e58U,Jamie Grey,Raleigh Ritchie - Stronger Than Ever,guitar,original,original
+M119_155_01_0101,https://youtu.be/3TXKLJZjpSc,Chromatone,Rita Ora - I Will Never Let You Down,guitar,original,original
+F120_156_01_0101,https://youtu.be/7fM1sxElshY,Violet Skies,Ed Sheeran - Thinking Out Loud,guitar,original,original
+M121_157_01_0101,https://youtu.be/fpE_4RRc8rs,Etham Basden,Bruno Mars - Gorilla,guitar,original,original
+M122_158_01_0101,https://youtu.be/PFLrAUGGWFU,Alex Francis,Michael Jackson - Love Never Felt So Good,guitar,original,original
+F123_159_01_0101,https://youtu.be/ucmZjeJ7C8Y,Amber Whitworth,Beyonce - Pretty Hurts,guitar,original,original
+F124_158_01_0101,https://youtu.be/OT4Ig0ZzQSM,Beth Sherburn,Michael Jackson - Love Never Felt So Good,guitar,original,original
+F125_160_01_0101,https://youtu.be/qb4LjFtathI,Kina Grannis,Coldplay - Magic,guitar,original,original
+F126_161_01_0101,https://youtu.be/CE-3NVMn2iw,Eliza Shaddad,Kiesza - Hideaway,guitar,original,original
+F127_155_01_0101,https://youtu.be/4NwDRn8WfMo,Miss Sha,Rita Ora - I Will Never Let You Down,guitar,original,original
+F128_162_01_0101,https://youtu.be/gLbk4OnDYjM,Laura Zocca,Ellie Goulding - Beating Heart,guitar,original,original
+F129_163_01_0101,https://youtu.be/jd1lO4sy6uM,Sasha Keable,Jhené Aiko - The Worst,guitar,original,original
+M130_164_01_0101,https://youtu.be/t7Y3T23or7g,James Robb,Pixie Lott - Nasty,guitar,original,original
+M131_165_01_0101,https://youtu.be/gFOwWCpsgGw,Andreas Moe,A Great Big World - Say Something,guitar,original,original
+F132_166_01_0101,https://youtu.be/B09_gP0-a3I,Shannon Saunders,Beyonce - Mine,guitar,original,original
+M133_167_01_0101,https://youtu.be/qTDlvErbc8Q,Jc Villafan,Ne-Yo - Let Me Love You,guitar,original,original
+M134_168_01_0101,https://youtu.be/Ba34X-0REUo,Charlie Brown,Miguel - Adorn,guitar,original,original
+F115_169_01_0101,https://youtu.be/ie06vnd9488,Kyra,Miguel - Do You,guitar,original,original
+M135_170_01_0101,https://youtu.be/9EdLOMSBFDU,Jp Cooper,Rihanna - Stay,guitar,original,original
+M118_171_01_0101,https://youtu.be/_GgowRVILcU,Jamie Grey,Macklemore - Can'T Hold Us,guitar,original,original
+M136_172_01_0101,https://youtu.be/cb9FO1koPyo,Jake Isaac,Bon Iver - I Can'T Make You Love Me,guitar,original,original
+M137_173_01_0101,https://youtu.be/SzUEf_EpFIs,Zach London,J. Cole - Workout,guitar,original,original
+F132_174_01_0101,https://youtu.be/SJEiDMFPP70,Shannon Saunders,Frank Ocean - Swim Good,guitar,original,original
+M138_175_01_0101,https://youtu.be/pv4ngbYebhg,Jacob Banks,Marvin Gaye - Let'S Get It On,guitar,original,original
+M139_176_01_0101,https://youtu.be/eEaCcUobUHM,Rufio Summers,Adele - Skyfall,guitar,original,original
+M140_177_01_0101,https://youtu.be/Ic-nF91qjJ8,James Craise,Jessie Ware - Night Light,guitar,original,original
+M141_178_01_0101,https://youtu.be/Rew1txwh1HI,Jackie D Williams,Disclosure - Latch,guitar,original,original
+F142_179_01_0101,https://youtu.be/ZiLIAYuGpGY,Olivia Leisk,Taylor Swift - I Knew You Were Trouble,guitar,original,original
+F083_180_01_0101,https://youtu.be/4F818SlTrxk,Ebony Day,Katy Perry - Roar,guitar,original,original
+F143_181_01_0101,https://youtu.be/J5YZRYccsPk,Lucy Kilner,Onerepublic - Counting Stars,guitar,original,original
+F110_182_01_0101,https://youtu.be/P1BolGK7uDc,Lianne Kaye,Imagine Dragons - Demons,guitar,original,original
+M144_183_01_0101,https://youtu.be/nu_eVkPg9s0,Zack Knight,Onerepublic - If I Lose Myself,guitar,original,original
+M145_184_01_0101,https://youtu.be/jB_a7DtqvMg,Luke Towler,5 Seconds Of Summer - She Looks So Perfect,guitar,original,original
+M146_185_01_0101,https://youtu.be/x0hoWvBZMfk,Eskimos,Katy B - Crying For No Reason,guitar,original,original
+M147_186_01_0101,https://youtu.be/MSmy9zl_12g,Yo Preston,Jason Derulo - Trumpets,guitar,original,original
+M001_081_02_0101,https://youtu.be/LWgqWuJG5Jg,Boyce Avenue,Adele - Hello,piano,original,original
+M001_010_02_0101,https://youtu.be/8SF1Wt__W6g,Boyce Avenue,Ellie Goulding - Love Me Like You Do,piano,original,original
+F002_187_02_0101,https://youtu.be/m-la4Km8Kqc,Sofia,John Legend - All Of Me,piano,original,original
+F004_188_02_0101,https://youtu.be/4zu9kAjXHjY,Beth,Alan Walker - Faded,piano,original,original
+F004_189_02_0101,https://youtu.be/GoSW-l0FaXc,Beth,Justin Bieber - What Do You Mean?,piano,original,original
+M007_126_02_0101,https://youtu.be/-YAu-sGIpwQ,Mike Massé,The Beatles - Let It Be,piano,original,original
+F013_190_02_0101,https://youtu.be/JEctXK2YPFA,Rebecca Shearing,Flume - Never Be Like You,piano,original,original
+F013_070_02_0101,https://youtu.be/Fr4xgCUdHfk,Rebecca Shearing,Adele - All I Ask,piano,original,original
+F148_191_02_0101,https://youtu.be/ndgC-ZquPRM,Emi Mcdade,Kodaline - All I Want,piano,original,original
+F149_087_02_0101,https://youtu.be/J2ZAo05TS9s,Abi Alton,Jamie Lawson - Wasn'T Expecting That,piano,original,original
+F150_042_02_0101,https://youtu.be/3L0SlkNS4lg,Sally Caitlin,Justin Bieber - Sorry,piano,original,original
+F151_084_02_0101,https://youtu.be/8LZTcgIIJbk,Rebecca James,Sam Smith - Writing'S On The Wall,piano,original,original
+M152_192_02_0101,https://youtu.be/3Ie3V5TiQgI,Jamie,Jamie Xx - Loud Places,piano,original,original
+F153_193_02_0101,https://youtu.be/Wdd764CDmh0,Hope,Birdy - Wings,piano,original,original
+M154_181_02_0101,https://youtu.be/LBeeBxwaAOM,Quigley,Onerepublic - Counting Stars,piano,original,original
+M130_194_02_0101,https://youtu.be/OS-YLg4CFXQ,James Robb,Nick Jonas - Jealous,piano,original,original
+F155_195_02_0101,https://youtu.be/ZRMNzgitplY,Pharella,Selena Gomez - The Heart Wants What It Wants,piano,original,original
+F149_196_02_0101,https://youtu.be/tUQnG3SiVtk,Abi Alton,Onerepublic - I Lived,piano,original,original
+M156_197_02_0101,https://youtu.be/8R5KKTvjBzo,Tom Prior,Naughty Boy - Home,piano,original,original
+F157_198_02_0101,https://youtu.be/XsCHyk_PE5U,Lauren Faith,Pharrell Williams - Lost Queen,piano,original,original
+M158_199_02_0101,https://youtu.be/VzfwENTrev4,Benedict,Disclosure - White Noise,piano,original,original
+F159_200_02_0101,https://youtu.be/XMXXsG0wHlo,Mallie,Ed Sheeran - Give Me Love,piano,original,original
+M141_201_02_0101,https://youtu.be/svUupqIauiY,Jackie D Williams,Passenger - Let Her Go,piano,original,original
+M160_202_02_0101,https://youtu.be/Y0ukDuQDGV4,Sid Batham,Lianne La Havas - Gone,piano,original,original
+M161_203_02_0101,https://youtu.be/p1LqlxPWeBw,Jody Brock,The Lumineers - Stubborn Love,piano,original,original
+F162_204_02_0101,https://youtu.be/iGV0uwP_10w,Raphaella,Imagine Dragons - Radioactive,piano,original,original
+F163_205_02_0101,https://youtu.be/9HPViNkJNMc,Erika David,The Wanted - Glad You Came,piano,original,original
+F164_206_02_0101,https://youtu.be/Fq4huCq56RM,Sarah Close,Owl City - Good Time,piano,original,original
+F162_207_02_0101,https://youtu.be/svSuQGDyed8,Raphaella,Justin Bieber - As Long As You Love Me,piano,original,original
+F165_208_02_0101,https://youtu.be/XV6xI6w5HWo,Kelli-Leigh,Jessie Ware - Wildest Moments,piano,original,original
+M166_209_02_0101,https://youtu.be/Fp4vxDMIJWM,Mexirass,Tom Petty - Free Fallin',piano,original,original
+F167_210_02_0101,https://youtu.be/Sivw6a4KiW4,Carrie Haber,Calvin Harris - I Need Your Love,piano,original,original
+M168_193_02_0101,https://youtu.be/YAo-CSE-fbE,Jacob Wellfair,Birdy - Wings,piano,original,original
+M169_211_02_0101,https://youtu.be/ThqLMTwJ9iE,Martin Luke Brown,Emeli Sandé - Free,piano,original,original
+M170_212_02_0101,https://youtu.be/08JOHQ8hglM,Ollie Sloan,Ellie Goulding - How Long Will I Love You,piano,original,original
+F171_160_02_0101,https://youtu.be/yFtZMmETxuU,Lauren Aquilina,Coldplay - Magic,piano,original,original
+M172_140_02_0101,https://youtu.be/ajmtkfbBKac,Ben Schuller,Rihanna - Work,piano,original,original
+F173_042_02_0101,https://youtu.be/U4_lPPMXbYg,Ellysa Rose,Justin Bieber - Sorry,piano,original,original
+M174_005_02_0101,https://youtu.be/e7RTmBifFeA,Sean Rumsey,Tracy Chapman - Fast Car,piano,original,original
+F125_213_01_0101,https://youtu.be/uHi9qvalUoI,Kina Grannis,Adele - Rolling In The Deep,guitar,original,original

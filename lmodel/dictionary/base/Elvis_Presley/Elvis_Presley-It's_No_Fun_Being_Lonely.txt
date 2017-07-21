@@ -1,0 +1,8 @@
+<song artist="Elvis_Presley" title="It's_No_Fun_Being_Lonely">
+It's no fun being lonely
+...
+Morning must come
+Knowing, knowing there's no one for me
+.....
+Knowing, knowing there's no one waiting for me
+</song>

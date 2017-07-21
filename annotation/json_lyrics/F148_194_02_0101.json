@@ -1,0 +1,410 @@
+[
+    {
+        "end": 6.823827123641967, 
+        "index": 1, 
+        "lyric": "All I want is nothing more\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 1.7043620586395254, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 12.2238180161, 
+        "index": 2, 
+        "lyric": "To hear you knocking at my door\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 7.23628306389, 
+        "transcription": "Hear you knocking at my door\n", 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 18.107931947700003, 
+        "index": 3, 
+        "lyric": "'Cause if I could see your face once more\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 12.2928611279, 
+        "transcription": "'Cause I could see your face once more\n", 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 24.106194973, 
+        "index": 4, 
+        "lyric": "I could die a happy man I'm sure\n", 
+        "repeat": 0, 
+        "start": 18.368035078, 
+        "transcription": "I die a happy girl I'm sure\n", 
+        "wavfile": "F148_194_02_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 30.471729087829594, 
+        "index": 5, 
+        "lyric": "When you said your last goodbye\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 24.486844062805176, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 36.26281509399415, 
+        "index": 6, 
+        "lyric": "I died a little bit inside\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 30.591739892959595, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 42.09569797515869, 
+        "index": 7, 
+        "lyric": "I lay in tears in bed all night\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 35.92032790184021, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 48.04884204864502, 
+        "index": 8, 
+        "lyric": "Alone without you by my side\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 42.18016505241394, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 52.1581170559, 
+        "index": 9, 
+        "lyric": "But If you loved me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 48.2269480228, 
+        "transcription": "If you loved me\n", 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 55.88881597518921, 
+        "index": 10, 
+        "lyric": "Why'd you leave me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 52.31726789474487, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 59.118254041671754, 
+        "index": 11, 
+        "lyric": "Take my body\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 55.83221092224121, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 62.8875420094, 
+        "index": 12, 
+        "lyric": "Take my body\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 59.1136819363, 
+        "transcription": "oh Take my body\n", 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 66.09828195571899, 
+        "index": 13, 
+        "lyric": "All I want is\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 62.82570009231567, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 69.5887889862, 
+        "index": 14, 
+        "lyric": "And all I need is\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 66.2263801098, 
+        "transcription": "all I need is\n", 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 73.05369591712952, 
+        "index": 15, 
+        "lyric": "To find somebody\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 69.23737406730655, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 83.18690390586852, 
+        "index": 16, 
+        "lyric": "I'll find somebody like you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 72.68846106529239, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 95.8867840767, 
+        "index": 17, 
+        "lyric": "So you brought out the best of me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 90.2441790104, 
+        "transcription": "You brought out the best in me\n", 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 100.82955193519592, 
+        "index": 18, 
+        "lyric": "A part of me I'd never seen\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 96.10617589950562, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 107.41179490089417, 
+        "index": 19, 
+        "lyric": "You took my soul and wiped it clean\n", 
+        "repeat": 0, 
+        "start": 101.09807896614075, 
+        "wavfile": "F148_194_02_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 113.15075898170471, 
+        "index": 20, 
+        "lyric": "Our love was made for movie screens\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 107.73673796653748, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 116.829270124, 
+        "index": 21, 
+        "lyric": "But If you loved me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 113.39622497599997, 
+        "transcription": "If you loved me\n", 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 120.01258897781372, 
+        "index": 22, 
+        "lyric": "Why'd you leave me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 116.60970101356509, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 123.11737895011902, 
+        "index": 23, 
+        "lyric": "Take my body\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 120.12943601608276, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 126.44526710510257, 
+        "index": 24, 
+        "lyric": "Take my body\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 123.27006506919861, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 129.8525938987732, 
+        "index": 25, 
+        "lyric": "All I want is\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 126.38332695961003, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 133.164374971, 
+        "index": 26, 
+        "lyric": "And all I need is\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 130.040798903, 
+        "transcription": "all I need is\n", 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 136.2055139541626, 
+        "index": 27, 
+        "lyric": "To find somebody\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 133.10344095230104, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 139.83105697631834, 
+        "index": 28, 
+        "lyric": "I'll find somebody\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 135.76769604682926, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 168.578462124, 
+        "index": 29, 
+        "lyric": "If you loved me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 165.22462701799998, 
+        "transcription": "If you loved me\n", 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 171.94345006942748, 
+        "index": 30, 
+        "lyric": "Why'd you leave me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 168.55690197944642, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 174.94705400466918, 
+        "index": 31, 
+        "lyric": "Take my body\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 171.78701310157777, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 178.333607006073, 
+        "index": 32, 
+        "lyric": "Take my body\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 174.9851849079132, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 180.98931303024293, 
+        "index": 33, 
+        "lyric": "All I want is\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 178.09088912010196, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 184.6524209499359, 
+        "index": 34, 
+        "lyric": "All I need is\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 181.25757598876953, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 187.58517489433288, 
+        "index": 35, 
+        "lyric": "To find somebody\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 184.19468712806705, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 194.565757036, 
+        "index": 36, 
+        "lyric": "I'll find somebody like you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 187.338780117, 
+        "transcription": "find somebody", 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 200.11573600769043, 
+        "index": 37, 
+        "lyric": "If you loved me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 195.1055109500885, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 203.87586803436278, 
+        "index": 38, 
+        "lyric": "Why'd you leave me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 200.2813949584961, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 208.24944205284118, 
+        "index": 39, 
+        "lyric": "Take my body\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 203.87302803993225, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 212.29201202392576, 
+        "index": 40, 
+        "lyric": "Take my body\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 208.642894077301, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 216.2361560344696, 
+        "index": 41, 
+        "lyric": "All I want is\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 212.18903303146362, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 220.2253779888153, 
+        "index": 42, 
+        "lyric": "All I need is\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 216.18546390533447, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 224.91160197257994, 
+        "index": 43, 
+        "lyric": "To find somebody\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 220.51788902282715, 
+        "wavfile": "F148_194_02_0101"
+    }, 
+    {
+        "end": 235.610938025, 
+        "index": 44, 
+        "lyric": "I'll find somebody like you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 225.218369007, 
+        "transcription": "find somebody like you\n", 
+        "wavfile": "F148_194_02_0101"
+    }
+]

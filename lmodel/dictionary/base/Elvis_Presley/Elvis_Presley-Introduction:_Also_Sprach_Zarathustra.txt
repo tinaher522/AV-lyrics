@@ -1,0 +1,3 @@
+<song artist="Elvis_Presley" title="Introduction:_Also_Sprach_Zarathustra">
+ Instrumental
+</song>

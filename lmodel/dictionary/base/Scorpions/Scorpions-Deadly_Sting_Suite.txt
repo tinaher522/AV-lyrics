@@ -1,0 +1,3 @@
+<song artist="Scorpions" title="Deadly_Sting_Suite">
+ Instrumental
+</song>

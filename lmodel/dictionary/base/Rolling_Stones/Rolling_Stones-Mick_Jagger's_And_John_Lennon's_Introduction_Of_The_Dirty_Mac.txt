@@ -1,0 +1,27 @@
+<song artist="Rolling_Stones" title="Mick_Jagger's_And_John_Lennon's_Introduction_Of_The_Dirty_Mac">
+Mick Jagger: Winston, welcome to the show.
+John Lennon: Michael, it's a pleasure to be here.
+Mick Jagger: It's really nice to have you, John. As you know, I've admired your work for so long and... haven't been able to get together with you so much as I'd want...
+John Lennon: It's not been my fault, Michael.
+Mick Jagger: Ah, do you remember, uh, that old place off Broadway? We...
+John Lennon: Oh, those were the days, "I Wanna Hold Your Man". I remember that.
+Mick Jagger: John, I wanna talk to you about your new group, The, uh, Dirty Mac, that you've got together for tonight's show...
+John Lennon: Well...
+Mick Jagger: ...comprised of yourself...
+John Lennon: ...myself, that's Winson Legthigh, you know, and we've got Mitch Mitchell from the Jimi Hendrix Experience.
+Mick Jagger: Are you really?
+John Lennon: Yeah, really.
+Mick Jagger: Experienced?
+John Lennon: Oh very, very. He read my file. And we've got Eric Clapton from the Cream, the late great, Cream.
+Mick Jagger: Cream...
+John Lennon: Michael...
+Mick Jagger: ...fantastic.
+John Lennon: ...and we've got Keith Richards, your own soul brother.
+Mick Jagger: Dirty.
+John Lennon: Great... I'd like just to give you this, Mike...
+Mick Jagger: Thank you, John.
+John Lennon: ...on behalf of the British public.
+Mick Jagger: "Yer Blues", John. "Yer Blues", John.
+John Lennon: Same to you, Michael.
+Mick Jagger: "Yer Blues", John.
+</song>

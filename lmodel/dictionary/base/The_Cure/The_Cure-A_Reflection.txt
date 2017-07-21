@@ -1,0 +1,3 @@
+<song artist="The_Cure" title="A_Reflection">
+ Instrumental
+</song>

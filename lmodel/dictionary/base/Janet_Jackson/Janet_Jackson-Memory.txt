@@ -1,0 +1,4 @@
+<song artist="Janet_Jackson" title="Memory">
+You don't have to hold on to the pain
+To hold on to the memory
+</song>

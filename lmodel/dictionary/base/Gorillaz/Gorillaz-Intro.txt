@@ -1,0 +1,4 @@
+<song artist="Gorillaz" title="Intro">
+Who put me on the bottom of the food chain! x10
+You are now entering the harmonic world!!!
+</song>

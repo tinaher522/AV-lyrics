@@ -1,0 +1,336 @@
+[
+    {
+        "end": 32.7444299697876, 
+        "index": 1, 
+        "lyric": "Hello my friend, we meet again\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 28.718918943405143, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 37.155409049987796, 
+        "index": 2, 
+        "lyric": "It's been a while, where should we begin?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 32.63850202560425, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 42.639793109900005, 
+        "index": 3, 
+        "lyric": "It feels like forever\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 37.6386260033, 
+        "transcription": "Feels like forever\n", 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 45.949061965942384, 
+        "index": 4, 
+        "lyric": "Within my heart are memories\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 42.22303390502929, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 50.65033192634583, 
+        "index": 5, 
+        "lyric": "Of perfect love that you gave to me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 45.633261060714716, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 55.037184953689575, 
+        "index": 6, 
+        "lyric": "Oh, I remember\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 50.647337913513184, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 62.17557201385498, 
+        "index": 7, 
+        "lyric": "When you are with me I'm free\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 54.799227952957146, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 65.23915705680847, 
+        "index": 8, 
+        "lyric": "I'm careless\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 62.15029897689819, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 68.57675609588622, 
+        "index": 9, 
+        "lyric": "I believe\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 65.32437896728516, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 75.39721307754516, 
+        "index": 10, 
+        "lyric": "Above all the others we'll fly\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 68.28156995773318, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 81.92787008285521, 
+        "index": 11, 
+        "lyric": "This brings tears to my eyes\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 75.22432999610902, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 84.54971199035643, 
+        "index": 12, 
+        "lyric": "My sacrifice\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 81.87965989112854, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 99.91867003440856, 
+        "index": 13, 
+        "lyric": "We've seen our share of ups and downs\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 95.93349795341459, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 104.9577671051025, 
+        "index": 14, 
+        "lyric": "Oh, how quickly life can turn around\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 99.8053780078888, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 110.14123110771177, 
+        "index": 15, 
+        "lyric": "In an instant\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 104.70064306259155, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 113.58875904083251, 
+        "index": 16, 
+        "lyric": "It feels so good to reunite\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 110.01825098991395, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 119.27483592033386, 
+        "index": 17, 
+        "lyric": "Within yourself and within your mind\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 113.55109610557557, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 122.76030597686767, 
+        "index": 18, 
+        "lyric": "Let's find peace there\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 118.96098408699038, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 129.8550290584564, 
+        "index": 19, 
+        "lyric": "when you are with me I'm free\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 122.59793691635133, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 132.80969309806824, 
+        "index": 20, 
+        "lyric": "I'm careless\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 129.71270289421082, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 136.22612495422362, 
+        "index": 21, 
+        "lyric": "I believe\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 132.76652293205262, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 142.98415694236755, 
+        "index": 22, 
+        "lyric": "Above all the others we'll fly\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 136.02397208213807, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 149.44934787750242, 
+        "index": 23, 
+        "lyric": "This brings tears to my eyes\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 142.8060079097748, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 151.71455988883972, 
+        "index": 24, 
+        "lyric": "My sacrifice\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 149.36653089523315, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 165.58351788520812, 
+        "index": 25, 
+        "lyric": "I just want to say hello again\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 157.492546081543, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 183.14166007041928, 
+        "index": 26, 
+        "lyric": "I just want to say hello again\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 170.94557709693882, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 197.9024580001831, 
+        "index": 27, 
+        "lyric": "when you are with me I'm free\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 190.09161491394048, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 200.93229088783264, 
+        "index": 28, 
+        "lyric": "I'm careless\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 197.61821990013124, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 204.19685897827148, 
+        "index": 29, 
+        "lyric": "I believe\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 200.78615694046022, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 210.96894407272336, 
+        "index": 30, 
+        "lyric": "Above all the others we'll fly\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 203.89009699821474, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 217.7578809738159, 
+        "index": 31, 
+        "lyric": "This brings tears to my eyes\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 210.85911393165588, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 224.91129002571105, 
+        "index": 32, 
+        "lyric": "when you are with me I'm free\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 217.4774799823761, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 227.9192729949951, 
+        "index": 33, 
+        "lyric": "I'm careless\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 224.75220708847047, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 231.2864861011505, 
+        "index": 34, 
+        "lyric": "I believe\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 227.76439909935, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 238.08027901649476, 
+        "index": 35, 
+        "lyric": "Above all the others we'll fly\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 231.16527905464173, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 244.67841000556945, 
+        "index": 36, 
+        "lyric": "This brings tears to my eyes\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 237.92796001434328, 
+        "wavfile": "M010_112_01_0101"
+    }, 
+    {
+        "end": 247.91479396820068, 
+        "index": 37, 
+        "lyric": "My sacrifice\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 244.60086193084717, 
+        "wavfile": "M010_112_01_0101"
+    }
+]

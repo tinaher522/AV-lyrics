@@ -1,0 +1,4 @@
+<song artist="David_Bowie" title="The_Wolf_Stalks_The_Bird_And_The_Cat">
+And now, this is how things stood: the cat was sitting on one branch, the bird on another, not too close to the cat.
+And the wolf walked round and round the tree, looking at them with hungry eyes.
+</song>

@@ -1,0 +1,8 @@
+<song artist="Rolling_Stones" title="Stoned">
+Stoned
+Out of my mind
+Here I go
+Ah, yeah
+Where am I at?
+Yeah, yeah
+</song>

@@ -1,0 +1,3 @@
+<song artist="The_Cure" title="Another_Journey_By_Train">
+ Instrumental
+</song>

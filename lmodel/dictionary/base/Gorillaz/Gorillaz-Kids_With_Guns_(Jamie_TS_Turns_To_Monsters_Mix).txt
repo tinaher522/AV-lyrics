@@ -1,0 +1,3 @@
+<song artist="Gorillaz" title="Kids_With_Guns_(Jamie_TS_Turns_To_Monsters_Mix)">
+ Instrumental
+</song>

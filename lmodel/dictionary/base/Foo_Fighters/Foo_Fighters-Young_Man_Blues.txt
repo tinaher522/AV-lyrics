@@ -1,0 +1,16 @@
+<song artist="Foo_Fighters" title="Young_Man_Blues">
+Well a young man
+Ain't got nothin' in the world these days
+I said a young man
+Ain't got nothin' in the world these days
+You know in the old days
+When a young man was a strong man
+All the people they'd step back
+When a young man walked by
+But you know nowadays
+Well it's the old man who's got all the money
+But a young man
+Ain't got nothin' in the world these days
+You know the young man ain't got nothin'
+Ain't got nothin' today
+</song>

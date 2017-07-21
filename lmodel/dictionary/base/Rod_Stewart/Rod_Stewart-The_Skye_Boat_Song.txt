@@ -1,0 +1,30 @@
+<song artist="Rod_Stewart" title="The_Skye_Boat_Song">
+Loud the winds howl, loud the waves roar,
+Thunderclaps rend the air,
+Baffled, our foes stand by the shore,
+Follow they will not dare.
+Speed bonnie boat like a bird on the wing,
+Onward, the sailors cry.
+Carry the lad that's born to be king
+Over the sea to Skye.
+Though the waves leap, soft shall ye sleep,
+Ocean's a royal bed.
+Rock'd in the deep Flora will keep
+Watch o'er your weary head.
+Speed bonnie boat like a bird on the wing,
+Onward, the sailors cry.
+Carry the lad that's born to be king
+Over the sea to Skye.
+Burned are our homes, exile and death,
+Scattered the loyal man.
+Yet ere the sword, cool in the sheath,
+Charlie will come again.
+Speed bonnie boat like a bird on the wing,
+Onward, the sailors cry.
+Carry the lad that's born to be king
+Over the sea to Skye.
+Many's the lad fought on that day,
+Well the claymor could wield,
+When the night came, silently lay
+Dead in Collodens field.
+</song>

@@ -1,0 +1,438 @@
+[
+    {
+        "end": 17.778310966491702, 
+        "index": 1, 
+        "lyric": "Whenever sang my songs\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 12.167725086212158, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 23.204508066177368, 
+        "index": 2, 
+        "lyric": "On the stage, on my own\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 17.820223093032837, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 28.173175048800005, 
+        "index": 3, 
+        "lyric": "Whenever said my words\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 22.9610920906, 
+        "transcription": "Whenever said these words\n", 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 33.741517162323, 
+        "index": 4, 
+        "lyric": "Wishing they would be heard\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 28.134119033813477, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 37.816369962692264, 
+        "index": 5, 
+        "lyric": "I saw you smiling at me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 33.40742216110229, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 43.18854603767395, 
+        "index": 6, 
+        "lyric": "Was it real, or just a fantasy?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 37.76512002944946, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 47.973604154586795, 
+        "index": 7, 
+        "lyric": "You'd always be there in the corner \n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 43.005949068069455, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 54.6010781288147, 
+        "index": 8, 
+        "lyric": "Of this tiny little bar\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 47.8277400970459, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 59.748880100300006, 
+        "index": 9, 
+        "lyric": "My last night here for you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 54.6101550102, 
+        "transcription": "My last night here with you\n", 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 64.77468514442444, 
+        "index": 10, 
+        "lyric": "Same old songs, just once more\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 59.721928119659424, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 69.2420301437378, 
+        "index": 11, 
+        "lyric": "My last night here with you?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 64.93191003799438, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 74.98145699501038, 
+        "index": 12, 
+        "lyric": "Maybe yes, maybe no\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 69.43342304229736, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 79.04771113395691, 
+        "index": 13, 
+        "lyric": "I kind of liked it your way\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 74.7300690174103, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 85.0463600159, 
+        "index": 14, 
+        "lyric": "How you shyly placed your eyes on me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 79.0539311409, 
+        "transcription": "How you shyly let your eyes on me\n", 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 89.12533817291259, 
+        "index": 15, 
+        "lyric": "Did you ever know\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 85.18990206718445, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 94.77358102798462, 
+        "index": 16, 
+        "lyric": "That I had mine on you?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 89.00876598358155, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 101.1315321445465, 
+        "index": 17, 
+        "lyric": "Darling, so there you are\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 96.01496696472168, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 105.87764811515808, 
+        "index": 18, 
+        "lyric": "With that look on your face\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 101.06964612007141, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 110.3300971508026, 
+        "index": 19, 
+        "lyric": "As if you're never hurt\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 106.04226112365723, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 115.38942503929138, 
+        "index": 20, 
+        "lyric": "As if you're never down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 110.37271404266357, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 119.78342819213867, 
+        "index": 21, 
+        "lyric": "Shall I be the one for you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 115.26078004837038, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 126.6322340965271, 
+        "index": 22, 
+        "lyric": "Who pinches you softly but sure?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 120.02185916900635, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 129.6518750190735, 
+        "index": 23, 
+        "lyric": "If frown is shown, then\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 126.28791117668155, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 136.65342617034912, 
+        "index": 24, 
+        "lyric": "I will know that you are no dreamer\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 129.77403497695923, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 164.42083601951597, 
+        "index": 25, 
+        "lyric": "So let me come to you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 158.4923909664142, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 169.739672995, 
+        "index": 26, 
+        "lyric": "Close as I wanna a be\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 164.30600214, 
+        "transcription": "Closest I wanna a be\n", 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 174.55844902992249, 
+        "index": 27, 
+        "lyric": "Close enough for me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 169.8477771282196, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 179.91878509521484, 
+        "index": 28, 
+        "lyric": "To feel your heart beating fast\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 174.7390501499176, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 184.82689719200133, 
+        "index": 29, 
+        "lyric": "And stay there as I whisper\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 179.93908696174623, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 190.6542730331421, 
+        "index": 30, 
+        "lyric": "How I love your peaceful eyes on me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 184.69434714317322, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 194.85341715812683, 
+        "index": 31, 
+        "lyric": "Did you ever know\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 190.82186007499695, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 200.66783900260924, 
+        "index": 32, 
+        "lyric": "That I had mine on you?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 194.9915750026703, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 206.47631807327272, 
+        "index": 33, 
+        "lyric": "Darling, so share with me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 200.71017408370972, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 210.75538110733032, 
+        "index": 34, 
+        "lyric": "Your love if you have enough\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 206.4426431655884, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 215.48077216148374, 
+        "index": 35, 
+        "lyric": "Your tears if you're holding back\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 210.90950417518616, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 220.90095119476314, 
+        "index": 36, 
+        "lyric": "Or pain if that's what it is\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 215.20854306221008, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 224.81288213729857, 
+        "index": 37, 
+        "lyric": "How can I let you know\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 220.34784698486328, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 231.38286609649657, 
+        "index": 38, 
+        "lyric": "I'm more than the dress and the voice\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 224.8255431652069, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 234.5099579811096, 
+        "index": 39, 
+        "lyric": "Just reach me out, then\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 231.28768100738526, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 241.64725518226624, 
+        "index": 40, 
+        "lyric": "You will know that you are not dreaming\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 234.46130299568176, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 247.6039779663086, 
+        "index": 41, 
+        "lyric": "Darling, so there you are\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 241.80136108398438, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 252.117006111145, 
+        "index": 42, 
+        "lyric": "With that look on your face\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 247.14740605354314, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 256.03902316093445, 
+        "index": 43, 
+        "lyric": "As if you're never hurt\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 251.99233603477478, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 261.26268119812016, 
+        "index": 44, 
+        "lyric": "As if you're never down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 256.17193698883057, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 265.49225306510925, 
+        "index": 45, 
+        "lyric": "Shall I be the one for you\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 261.2645490169525, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 272.75637698173523, 
+        "index": 46, 
+        "lyric": "Who pinches you softly but sure?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 265.6622431278229, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 276.03113317489624, 
+        "index": 47, 
+        "lyric": "If frown is shown, then\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 272.87850618362427, 
+        "wavfile": "F043_043_01_0101"
+    }, 
+    {
+        "end": 285.19379711151123, 
+        "index": 48, 
+        "lyric": "I will know that you are no dreamer\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 276.1905870437622, 
+        "wavfile": "F043_043_01_0101"
+    }
+]

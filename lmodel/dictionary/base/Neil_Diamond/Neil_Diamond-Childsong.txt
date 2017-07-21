@@ -1,0 +1,16 @@
+<song artist="Neil_Diamond" title="Childsong">
+Weeping sky
+We bring the sun
+To make you glad
+And fill you with the day
+Quiet tree
+We have the wind
+To make you dance
+And fill you with our play
+And you shall be glad
+And you shall dance
+And you shall come
+To hear our song
+And learn its tune
+Before it fades away....
+</song>

@@ -1,0 +1,9 @@
+<song artist="The_Cure" title="Subway_Song">
+Midnight in the subway
+She's on her way home
+She tries hard not to run
+But she feels she's not alone
+Echoes of footsteps follow close behind
+But she dare not turn around
+Turn around
+</song>

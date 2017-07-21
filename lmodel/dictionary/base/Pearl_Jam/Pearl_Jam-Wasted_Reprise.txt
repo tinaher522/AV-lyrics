@@ -1,0 +1,11 @@
+<song artist="Pearl_Jam" title="Wasted_Reprise">
+I have faced it
+A life wasted
+I'm never going back again
+Having tasted
+A life wasted
+I'm never going back again
+I escaped it
+A life wasted
+I'm never going back again
+</song>

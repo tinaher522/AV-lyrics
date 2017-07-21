@@ -1,0 +1,3 @@
+<song artist="Michael_Buble" title="Michael's_Christmas_Greeting">
+This is Michael Bublé wishing you a very merry Christmas!
+</song>

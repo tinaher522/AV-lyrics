@@ -1,0 +1,4 @@
+<song artist="Sting" title=""...From_Thence_I_Went_To_The_Landgrave_Of_Hessen..."">
+spoken:
+...from thence I went to the Landgrave of Hessen, who gave me the greatest welcome that might be for one of my quality, who sent a ring into England to my wife valued at 20 pounds sterling, and gave me a great standing cup with a cover gilt, full of dollars with many great offers for my service.
+</song>

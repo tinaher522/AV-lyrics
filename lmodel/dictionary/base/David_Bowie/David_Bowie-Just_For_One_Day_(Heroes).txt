@@ -1,0 +1,4 @@
+<song artist="David_Bowie" title="Just_For_One_Day_(Heroes)">
+We can be heroes
+(Just for one day)
+</song>

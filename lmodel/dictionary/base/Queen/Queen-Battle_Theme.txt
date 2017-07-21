@@ -1,0 +1,3 @@
+<song artist="Queen" title="Battle_Theme">
+ Instrumental
+</song>

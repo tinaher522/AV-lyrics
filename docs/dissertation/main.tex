@@ -1,0 +1,120 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+% MSc Project Background Report  
+% Gerardo Roa Dabike
+% University of Sheffield
+% 05th Mar 2016
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% This version uses the TUOS Blake font
+%https://www.sheffield.ac.uk/marketing/help-yourself/visual-identity/downloads/fonts/download-stephenson-blake
+
+% Compile with XeLaTeX or LuaLaTeX
+
+% Declare document
+\documentclass[11pt,oneside]{book}
+
+% Change all margin to 1 inch
+\usepackage[margin=1in]{geometry}
+
+\usepackage{setspace,fontspec}
+
+% Use apendix
+\usepackage[toc,page]{appendix}
+
+% Use multicolumns and multirows
+\usepackage{multicol}
+\usepackage{multirow}
+% For Acronymus
+\usepackage{acronym}
+
+% Long Tables
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{ltablex}
+\usepackage{longtable}
+
+
+\usepackage{graphicx}
+\usepackage{spverbatim}
+\usepackage{amsmath}
+\usepackage{afterpage}
+\usepackage{framed}
+\usepackage{url}
+\usepackage{array}
+\usepackage{pgfgantt}
+\usepackage{rotating}
+\usepackage[graphicx]{realboxes}
+\usepackage{pstricks,pst-node,pst-text,pst-3d}
+
+% To handle with the itemize left spacing in Introduction Chapter
+\usepackage{enumitem}
+
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+\tikzset{basic/.style={draw,fill=blue!20,text width=1em,text badly centered}}
+\tikzset{input/.style={basic,circle}}
+\tikzset{weights/.style={basic,rectangle}}
+\tikzset{functions/.style={basic,circle,fill=blue!10}}
+
+\newcolumntype{C}[1]{>{\centering}m{#1}}
+
+
+\setmainfont{TUOS Blake}
+
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+
+         
+
+\begin{document}
+
+\frontmatter
+
+% -------------------------------------------------------------------
+% Title Page
+% -------------------------------------------------------------------
+
+\input{chapters/Chapter0/Title.tex}
+\input{chapters/Chapter0/Declaration.tex}
+\input{chapters/Chapter0/Acknowledgement.tex}
+\input{chapters/Chapter0/Abstract.tex}
+\input{chapters/Chapter0/Acronyms.tex}
+
+
+% -------------------------------------------------------------------
+% TOC etc
+% -------------------------------------------------------------------
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+\setstretch{1.1} 
+
+\mainmatter
+
+\input{chapters/Chapter1/ch1-Introduction.tex}
+\input{chapters/Chapter2/ch2-LiteratureReview.tex}
+\input{chapters/Chapter3/ch3-CorpusDesign}
+\input{chapters/Chapter4/ch4-EvaluationFramework.tex}
+\input{chapters/Chapter5/ch5-SystemDevelopment.tex}
+\input{chapters/Chapter6/ch6-ExperimentalResults.tex}
+\input{chapters/Chapter7/ch7-Conclusions}
+
+
+\bibliographystyle{acm} 
+\bibliography{bib/ASRMusic,bib/ASR,bib/lawConsiderations,bib/dataSources,bib/musicProp,bib/singerIdent,bib/langAcoustModel,bib/singingProp} 
+
+
+\begin{appendices}
+\input{chapters/Appendix/VideoList.tex}
+\input{chapters/Appendix/Sources_LM.tex}
+\input{chapters/Appendix/CookingRecipe.tex}
+\input{chapters/Appendix/ExperimentsResults.tex}
+
+\end{appendices}
+
+\end{document}

@@ -1,0 +1,445 @@
+[
+    {
+        "end": 6.418762063980101, 
+        "index": 1, 
+        "lyric": "If you could only see the way she loves me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 0.081858873367309, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 10.007069063189999, 
+        "index": 2, 
+        "lyric": "Then maybe you would understand\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 6.365950012210001, 
+        "transcription": "Maybe you would understand\n", 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 16.69917798042298, 
+        "index": 3, 
+        "lyric": "Why I feel this way about our love\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 10.939877843856813, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 19.7662209988, 
+        "index": 4, 
+        "lyric": "And what I must do\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 16.351447009999998, 
+        "transcription": "What I must do\n", 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 26.993147039413458, 
+        "index": 5, 
+        "lyric": "If you could only see how blue her eyes\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 20.532546997070312, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 30.04477806091309, 
+        "index": 6, 
+        "lyric": "Can be when she says\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 26.912643909454346, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 36.86938395500184, 
+        "index": 7, 
+        "lyric": "When she says she loves me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 31.603508949279785, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 50.957382965087895, 
+        "index": 8, 
+        "lyric": "Well, you've got your reasons\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 47.741448068618766, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 56.60376687049866, 
+        "index": 9, 
+        "lyric": "And you've got your lies\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 52.22056498527529, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 60.865701866149905, 
+        "index": 10, 
+        "lyric": "And you've got your manipulations\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 57.35013794898987, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 67.22499485019999, 
+        "index": 11, 
+        "lyric": "They cut me down to size\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 61.6293270588, 
+        "transcription": "Cut me down to size\n", 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 71.08618106842042, 
+        "index": 12, 
+        "lyric": "Sayin' you love but you don't\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 67.69710397720337, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 74.80772600169999, 
+        "index": 13, 
+        "lyric": "You give your love but you won't\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 70.9189868927, 
+        "transcription": "You give your heart but you won't\n", 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 81.90353484153746, 
+        "index": 14, 
+        "lyric": "If you could only see the way she loves me\n", 
+        "repeat": 0, 
+        "start": 75.12336087226868, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 85.27698802947998, 
+        "index": 15, 
+        "lyric": "Then maybe you would understand\n", 
+        "repeat": 0, 
+        "start": 81.91882991790771, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 91.74587988853455, 
+        "index": 16, 
+        "lyric": "Why I feel this way about our love\n", 
+        "repeat": 0, 
+        "start": 86.11291885375977, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 95.14944195747375, 
+        "index": 17, 
+        "lyric": "And what I must do\n", 
+        "repeat": 0, 
+        "start": 92.16883993148804, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 102.49132084846497, 
+        "index": 18, 
+        "lyric": "If you could only see how blue her eyes\n", 
+        "repeat": 0, 
+        "start": 95.3469090461731, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 105.78006887435913, 
+        "index": 19, 
+        "lyric": "Can be when she says\n", 
+        "repeat": 0, 
+        "start": 102.78047299385071, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 111.88189601898193, 
+        "index": 20, 
+        "lyric": "When she says she loves me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 107.16250796318053, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 124.57960085899998, 
+        "index": 21, 
+        "lyric": "Seems the road less traveled\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 121.097050905, 
+        "transcription": "See the road less traveled\n", 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 130.86275992393493, 
+        "index": 22, 
+        "lyric": "Shows happiness unraveled\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 124.81568598747253, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 134.32178196907043, 
+        "index": 23, 
+        "lyric": "And you got to take a little dirt\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 131.6987560272217, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 138.7523660182952, 
+        "index": 24, 
+        "lyric": "To keep what you love\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 134.37588987350466, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 141.1517920494079, 
+        "index": 25, 
+        "lyric": "That's what you gotta do\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 138.69606585502626, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 144.96266593933106, 
+        "index": 26, 
+        "lyric": "Sayin' you love but you don't\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 141.59909205436705, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 148.262389851, 
+        "index": 27, 
+        "lyric": "You give your love but you won't\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 144.828321075, 
+        "transcription": "You give your heart but you won't\n", 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 152.36960101127625, 
+        "index": 28, 
+        "lyric": "You're stretching out your arms to something that's just not there\n", 
+        "repeat": 0, 
+        "start": 148.02635498046877, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 155.67181105613707, 
+        "index": 29, 
+        "lyric": "Sayin' you love where you stand\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 152.39506297111512, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 159.35353107452391, 
+        "index": 30, 
+        "lyric": "Give your heart when you can\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 155.481133890152, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 166.4459090232849, 
+        "index": 31, 
+        "lyric": "If you could only see the way she loves me\n", 
+        "repeat": 0, 
+        "start": 159.80756306648254, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 169.9900050163269, 
+        "index": 32, 
+        "lyric": "Then maybe you would understand\n", 
+        "repeat": 0, 
+        "start": 166.6861629486084, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 176.7803599834442, 
+        "index": 33, 
+        "lyric": "Why I feel this way about our love\n", 
+        "repeat": 0, 
+        "start": 171.44228506088257, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 180.22654700279236, 
+        "index": 34, 
+        "lyric": "And what I must do\n", 
+        "repeat": 0, 
+        "start": 177.00978899002075, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 187.49236392974854, 
+        "index": 35, 
+        "lyric": "If you could only see how blue her eyes\n", 
+        "repeat": 0, 
+        "start": 182.25697588920593, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 190.46966290473938, 
+        "index": 36, 
+        "lyric": "Can be when she says\n", 
+        "repeat": 0, 
+        "start": 187.8611478805542, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 198.4961810111999, 
+        "index": 37, 
+        "lyric": "When she says she loves me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 192.1735980033874, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 219.727065945, 
+        "index": 38, 
+        "lyric": "You're sayin' you love but you don't\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 216.259369946, 
+        "transcription": "Sayin' you love but you don't\n", 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 223.22093601199998, 
+        "index": 39, 
+        "lyric": "You give your love but you won't\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 219.5703269, 
+        "transcription": "You give your heart but you won't\n", 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 230.5280149936676, 
+        "index": 40, 
+        "lyric": "Sayin' you love where you stand\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 227.2496070384978, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 233.94252686500548, 
+        "index": 41, 
+        "lyric": "Give your heart when you can\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 230.37118701934816, 
+        "wavfile": "M014_014_01_0101"
+    }, 
+    {
+        "end": 241.0645558834076, 
+        "index": 42, 
+        "lyric": "If you could only see the way she loves me\n", 
+        "repeat": 0, 
+        "start": 234.81647896766665, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 244.61397800445556, 
+        "index": 43, 
+        "lyric": "Then maybe you would understand\n", 
+        "repeat": 0, 
+        "selected": false, 
+        "start": 241.02382402420045, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 251.10011196136475, 
+        "index": 44, 
+        "lyric": "Why I feel this way about our love\n", 
+        "repeat": 0, 
+        "start": 245.9299280643463, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 254.727622843, 
+        "index": 45, 
+        "lyric": "And what I must do\n", 
+        "repeat": 0, 
+        "selected": false, 
+        "start": 251.319618845, 
+        "transcription": "What I must do\n", 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 261.8610279560089, 
+        "index": 46, 
+        "lyric": "If you could only see how blue her eyes\n", 
+        "repeat": 0, 
+        "start": 256.6996428966522, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 265.604749917984, 
+        "index": 47, 
+        "lyric": "Can be when she says\n", 
+        "repeat": 0, 
+        "start": 262.1857719421387, 
+        "wavfile": "M014_014_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 274.58169589042666, 
+        "index": 48, 
+        "lyric": "When she says she loves me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 267.35291490554835, 
+        "wavfile": "M014_014_01_0101"
+    }
+]

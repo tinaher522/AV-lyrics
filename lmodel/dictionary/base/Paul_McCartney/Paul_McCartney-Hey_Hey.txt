@@ -1,0 +1,11 @@
+<song artist="Paul_McCartney" title="Hey_Hey">
+Hey, hey
+Hey, hey
+Hey, hey
+Hey, hey
+Hey, hey
+Hey, hey
+Hey, hey
+Hey, hey
+That's all!
+</song>

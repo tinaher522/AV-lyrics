@@ -1,0 +1,12 @@
+<song artist="Paul_McCartney" title="Summer's_Day_Song">
+Someone's sleeping
+Through a bad dream
+Tommorrow it will be over
+For the world will soon be waking
+To a summer's day
+Someone's sleeping
+Through a bad dream
+Tommorrow it will be over
+For the world will soon be waking
+To a summer's day
+</song>

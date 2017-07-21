@@ -1,0 +1,8 @@
+<song artist="Neil_Diamond" title="Hine_Mah_Tov">
+Hine mah tov umah nayim
+Shevetachim gam ya chad
+Hine mah tov
+Shevetachim gam ya chad
+Hine mah tov
+Shevetachim gam ya chad
+</song>

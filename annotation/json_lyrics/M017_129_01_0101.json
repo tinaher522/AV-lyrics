@@ -1,0 +1,521 @@
+[
+    {
+        "end": 7.308190202713012, 
+        "index": 1, 
+        "lyric": "I'm hurting, babe, I'm broken down\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 2.687990188598633, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 11.814315032958984, 
+        "index": 2, 
+        "lyric": "I need your loving, loving, I need it now\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 7.477931022644043, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 15.980125999450683, 
+        "index": 3, 
+        "lyric": "When I'm without you, I'm something weak\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 11.765042209625244, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 20.30023617744446, 
+        "index": 4, 
+        "lyric": "You've got me begging, begging, I'm on my knees\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 15.938583040237427, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 23.002563142776488, 
+        "index": 5, 
+        "lyric": "I don't want to be needing your love\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 20.530898094177246, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 25.113638162612915, 
+        "index": 6, 
+        "lyric": "I just want to be deep in your love\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 22.968539190292354, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 27.633935165400004, 
+        "index": 7, 
+        "lyric": "And still in me when you're away\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 24.8666640282, 
+        "transcription": "And still in me when you're away\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 31.607593011856082, 
+        "index": 8, 
+        "lyric": "Ooh baby, 'cause I really don't care where you are\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 27.87860918045044, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 33.72387809753418, 
+        "index": 9, 
+        "lyric": "I just want to be there where you are\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 31.518683099746703, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 36.694811058044436, 
+        "index": 10, 
+        "lyric": "And I gotta get one little taste\n", 
+        "repeat": 0, 
+        "selected": false, 
+        "start": 33.61316409111023, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 41.375576210000006, 
+        "index": 11, 
+        "lyric": "Your sugar, yes please\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 37.1319181919, 
+        "transcription": "sugar, yes please\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 45.3991321087, 
+        "index": 12, 
+        "lyric": "Won't you come and put it down on me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 41.038119173, 
+        "transcription": "Won't you come, put it on me?\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 49.99195518493653, 
+        "index": 13, 
+        "lyric": "I'm right here 'cause I need\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 45.56711320877075, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 53.9743690014, 
+        "index": 14, 
+        "lyric": "A little love, a little sympathy\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 50.0194790363, 
+        "transcription": "little love, sympathy\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 59.321439075469975, 
+        "index": 15, 
+        "lyric": "Yeah you show me good loving, make it alright\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 54.09720115661621, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 63.36835713386536, 
+        "index": 16, 
+        "lyric": "Need a little sweetness in my life\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 59.36056113243103, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 67.51631402969997, 
+        "index": 17, 
+        "lyric": "Your sugar, yes please\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 63.1585631847, 
+        "transcription": "sugar, yes please\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 71.80164999959999, 
+        "index": 18, 
+        "lyric": "Won't you come and put it down on me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 67.3077022076, 
+        "transcription": "Won't you come, put it on me?\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 76.95944018363951, 
+        "index": 19, 
+        "lyric": "My broken pieces, you picked them up\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 71.99700808525085, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 81.43398513793943, 
+        "index": 20, 
+        "lyric": "Don't leave me hanging, hanging, come give me some\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 77.07144203186036, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 85.9636910915, 
+        "index": 21, 
+        "lyric": "When I'm without you, oh, so insecure\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 81.2715491295, 
+        "transcription": "When I'm without you, so insecure\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 90.61490006446837, 
+        "index": 22, 
+        "lyric": "You are the one thing, one thing I'm living for\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 86.0406102180481, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 92.93724002838132, 
+        "index": 23, 
+        "lyric": "I don't want to be needing your love\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 90.368097114563, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 95.00523409843444, 
+        "index": 24, 
+        "lyric": "I just want to be deep in your love\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 92.7257661819458, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 97.8143239975, 
+        "index": 25, 
+        "lyric": "And still in me when you're away\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 94.85658316610001, 
+        "transcription": "still in me when you're away\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 101.5767241001129, 
+        "index": 26, 
+        "lyric": "Ooh baby, 'cause I really don't care where you are\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 97.52314720153811, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 103.67659111022948, 
+        "index": 27, 
+        "lyric": "I just want to be there where you are\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 101.34809007644654, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 106.56142516136168, 
+        "index": 28, 
+        "lyric": "And I gotta get one little taste\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 103.46586303710939, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 111.357123137, 
+        "index": 29, 
+        "lyric": "Your sugar, yes please\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 106.814473152, 
+        "transcription": "Sugar, yes please\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 115.316948032, 
+        "index": 30, 
+        "lyric": "Won't you come and put it down on me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 110.82544617700005, 
+        "transcription": "Won't you come, put it on me?\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 119.92258901596068, 
+        "index": 31, 
+        "lyric": "I'm right here 'cause I need\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 115.28467302322389, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 124.00234799399998, 
+        "index": 32, 
+        "lyric": "A little love, a little sympathy\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 119.699706125, 
+        "transcription": "Little love, sympathy\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 129.2952410697937, 
+        "index": 33, 
+        "lyric": "Yeah you show me good loving, make it alright\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 123.72623114585878, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 133.4693070888519, 
+        "index": 34, 
+        "lyric": "Need a little sweetness in my life\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 129.0005840778351, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 137.457154226, 
+        "index": 35, 
+        "lyric": "Your sugar, yes please\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 133.21539011, 
+        "transcription": "sugar, yes please\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 141.606141996, 
+        "index": 36, 
+        "lyric": "Won't you come and put it down on me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 137.02607522, 
+        "transcription": "Won't you come, put it on me?\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 147.3846300125122, 
+        "index": 37, 
+        "lyric": "I want that red velvet, I want that sugar sweet\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 141.91016106605528, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 151.7330612182617, 
+        "index": 38, 
+        "lyric": "Don't let nobody touch it unless that somebody's me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 147.13834004402162, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 156.05463213920592, 
+        "index": 39, 
+        "lyric": "I gotta be a man, there ain't no other way\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 151.55102219581605, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 160.695521069, 
+        "index": 40, 
+        "lyric": "'Cause girl you're hotter than a southern California day\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 155.769391012, 
+        "transcription": "'Cause you're hotter than a southern California day\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 165.041092205, 
+        "index": 41, 
+        "lyric": "I don't want to play no games, you don't got to be afraid\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 160.236479139, 
+        "transcription": "want to play no games, you don't got to be afraid\n ", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 172.169734001, 
+        "index": 42, 
+        "lyric": "Don't give me all that shine shit, no makeup on, that's my Sugar, yes please\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 164.552152109, 
+        "transcription": "ive me all that shine shit, no makeup on, that's my Sugar, yes please\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 176.38123912799998, 
+        "index": 43, 
+        "lyric": "Won't you come and put it down on me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 171.923722029, 
+        "transcription": "Won't you come, put it on me?\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 181.10052905082702, 
+        "index": 44, 
+        "lyric": "I'm right here 'cause I need\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 176.13917918205263, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 184.696727991, 
+        "index": 45, 
+        "lyric": "A little love, a little sympathy\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 180.845548105, 
+        "transcription": "little love, sympathy\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 190.34164614677428, 
+        "index": 46, 
+        "lyric": "Yeah you show me good loving, make it alright\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 184.7504671096802, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 194.3237630844116, 
+        "index": 47, 
+        "lyric": "Need a little sweetness in my life\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 190.35713505744934, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 198.432331133, 
+        "index": 48, 
+        "lyric": "Your sugar, yes please\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 194.2660532, 
+        "transcription": "sugar, yes please\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 202.46510701199998, 
+        "index": 49, 
+        "lyric": "Won't you come and put it down on me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 198.32268419300001, 
+        "transcription": "Won't you come, put it, on me?\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 206.961385012, 
+        "index": 50, 
+        "lyric": "Your sugar, yes please\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 202.414241076, 
+        "transcription": "sugar, yes please\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 211.260266066, 
+        "index": 51, 
+        "lyric": "Won't you come and put it down on me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 207.105842113, 
+        "transcription": "Won't you come, put it on me?\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 216.58756108283995, 
+        "index": 52, 
+        "lyric": "Yeah you show me good loving, make it alright\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 211.47441911697388, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 220.5146641254425, 
+        "index": 53, 
+        "lyric": "Need a little sweetness in my life\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 216.31210522651674, 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 224.46683321, 
+        "index": 54, 
+        "lyric": "Your sugar, yes please\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 220.40444316900002, 
+        "transcription": "sugar, yes please\n", 
+        "wavfile": "M017_129_01_0101"
+    }, 
+    {
+        "end": 228.73561720799998, 
+        "index": 55, 
+        "lyric": "Won't you come and put it down on me?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 224.211785173, 
+        "transcription": "Won't you come, put it on me?\n", 
+        "wavfile": "M017_129_01_0101"
+    }
+]

@@ -1,0 +1,3 @@
+<song artist="Queen" title="Seven_Seas_Of_Rhye_(Instrumental_Version)">
+ Instrumental
+</song>

@@ -1,0 +1,65 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Project Context}{1}
+\contentsline {section}{\numberline {1.2}Aim and Objectives}{2}
+\contentsline {section}{\numberline {1.3}Overview of the report}{2}
+\contentsline {chapter}{\numberline {2}Literature Survey}{3}
+\contentsline {section}{\numberline {2.1}A Little Speech About Speech}{3}
+\contentsline {section}{\numberline {2.2}Singing Speech Characteristics}{4}
+\contentsline {subsection}{\numberline {2.2.1}The Singing and the Instrument}{5}
+\contentsline {subsection}{\numberline {2.2.2}Styles}{6}
+\contentsline {subsection}{\numberline {2.2.3}Pitch}{7}
+\contentsline {subsection}{\numberline {2.2.4}Timbre}{7}
+\contentsline {subsection}{\numberline {2.2.5}Tempo}{7}
+\contentsline {section}{\numberline {2.3}ASR in music}{8}
+\contentsline {subsection}{\numberline {2.3.1}Audio Signal Analysis}{8}
+\contentsline {subsection}{\numberline {2.3.2}Gaussian Mixture Models}{9}
+\contentsline {subsection}{\numberline {2.3.3}Hidden Markov Models}{9}
+\contentsline {subsection}{\numberline {2.3.4}Deep Neural Networks}{10}
+\contentsline {subsubsection}{Multi-layer Perceptrons}{10}
+\contentsline {subsection}{\numberline {2.3.5}Singer separation}{11}
+\contentsline {subsection}{\numberline {2.3.6}Evaluation}{11}
+\contentsline {subsection}{\numberline {2.3.7}Existing state of the art for singing transcription}{12}
+\contentsline {section}{\numberline {2.4}Summary}{13}
+\contentsline {chapter}{\numberline {3}Singing Corpus Design}{14}
+\contentsline {section}{\numberline {3.1}ACOMUS Corpus version 1}{14}
+\contentsline {subsection}{\numberline {3.1.1}Database Collection}{14}
+\contentsline {subsubsection}{Audio Collection}{15}
+\contentsline {subsubsection}{Copyrights Consideration}{15}
+\contentsline {section}{\numberline {3.2}Corpus Structure}{16}
+\contentsline {subsection}{\numberline {3.2.1}Annotation and Sentences Segmentation}{16}
+\contentsline {subsubsection}{Step 1: Utterance Individualization}{16}
+\contentsline {subsubsection}{Step 2: Corpus Distribution Files}{17}
+\contentsline {section}{\numberline {3.3}Summarize ACOMUS1 Characteristics}{17}
+\contentsline {chapter}{\numberline {4}Evaluation Methodology}{18}
+\contentsline {section}{\numberline {4.1}Data Sets Separation}{18}
+\contentsline {section}{\numberline {4.2}Synthetic Augmentation}{19}
+\contentsline {subsection}{\numberline {4.2.1}Pitch Modification}{20}
+\contentsline {subsection}{\numberline {4.2.2}Tempo Modification}{21}
+\contentsline {chapter}{\numberline {5}System Development}{22}
+\contentsline {section}{\numberline {5.1}Language Model}{22}
+\contentsline {subsection}{\numberline {5.1.1}Language Model Construction}{23}
+\contentsline {subsubsection}{LM: Song Level Rules}{23}
+\contentsline {subsubsection}{LM: Sentences Level Rules}{23}
+\contentsline {subsection}{\numberline {5.1.2}Creating the lyrics discography}{24}
+\contentsline {section}{\numberline {5.2}Acoustic Model}{24}
+\contentsline {subsection}{\numberline {5.2.1}Words analysis in CMUdict}{25}
+\contentsline {subsubsection}{Missing, Invented and Slang Words}{25}
+\contentsline {chapter}{\numberline {6}Experimental Results}{26}
+\contentsline {section}{\numberline {6.1}GMM \& DNN Acoustic Densities Models}{26}
+\contentsline {section}{\numberline {6.2}Determining the N-gram size}{27}
+\contentsline {section}{\numberline {6.3}Baseline Results}{28}
+\contentsline {section}{\numberline {6.4}Results with Augmented Training Data}{29}
+\contentsline {subsection}{\numberline {6.4.1}Pitch Augmentation as New Same Gender Speaker}{30}
+\contentsline {section}{\numberline {6.5}Test Data Sets Results}{30}
+\contentsline {section}{\numberline {6.6}Experiments Summarize}{31}
+\contentsline {chapter}{\numberline {7}Conclusions}{32}
+\contentsline {section}{\numberline {7.1}Future Works}{32}
+\contentsline {subsection}{\numberline {7.1.1}ACOMUS1}{32}
+\contentsline {chapter}{Appendices}{38}
+\contentsline {chapter}{\numberline {A}Sources for ACOMUS1}{39}
+\contentsline {chapter}{\numberline {B}Language Model Source}{46}
+\contentsline {chapter}{\numberline {C}Implementation of the project}{48}
+\contentsline {section}{\numberline {C.1}ACOMUS1 Implementation}{48}
+\contentsline {section}{\numberline {C.2}Language Model \& Acoustic Model Implementing}{49}
+\contentsline {section}{\numberline {C.3}Cooking the Recipe}{49}
+\contentsline {chapter}{\numberline {D}Experiments Results}{51}

@@ -1,0 +1,7 @@
+<song artist="Who" title="Pete_Dialogue_3">
+Pete: We'd like to carry on now and play a song originally recorded by Mose Allison, who's really a jazz musician, and I did read something on one of his record covers which said he was a "jazz sage". Quite what that means, I don't know, uh.
+Keith: He's a flavour of chicken!
+Pete: And, when we picked up quite a number of his songs. "Eyesight To The Blind", which was on the "Tommy" album, and also this song, which I think has got to be one of his best, it's one of his own compositions which he wrote when he was about fourteen.
+Keith: Teenager!
+Pete: Just a mere teenager, and he called it "Young Man Blues".
+</song>

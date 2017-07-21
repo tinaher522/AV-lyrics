@@ -1,0 +1,5 @@
+<song artist="David_Bowie" title="Pallas_Athena">
+God is on top of it all
+That's all
+We are we are we are
+</song>

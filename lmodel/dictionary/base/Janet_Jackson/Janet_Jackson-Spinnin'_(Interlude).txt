@@ -1,0 +1,4 @@
+<song artist="Janet_Jackson" title="Spinnin'_(Interlude)">
+Love is the one thing that keeps you up...
+...spinning round like a rollercoaster
+</song>

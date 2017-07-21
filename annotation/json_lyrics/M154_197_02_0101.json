@@ -1,0 +1,576 @@
+[
+    {
+        "end": 24.118781900405885, 
+        "index": 1, 
+        "lyric": "I see this life like a swinging vine\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 20.137815046310415, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 26.60548791885376, 
+        "index": 2, 
+        "lyric": "Swing my heart across the line\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 24.09854998588562, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 29.25221691131592, 
+        "index": 3, 
+        "lyric": "In my face is flashing signs\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 26.559463882446288, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 31.550703859329225, 
+        "index": 4, 
+        "lyric": "Seek it out and ye shall find\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 29.19913806915283, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 33.928506994247435, 
+        "index": 5, 
+        "lyric": "I'm Old, but I'm not that old\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 31.200705862045282, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 36.54814190864563, 
+        "index": 6, 
+        "lyric": "I'm Young, but I'm not that bold\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 33.4454050540924, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 39.4846659184, 
+        "index": 7, 
+        "lyric": "And I don't think the world is sold\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 36.6763459206, 
+        "transcription": "I don't think the world is sold\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 41.6979740143, 
+        "index": 8, 
+        "lyric": "I'm just doing what we're told\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 39.3714740276, 
+        "transcription": "just doing what we're told\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 47.20351686477662, 
+        "index": 9, 
+        "lyric": "I feel something so wrong\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 42.39507694244386, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 50.12951002120972, 
+        "index": 10, 
+        "lyric": "Doing the right thing\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 46.97514986991882, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 56.937405061721805, 
+        "index": 11, 
+        "lyric": "I feel something so right\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 51.41684403419495, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 59.777087926864624, 
+        "index": 12, 
+        "lyric": "Doing the wrong thing\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 56.943917989730835, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 65.37783603668211, 
+        "index": 13, 
+        "lyric": "I couldn't lie, couldn't lie, couldn't lie\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 60.73788094520569, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 71.19660897254943, 
+        "index": 14, 
+        "lyric": "Everything that kills me makes me feel alive\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 65.31947898864746, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 74.65381097793579, 
+        "index": 15, 
+        "lyric": "I've been, I've been losing sleep\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 71.52208495140076, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 79.4053318501, 
+        "index": 16, 
+        "lyric": "Dreaming about the things that we could be\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 74.8851439953, 
+        "transcription": "Dreaming about the things that we can be\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 83.8996199131, 
+        "index": 17, 
+        "lyric": "But baby, I've been, I've been prayin' hard\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 79.5671839714, 
+        "transcription": "baby, I've been, I've been prayin' hard\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 86.77445302009582, 
+        "index": 18, 
+        "lyric": "no more counting dollars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 84.1352219581604, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 88.64774484634398, 
+        "index": 19, 
+        "lyric": "We'll be counting stars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 86.48079700469972, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 93.3536199092865, 
+        "index": 20, 
+        "lyric": "Lately, I've been, I've been losing sleep\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 88.51834406852726, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 97.8724570274, 
+        "index": 21, 
+        "lyric": "Dreaming about the things that we could be\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 93.5197410583, 
+        "transcription": "Dreaming about the things that we can be\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 102.42997393608093, 
+        "index": 22, 
+        "lyric": "baby, I've been, I've been prayin' hard\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 98.22928285598755, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 105.270800924, 
+        "index": 23, 
+        "lyric": "no more counting dollars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 102.42531099300001, 
+        "transcription": "so no more counting dollars\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 109.6017198562622, 
+        "index": 24, 
+        "lyric": "We'll be, we'll be counting stars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 105.11497287750245, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 119.26928896899999, 
+        "index": 25, 
+        "lyric": "I feel the love, and I feel it burn\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 115.587447023, 
+        "transcription": "I feel this love, and I feel it burn\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 121.45953092575073, 
+        "index": 26, 
+        "lyric": "Down this river, every turn\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 118.97086591720583, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 123.5501320362091, 
+        "index": 27, 
+        "lyric": "Hope is our four letter word\n", 
+        "repeat": 0, 
+        "start": 121.24581403732302, 
+        "wavfile": "M154_197_02_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 125.76176404953003, 
+        "index": 28, 
+        "lyric": "Make that money, watch it burn\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 123.37231798171999, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 128.09494290351867, 
+        "index": 29, 
+        "lyric": "Old, but I'm not that old\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 125.76064186096193, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 130.37253890037536, 
+        "index": 30, 
+        "lyric": "I'm Young, but I'm not that bold\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 127.77368984222414, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 133.06689705799997, 
+        "index": 31, 
+        "lyric": "And I don't think the world is sold\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 130.353124046, 
+        "transcription": "I don't think the world is sold\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 134.99674100899998, 
+        "index": 32, 
+        "lyric": "I'm just doing what we're told\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 132.808325052, 
+        "transcription": "just doing what we're told\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 140.40317788124082, 
+        "index": 33, 
+        "lyric": "I feel something so wrong\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 135.0160460472107, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 142.64114904403687, 
+        "index": 34, 
+        "lyric": "Doing the right thing\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 140.15689396858215, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 148.29770703315734, 
+        "index": 35, 
+        "lyric": "I couldn't lie, couldn't lie, couldn't lie\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 143.41535606384275, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 153.77232499122618, 
+        "index": 36, 
+        "lyric": "Everything that kills me makes me feel alive\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 148.2546329498291, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 157.0680299758911, 
+        "index": 37, 
+        "lyric": "I've been, I've been losing sleep\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 153.73792600631714, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 161.545824862, 
+        "index": 38, 
+        "lyric": "Dreaming about the things that we could be\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 157.118285894, 
+        "transcription": "Dreaming about the things that we can be\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 166.088230944, 
+        "index": 39, 
+        "lyric": "But baby, I've been, I've been prayin' hard\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 161.592973852, 
+        "transcription": "baby, I've been, I've been prayin' hard\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 168.73596806526183, 
+        "index": 40, 
+        "lyric": "Said, no more counting dollars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 166.15961503982544, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 170.6066590309143, 
+        "index": 41, 
+        "lyric": "We'll be counting stars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 168.47171692848207, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 175.1589099884033, 
+        "index": 42, 
+        "lyric": "Lately, I've been, I've been losing sleep\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 170.4873039722443, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 179.501097059, 
+        "index": 43, 
+        "lyric": "Dreaming about the things that we could be\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 175.139692068, 
+        "transcription": "Dreaming about the things that we can be\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 183.88069291114806, 
+        "index": 44, 
+        "lyric": "baby, I've been, I've been prayin' hard\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 179.6058259010315, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 186.73967094399998, 
+        "index": 45, 
+        "lyric": "Said, no more counting dollars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 183.883060932, 
+        "transcription": "So, no more counting dollars\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 190.48497085571287, 
+        "index": 46, 
+        "lyric": "We'll be, we'll be counting stars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 186.3112089633942, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 196.7087170600891, 
+        "index": 47, 
+        "lyric": "Take that money Watch it burn\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 193.02405095100403, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 201.45212292671204, 
+        "index": 48, 
+        "lyric": "Sink in the river The lessons I learnt\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 196.79001188278198, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 205.8542610168457, 
+        "index": 49, 
+        "lyric": "Take that money Watch it burn\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 201.8391089439392, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 210.6722689628601, 
+        "index": 50, 
+        "lyric": "Sink in the river The lessons I learnt\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 206.2364959716797, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 214.85504789352416, 
+        "index": 51, 
+        "lyric": "Take that money Watch it burn\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 211.05455207824707, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 219.35167307853698, 
+        "index": 52, 
+        "lyric": "Sink in the river The lessons I learnt\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 215.21169996261597, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 223.7216770172119, 
+        "index": 53, 
+        "lyric": "Take that money Watch it burn\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 219.84811806678772, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 228.65419206619262, 
+        "index": 54, 
+        "lyric": "Sink in the river The lessons I learnt\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 224.23044300079346, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 232.48448486328124, 
+        "index": 55, 
+        "lyric": "Take that money Watch it burn\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 229.01062784194946, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 237.36606798171997, 
+        "index": 56, 
+        "lyric": "Sink in the river The lessons I learnt\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 233.61629705429073, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 248.1858540534973, 
+        "index": 57, 
+        "lyric": "Everything that kills me Makes me feel alive\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 238.5447289943695, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 251.73307890892028, 
+        "index": 58, 
+        "lyric": "I've been, I've been losing sleep\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 248.36813797950748, 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 256.222085953, 
+        "index": 59, 
+        "lyric": "Dreaming about the things that we could be\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 251.783364058, 
+        "transcription": "Dreaming about the things we can be\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 261.657798004, 
+        "index": 60, 
+        "lyric": "But baby, I've been, I've been prayin' hard\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 256.735547066, 
+        "transcription": "baby, I've been, I've been prayin' hard\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 264.45097599, 
+        "index": 61, 
+        "lyric": "Said, no more counting dollars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 261.66565599399996, 
+        "transcription": "Said, no more counting dollars\n", 
+        "wavfile": "M154_197_02_0101"
+    }, 
+    {
+        "end": 270.4794170379639, 
+        "index": 62, 
+        "lyric": "We'll be We'll be counting stars\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 264.3211150646209, 
+        "wavfile": "M154_197_02_0101"
+    }
+]

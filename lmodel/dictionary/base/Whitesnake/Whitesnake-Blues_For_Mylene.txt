@@ -1,0 +1,3 @@
+<song artist="Whitesnake" title="Blues_For_Mylene">
+ Instrumental
+</song>

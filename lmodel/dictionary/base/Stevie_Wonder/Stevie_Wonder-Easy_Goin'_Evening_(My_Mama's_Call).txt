@@ -1,0 +1,3 @@
+<song artist="Stevie_Wonder" title="Easy_Goin'_Evening_(My_Mama's_Call)">
+ Instrumental
+</song>

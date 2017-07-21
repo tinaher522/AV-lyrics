@@ -1,0 +1,7 @@
+<song artist="John_Lennon" title="A_Kiss_Is_Just_A_Kiss">
+You must remember this
+A kiss is just a kiss
+A fly is just a fly
+Right, and we're together
+A rose is a rose
+</song>

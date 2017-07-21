@@ -1,0 +1,313 @@
+[
+    {
+        "end": 15.262796926498412, 
+        "index": 1, 
+        "lyric": "I've been here before\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 8.096572017669681, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 21.425490903854374, 
+        "index": 2, 
+        "lyric": "But always hit the floor\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 15.3208909034729, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 25.231743049621585, 
+        "index": 3, 
+        "lyric": "I've spent a lifetime running\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 21.489726066589355, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 29.243201923370364, 
+        "index": 4, 
+        "lyric": "And I always get away\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 25.184610986709593, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 32.957091903686525, 
+        "index": 5, 
+        "lyric": "But with you I'm feeling something\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 28.720456123352044, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 37.56361589431763, 
+        "index": 6, 
+        "lyric": "That makes me want to stay\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 32.84556393623352, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 43.55338191986084, 
+        "index": 7, 
+        "lyric": "I'm prepared for this\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 37.75146293640137, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 51.08365902900696, 
+        "index": 8, 
+        "lyric": "I never shoot to miss\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 44.02152490615845, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 55.426592111587524, 
+        "index": 9, 
+        "lyric": "But I feel like a storm is coming\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 51.36468195915222, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 58.9148058891, 
+        "index": 10, 
+        "lyric": "If I'm gonna make it through the day\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 54.871557045, 
+        "transcription": "and I'm gonna make it through the day\n", 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 62.68170690536499, 
+        "index": 11, 
+        "lyric": "Then there's no more use in running\n", 
+        "repeat": 0, 
+        "start": 58.91534595489502, 
+        "wavfile": "F151_084_02_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 67.1074250221252, 
+        "index": 12, 
+        "lyric": "This is something I gotta face\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 62.19850006103515, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 73.28597507476806, 
+        "index": 13, 
+        "lyric": "If I risk it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 67.40968298912048, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 80.26234006881714, 
+        "index": 14, 
+        "lyric": "Would you break my fall?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 73.64090204238892, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 84.19035997390748, 
+        "index": 15, 
+        "lyric": "How do I live? How do I breathe?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 80.16975197792055, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 87.6372929096222, 
+        "index": 16, 
+        "lyric": "When you're not here I'm suffocating\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 83.89138793945315, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 91.6213190556, 
+        "index": 17, 
+        "lyric": "I want to feel love, run through my blood\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 87.4328680038, 
+        "transcription": "I wanna feel love, run through my blood\n", 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 95.57932496070862, 
+        "index": 18, 
+        "lyric": "Tell me is this where I give it all up?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 91.29690694808963, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 101.40665707588195, 
+        "index": 19, 
+        "lyric": "For you I have to risk it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 95.60917096138002, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 108.976820946, 
+        "index": 20, 
+        "lyric": "Cause the writing's on the wall\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 102.748002958, 
+        "transcription": "Now the writing's on the wall\n", 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 120.57346210479736, 
+        "index": 21, 
+        "lyric": "A million shards of glass\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 113.86538791656494, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 127.93388290405272, 
+        "index": 22, 
+        "lyric": "That haunt me from my past\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 121.15691494941711, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 131.7465549468994, 
+        "index": 23, 
+        "lyric": "As the stars begin to gather\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 127.84040708541872, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 135.40425295829772, 
+        "index": 24, 
+        "lyric": "And the light begins to fade\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 131.48432989120485, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 139.18776998519897, 
+        "index": 25, 
+        "lyric": "When all hope begins to shatter\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 135.2830460548401, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 144.2260699748993, 
+        "index": 26, 
+        "lyric": "Know that I won't be afraid\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 138.81154704093936, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 149.30877799987792, 
+        "index": 27, 
+        "lyric": "If I risk it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 143.70951495170598, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 156.56570501327514, 
+        "index": 28, 
+        "lyric": "Would you break my fall?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 150.64141802787773, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 160.41203293800353, 
+        "index": 29, 
+        "lyric": "How do I live? How do I breathe?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 156.5589780807495, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 163.77598595619202, 
+        "index": 30, 
+        "lyric": "When you're not here I'm suffocating\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 160.0448609352112, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 167.68191208839417, 
+        "index": 31, 
+        "lyric": "I want to feel love, run through my blood\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 163.35112299919132, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 171.53215298652648, 
+        "index": 32, 
+        "lyric": "Tell me is this where I give it all up?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 167.30409708023075, 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 177.993892908, 
+        "index": 33, 
+        "lyric": "For you I have to risk it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 171.436631012, 
+        "transcription": "with you I have to risk it all\n", 
+        "wavfile": "F151_084_02_0101"
+    }, 
+    {
+        "end": 190.758934021, 
+        "index": 34, 
+        "lyric": "Cause the writing's on the wall\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 178.713054895, 
+        "transcription": "now the writing's on the wall\n", 
+        "wavfile": "F151_084_02_0101"
+    }
+]

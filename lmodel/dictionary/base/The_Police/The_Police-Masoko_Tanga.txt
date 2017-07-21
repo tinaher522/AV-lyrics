@@ -1,0 +1,5 @@
+<song artist="The_Police" title="Masoko_Tanga">
+Moderator's Note:
+While this song has lyrics, they are nonsense words. 
+This was intentional.
+</song>

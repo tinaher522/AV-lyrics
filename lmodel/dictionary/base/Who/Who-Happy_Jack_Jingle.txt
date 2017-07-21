@@ -1,0 +1,12 @@
+<song artist="Who" title="Happy_Jack_Jingle">
+Happy Jack had some fun here on Radio One.
+"Yes, no bum notes, no joking."
+"Joke over lads."
+"No fucking about. Joke over, boys. Let's get down to good, serious, recording."
+"Let's get down to brass tacks."
+"Ready, steady, go."
+"Ah, you had that one ready, didn't you?"
+"One-- oh, hold on."
+"Oh."
+"One, two, three..."
+</song>

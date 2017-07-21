@@ -1,0 +1,398 @@
+[
+    {
+        "end": 38.879109191894536, 
+        "index": 1, 
+        "lyric": "I've never seen a diamond in the flesh\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 34.862427139282225, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 45.99351119995117, 
+        "index": 2, 
+        "lyric": "I cut my teeth on wedding rings in the movies\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 39.716825103759774, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 50.0979350567, 
+        "index": 3, 
+        "lyric": "And I'm not proud of my address\n", 
+        "repeat": 0, 
+        "selected": false, 
+        "start": 45.8579930782, 
+        "transcription": "I'm not proud of my address\n", 
+        "wavfile": "M011_011_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 56.642449188232426, 
+        "index": 4, 
+        "lyric": "In a torn-up town, no postcode envy\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 50.42015209197998, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 63.412176036834715, 
+        "index": 5, 
+        "lyric": "But every song's like Gold teeth, Grey Goose, trippin' in the bathroom Blood stains, ball gowns, trashin' the hotel room \n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 56.28054113388061, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 68.20116705894469, 
+        "index": 6, 
+        "lyric": "We don't care, we're driving Cadillacs in our dreams\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 63.23954615592956, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 74.24258399009705, 
+        "index": 7, 
+        "lyric": "like Cristal, Maybach, diamonds on your timepiece Jet planes, islands, tigers on a gold leash\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 67.96532912254335, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 78.81960215568543, 
+        "index": 8, 
+        "lyric": "We don't care, we aren't caught up in your love affair\n", 
+        "repeat": 0, 
+        "start": 74.18112807273866, 
+        "wavfile": "M011_011_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 81.0748081207, 
+        "index": 9, 
+        "lyric": "And we'll never be royals\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 78.7231451035, 
+        "transcription": "Never be royals\n", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 83.72119402885437, 
+        "index": 10, 
+        "lyric": "It don't run in our blood\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 81.31219816207886, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 86.75894412989996, 
+        "index": 11, 
+        "lyric": "That kind of luxe just ain't for us\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 83.8872880936, 
+        "transcription": "That kind of luxe just ain't for us\n", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 89.20782814025878, 
+        "index": 12, 
+        "lyric": "We crave a different kind of buzz\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 86.53176808357239, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 92.12093205451964, 
+        "index": 13, 
+        "lyric": "Let me be your ruler\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 88.8947750091553, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 94.85104703903198, 
+        "index": 14, 
+        "lyric": "You can call me queen bee\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 92.1789071559906, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 98.45455312729997, 
+        "index": 15, 
+        "lyric": "And baby, I'll rule\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 94.64927721020001, 
+        "transcription": "And baby, I'll rule\n", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 102.1752572059631, 
+        "index": 16, 
+        "lyric": "Let me live that fantasy\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 98.29378414154053, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 107.14632706599998, 
+        "index": 17, 
+        "lyric": "Let me live that fantasy\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 104.866616011, 
+        "transcription": "Live that fantasy\n", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 114.42209916114805, 
+        "index": 18, 
+        "lyric": "My friends and I, we've cracked the code\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 109.33075509071344, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 121.33274817466736, 
+        "index": 19, 
+        "lyric": "We count our dollars on the train to the party\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 115.75479903221122, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 127.19932699203491, 
+        "index": 20, 
+        "lyric": "And everyone who knows us, knows that we're fine with this\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 121.65922904014587, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 131.7155411719999, 
+        "index": 21, 
+        "lyric": "We didn't come from money\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 126.858669996, 
+        "transcription": "We didn't come from money\nno no", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 133.01562805175783, 
+        "index": 22, 
+        "lyric": "But every song's like \n", 
+        "repeat": 0, 
+        "selected": false, 
+        "start": 130.721810054779, 
+        "wavfile": "M011_011_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 138.487027025, 
+        "index": 23, 
+        "lyric": "Gold teeth, Grey Goose, trippin' in the bathroom Blood stains, ball gowns, trashin' the hotel room\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 131.521796083, 
+        "transcription": "But every song's like Gold teeth, Grey Goose, trippin' in the bathroom Blood stains, ball gowns, trashin' the hotel room\n", 
+        "wavfile": "M011_011_01_0101", 
+        "wrong": false
+    }, 
+    {
+        "end": 143.20163207054136, 
+        "index": 24, 
+        "lyric": "We don't care, we're driving Cadillacs in our dreams\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 138.2471820831299, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 149.26749215126037, 
+        "index": 25, 
+        "lyric": "like Cristal, Maybach, diamonds on your timepiece Jet planes, islands, tigers on a gold leash\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 142.98456220626832, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 153.72324299812317, 
+        "index": 26, 
+        "lyric": "We don't care, we aren't caught up in your love affair\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 149.14509205818177, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 156.670017004, 
+        "index": 27, 
+        "lyric": "And we'll never be royals\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 153.78883614499998, 
+        "transcription": "never be royals\n", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 158.787533045, 
+        "index": 28, 
+        "lyric": "It don't run in our blood\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 156.818107128, 
+        "transcription": "It don't run in our blood\n", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 161.584057093, 
+        "index": 29, 
+        "lyric": "That kind of luxe just ain't for us\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 158.965141058, 
+        "transcription": "The kind of luxe just ain't for us\n", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 164.15392498970033, 
+        "index": 30, 
+        "lyric": "We crave a different kind of buzz\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 161.76687216758728, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 167.38416504859924, 
+        "index": 31, 
+        "lyric": "Let me be your ruler\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 164.1811501502991, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 169.770734072, 
+        "index": 32, 
+        "lyric": "You can call me queen bee\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 168.26565499299997, 
+        "transcription": "call me queen bee\n", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 173.45172104799997, 
+        "index": 33, 
+        "lyric": "And baby, I'll rule\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 170.028549194, 
+        "transcription": "Baby, I'll rule\n", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 177.18097109794616, 
+        "index": 34, 
+        "lyric": "Let me live that fantasy\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 173.1626009941101, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 180.489705086, 
+        "index": 35, 
+        "lyric": "And we'll never be royals\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 178.021083021, 
+        "transcription": "Never be royals", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 183.19210500717162, 
+        "index": 36, 
+        "lyric": "It don't run in our blood\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 180.959890127182, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 185.677190161, 
+        "index": 37, 
+        "lyric": "That kind of luxe just ain't for us\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 183.235133171, 
+        "transcription": "The kind of luxe just ain't for us\n", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 188.22663321495057, 
+        "index": 38, 
+        "lyric": "We crave a different kind of buzz\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 185.8026430606842, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 191.4879940509796, 
+        "index": 39, 
+        "lyric": "Let me be your ruler\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 188.15363202095034, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 193.89696717262268, 
+        "index": 40, 
+        "lyric": "You can call me queen bee\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 191.69003105163574, 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 198.674042034, 
+        "index": 41, 
+        "lyric": "And baby, I'll rule\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 193.80384202000002, 
+        "transcription": "Baby, I'll rule\n", 
+        "wavfile": "M011_011_01_0101"
+    }, 
+    {
+        "end": 201.5680320262909, 
+        "index": 42, 
+        "lyric": "Let me live that fantasy\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 198.53514409065247, 
+        "wavfile": "M011_011_01_0101"
+    }
+]

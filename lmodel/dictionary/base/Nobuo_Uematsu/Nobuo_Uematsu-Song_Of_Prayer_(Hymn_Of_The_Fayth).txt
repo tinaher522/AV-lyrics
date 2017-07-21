@@ -1,0 +1,35 @@
+<song artist="Nobuo_Uematsu" title="Song_Of_Prayer_(Hymn_Of_The_Fayth)">
+The original lyrics to the Song of Prayer are as follows:
+Ieyui
+Nobomeno
+Renmiri
+Yojuyogo
+Hasatekanae
+Kutamae
+
+This can be translated by rearranging the syllables. Take the first four words and rearrange the syllables vertically.
+i 	no	re	yo
+e 	bo	n 	ju
+yu	me	mi	yo
+i 	no	ri	go
+Pray Saviour
+Dream Child of Prayer
+
+Arrange the last two words into a rectangle and an L, respectively.
+ha	te	na
+sa	ka	e
+ku
+ta	ma	e
+Forever and ever
+Bring us peace
+
+This gives us the "real lyrics" to the Song of Prayer:
+Inore yo, Ebonju
+Yume mi yo, inorigo
+Hatenaku
+Sakaetamae
+Pray to Yu Yevon
+Dream, fayth
+Forever and ever,
+grant us prosperity
+</song>

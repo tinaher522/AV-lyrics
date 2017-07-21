@@ -1,0 +1,26 @@
+<song artist="Neil_Diamond" title="Amazing_Grace">
+Amazing grace, how sweet the sound
+That saved a wretch like me
+I once was lost but now am found
+Was blind but now I see
+The Lord has promised good to me
+His word my hope secures
+He will my shield and fortress be
+As long as life endures
+When we've been here ten thousand years
+Bright shining as the sun
+We've no less days to sing God's praise
+Than when we've first begun
+The story of 'Amazing Grace'
+It was written over 200 years ago
+By a sailor whose life was spared
+Through the grace of God
+On a ship on a stormy sea
+Where he survived while the seaman
+Who took his watch perished
+Inspiring these words
+Amazing grace, how sweet the sound
+That saved a wretch like me
+I once was lost but now am found
+Was blind but now I see
+</song>

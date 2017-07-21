@@ -1,0 +1,6 @@
+<song artist="Paul_McCartney" title="Ram_On">
+Ram on, give your heart to somebody,
+Soon, right away, right away.
+Ram on, give your heart to somebody,
+Soon, right away, right away.
+</song>

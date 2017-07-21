@@ -1,0 +1,27 @@
+<song artist="AC/DC" title="Bonny">
+The song in question is Loch Lomond, 
+which goes something like the following:
+I'll take the high road
+And you'll take the low road
+And I'll be in Scotland afore ye
+But me and my true love
+Will never meet again
+On the bonny, bonny banks of Loch Lomond
+Here is the complete song....
+By yon bonnie banks and by yon bonnie braes,
+Where the sun shines bright on Loch Lomon'.
+Where me and my true love were ever wont to gae
+On the bonnie, bonnie banks o' Loch Lomon'.
+O ye'll tak' the high road and I'll tak the low road,
+An' I'll be in Scotland afore ye;
+But me and my true love will never meet again
+On the bonnie, bonnie banks o' Loch Lomon'.
+'Twas there that we parted in yon shady glen,
+On the steep, steep side o' Ben Lomon',
+Where in purple hue the Hieland hills we view,
+An' the moon comin' out in the gloamin'.
+O ye'll tak' the high road and I'll tak the low road,
+An' I'll be in Scotland afore ye;
+But me and my true love will never meet again
+On the bonnie, bonnie banks o' Loch Lomon'.
+</song>

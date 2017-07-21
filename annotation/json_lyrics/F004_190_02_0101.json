@@ -1,0 +1,353 @@
+[
+    {
+        "end": 4.042599010467529, 
+        "index": 1, 
+        "lyric": "You were the shadow to my light \n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 0.3097501277923581, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 6.297998142242431, 
+        "index": 2, 
+        "lyric": "Did you feel us?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 3.839917087554931, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 9.685223197937011, 
+        "index": 3, 
+        "lyric": "Another star\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 7.253909015655514, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 11.822949075698851, 
+        "index": 4, 
+        "lyric": "You fade away\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 9.29021911621094, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 15.077642011642455, 
+        "index": 5, 
+        "lyric": "Afraid our aim is out of sight \n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 11.608289051055909, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 21.46725697517396, 
+        "index": 6, 
+        "lyric": "Wanna see us Alive\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 14.796222972869874, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 23.932997989654545, 
+        "index": 7, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 21.14056496620178, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 29.85978107452393, 
+        "index": 8, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 26.63407506942751, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 35.216268968582156, 
+        "index": 9, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 31.949569034576434, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 38.09755415916443, 
+        "index": 10, 
+        "lyric": "Was it all in my fantasy?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 34.90994610786437, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 40.24323897361756, 
+        "index": 11, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 37.85187697410583, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 43.646887159347536, 
+        "index": 12, 
+        "lyric": "Were you only imaginary?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 40.50164604187011, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 46.21161518096924, 
+        "index": 13, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 43.40363807678222, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 48.904967069625854, 
+        "index": 14, 
+        "lyric": "Atlantis\n", 
+        "repeat": 0, 
+        "start": 46.43900108337402, 
+        "wavfile": "F004_190_02_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 51.34155597686768, 
+        "index": 15, 
+        "lyric": "Under the sea\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 49.01160197257995, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 54.0701250076294, 
+        "index": 16, 
+        "lyric": "Under the sea\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 51.452376985549925, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 57.33232598304749, 
+        "index": 17, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 54.56310515403748, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 59.75161504745484, 
+        "index": 18, 
+        "lyric": "Another dream\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 57.19840316772461, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 64.81417303085325, 
+        "index": 19, 
+        "lyric": "The monster's running wild inside of me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 60.453900146484386, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 67.37481403350827, 
+        "index": 20, 
+        "lyric": "I'm faded\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 64.62313919067384, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 75.12488012313841, 
+        "index": 21, 
+        "lyric": "These shallow waters never met what I needed\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 69.1696770668029, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 80.91628808975219, 
+        "index": 22, 
+        "lyric": "I'm letting go a deeper dive\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 76.24375200271601, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 83.9183410167694, 
+        "index": 23, 
+        "lyric": "Eternal silence of the sea. \n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 80.58585915565493, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 90.0111560344696, 
+        "index": 24, 
+        "lyric": "I'm breathing alive\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 84.09451608657838, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 92.63816409111021, 
+        "index": 25, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 90.17462816238404, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 98.84574799537657, 
+        "index": 26, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 95.64445910453796, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 106.91198201179503, 
+        "index": 27, 
+        "lyric": "Under the bright but faded lights You've set my heart on fire\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 100.64929413795471, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 109.0160711288452, 
+        "index": 28, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 106.85749711990357, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 111.82440514564513, 
+        "index": 29, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 109.63283009529115, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 114.8630390167236, 
+        "index": 30, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 112.44701118469237, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 117.56571698188782, 
+        "index": 31, 
+        "lyric": "Atlantis\n", 
+        "repeat": 0, 
+        "start": 115.10086917877197, 
+        "wavfile": "F004_190_02_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 120.07083005905147, 
+        "index": 32, 
+        "lyric": "Under the sea\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 117.85508108139038, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 122.84521203041075, 
+        "index": 33, 
+        "lyric": "Under the sea\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 120.35272216796875, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 125.82068710327147, 
+        "index": 34, 
+        "lyric": "Where are you now?\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 123.3893480300903, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 128.63230705261228, 
+        "index": 35, 
+        "lyric": "Another dream\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 125.9620909690857, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 133.92594003677365, 
+        "index": 36, 
+        "lyric": "The monster's running wild inside of me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 128.46635818481445, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 136.4666100978851, 
+        "index": 37, 
+        "lyric": "I'm faded\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 133.800302028656, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 143.10654597282408, 
+        "index": 38, 
+        "lyric": "I'm faded\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 136.78068208694458, 
+        "wavfile": "F004_190_02_0101"
+    }, 
+    {
+        "end": 148.5450219631195, 
+        "index": 39, 
+        "lyric": "So lost, I'm faded\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 143.34285306930542, 
+        "wavfile": "F004_190_02_0101"
+    }
+]

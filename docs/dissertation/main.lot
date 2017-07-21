@@ -1,0 +1,35 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Gender distribution of ACOMUS1 corpus}}{15}
+\contentsline {table}{\numberline {3.2}{\ignorespaces ACOMUS1 - Annotated Time Size}}{15}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Train and Development Size}}{19}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Guitar and Piano testing sets}}{19}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Training set size with Modifications}}{20}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Weight Development set over augmented Training set}}{20}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces N-gram evaluation results}}{27}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Baseline Results}}{28}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Substitution Error Example in Baseline}}{28}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Deletion Error Example in Baseline}}{28}
+\contentsline {table}{\numberline {6.5}{\ignorespaces Augmented Data Results}}{29}
+\contentsline {table}{\numberline {6.6}{\ignorespaces DNN models - Augmented Training Data Results}}{29}
+\contentsline {table}{\numberline {6.7}{\ignorespaces Augmented Data Results}}{30}
+\contentsline {table}{\numberline {6.8}{\ignorespaces Guitar and Piano Test Set Results}}{30}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{List of guitar songs}}{39}
+\contentsline {table}{\numberline {A.2}{List of piano songs}}{44}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {D.1}{\ignorespaces Baseband Decode Results}}{51}
+\contentsline {table}{\numberline {D.2}{\ignorespaces Pitch Augmentation Decode Results}}{52}
+\contentsline {table}{\numberline {D.3}{\ignorespaces Tempo Augmentation Decode Results}}{52}
+\contentsline {table}{\numberline {D.4}{\ignorespaces Pitch plus Tempo without Combinations Augmentation Decode Results}}{53}
+\contentsline {table}{\numberline {D.5}{\ignorespaces Pitch plus Tempo with Combinations Augmentation Decode Results}}{53}
+\contentsline {table}{\numberline {D.6}{\ignorespaces Pitch Modification as a New Same Gender Singer Augmentation Decode Results}}{54}
+\contentsline {table}{\numberline {D.7}{\ignorespaces Guitar Test Set Results}}{54}
+\contentsline {table}{\numberline {D.8}{\ignorespaces Piano Test Set Results}}{54}

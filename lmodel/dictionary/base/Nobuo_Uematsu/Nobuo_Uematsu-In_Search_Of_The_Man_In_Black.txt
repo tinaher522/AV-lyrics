@@ -1,0 +1,3 @@
+<song artist="Nobuo_Uematsu" title="In_Search_Of_The_Man_In_Black">
+ Instrumental
+</song>

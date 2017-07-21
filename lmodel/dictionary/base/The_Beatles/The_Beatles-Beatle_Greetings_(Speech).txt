@@ -1,0 +1,6 @@
+<song artist="The_Beatles" title="Beatle_Greetings_(Speech)">
+Ringo: I'm Ringo and I play the drums. 
+Paul: Hey... I'm Paul and I play the ...err... bass (Chhhh) 
+George: I'm George and I play a guitar. (whistle) 
+John: I'm John and I too play guitar; sometimes I play the fool...
+</song>

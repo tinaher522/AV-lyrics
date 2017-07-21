@@ -1,0 +1,3 @@
+<song artist="Queen" title="Flash_To_The_Rescue">
+ Instrumental
+</song>

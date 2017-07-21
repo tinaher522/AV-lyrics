@@ -1,0 +1,7 @@
+<song artist="The_Doors" title="Fever">
+Everybody's got the fever
+That is something we all know
+Fever isn't such a new thing
+Fever started a long, started a long time ago
+A long time ago
+</song>

@@ -1,0 +1,3 @@
+<song artist="Sting" title="The_Most_High_And_Mighty_Christianus_The_Fourth,_King_Of_Denmark,_His_Galliard">
+ Instrumental
+</song>

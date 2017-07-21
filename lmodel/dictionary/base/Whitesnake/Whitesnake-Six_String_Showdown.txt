@@ -1,0 +1,3 @@
+<song artist="Whitesnake" title="Six_String_Showdown">
+ Instrumental
+</song>

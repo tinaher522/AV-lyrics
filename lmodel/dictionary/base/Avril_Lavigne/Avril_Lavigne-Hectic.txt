@@ -1,0 +1,3 @@
+<song artist="Avril_Lavigne" title="Hectic">
+Hey, hey you, i found myself again! I can do better, i can do better! You don't understand. i'm way over it!
+</song>

@@ -1,0 +1,10 @@
+<song artist="Stevie_Wonder" title="Dream">
+Dream, when you're feeling blue
+Oh dream, that's the thing to do
+Just watch the smoke rings rise in the air
+You'll find your share of memories there
+So dream, when the day is through
+Oh dream, they just might come true
+You know things never are as bad as they seem
+So dream, dream, dream
+</song>

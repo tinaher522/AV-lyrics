@@ -1,0 +1,7 @@
+<song artist="Janet_Jackson" title="4_Words_(Interlude)">
+4 words:
+Love
+Fate
+Hope
+Destiny
+</song>

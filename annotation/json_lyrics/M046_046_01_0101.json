@@ -1,0 +1,383 @@
+[
+    {
+        "end": 18.586072015762333, 
+        "index": 1, 
+        "lyric": "Romeo is bleeding\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 14.843791961669924, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 21.808735942840578, 
+        "index": 2, 
+        "lyric": "you can't see his blood\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 18.398357915878293, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 24.68421297073364, 
+        "index": 3, 
+        "lyric": "It's nothing but some feelings\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 21.94991111755371, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 28.4948199749, 
+        "index": 4, 
+        "lyric": "That this old dog kicked up\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 24.190554094299998, 
+        "transcription": "this old dog kicked up\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 31.165135002136232, 
+        "index": 5, 
+        "lyric": "It's been raining since you left me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 28.554229021072388, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 35.38305988311768, 
+        "index": 6, 
+        "lyric": "Now I'm drowning in the flood\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 31.242379903793335, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 38.01896390914917, 
+        "index": 7, 
+        "lyric": "You see, I've always been a fighter\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 35.32477197647095, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 41.504304027557374, 
+        "index": 8, 
+        "lyric": "without you, I give up\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 38.11153507232666, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 45.28798294067383, 
+        "index": 9, 
+        "lyric": "I can't sing a love song\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 41.631622076034546, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 48.55712900161743, 
+        "index": 10, 
+        "lyric": "Like the way it's meant to be\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 44.95227098464965, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 52.6261600018, 
+        "index": 11, 
+        "lyric": "I guess I'm not that good anymore\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 48.6262478828, 
+        "transcription": "I guess I'm not good anymore\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 55.93395209312439, 
+        "index": 12, 
+        "lyric": "baby, that's just me\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 52.62469902038574, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 69.40376200675965, 
+        "index": 13, 
+        "lyric": "And I will love you, baby, always\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 55.993219995498656, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 83.77516894340516, 
+        "index": 14, 
+        "lyric": "And I'll be there forever and a day, always\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 69.425962972641, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 87.63711409569999, 
+        "index": 15, 
+        "lyric": "your pictures that you left behind\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 83.3133639812, 
+        "transcription": "now your pictures that you left behind\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 90.6244359016, 
+        "index": 16, 
+        "lyric": "Are just memories of a different life\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 87.31442804339999, 
+        "transcription": "memories of a different life\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 93.94080996513367, 
+        "index": 17, 
+        "lyric": "Some that made us laugh, some that made us cry\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 90.36803803443911, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 97.28815507888794, 
+        "index": 18, 
+        "lyric": "One that made you have to say goodbye\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 93.7055738925934, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 101.24213790893552, 
+        "index": 19, 
+        "lyric": "What I'd give to run my fingers through your hair\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 97.23147110939027, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 103.991909027, 
+        "index": 20, 
+        "lyric": "To touch your lips, to hold you near\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 100.958662987, 
+        "transcription": "touch your lips, to hold you near\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 107.4504250049591, 
+        "index": 21, 
+        "lyric": "When you say your prayers, try to understand\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 103.83531708717348, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 110.6084460258484, 
+        "index": 22, 
+        "lyric": "I've made mistakes, I'm just a man\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 107.07091593742373, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 113.934568071, 
+        "index": 23, 
+        "lyric": "When he holds you close, when he pulls you near\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 110.530796957, 
+        "transcription": "When he holds you close, pulls you near\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 117.2157769203186, 
+        "index": 24, 
+        "lyric": "When he says the words you've been needing to hear\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 113.95128707885743, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 119.23595809936523, 
+        "index": 25, 
+        "lyric": "I wish I was him\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 117.11624093055727, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 120.976425982, 
+        "index": 26, 
+        "lyric": "With these words of mine\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 119.061818075, 
+        "transcription": "these words of mine\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 124.43467707633971, 
+        "index": 27, 
+        "lyric": "To say to you 'til the end of time\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 120.7823820590973, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 137.50451292999998, 
+        "index": 28, 
+        "lyric": "That I will love you baby, always\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 123.99412689200003, 
+        "transcription": "And I will love you baby, always\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 151.07311601638793, 
+        "index": 29, 
+        "lyric": "And I'll be there forever and a day, always\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 137.4269009590149, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 155.001160908, 
+        "index": 30, 
+        "lyric": "I'll be there 'til the stars don't shine\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 151.051386118, 
+        "transcription": "and I'll be there 'til the stars don't shine\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 158.41316103935242, 
+        "index": 31, 
+        "lyric": "'Til the heavens burst and the words don't rhyme\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 154.82852196693423, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 161.793945074, 
+        "index": 32, 
+        "lyric": "I know when I die, you'll be on my mind\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 158.60336504, 
+        "transcription": "when I die, you'll be on my mind\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 168.86159501075744, 
+        "index": 33, 
+        "lyric": "And I'll love you, always\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 161.69484000205995, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 173.66348910331726, 
+        "index": 34, 
+        "lyric": "Always\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 170.51327390670772, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 192.464920998, 
+        "index": 35, 
+        "lyric": "I will love you baby, always\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 175.682204914, 
+        "transcription": "And I will love you baby, always\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 206.96884393692017, 
+        "index": 36, 
+        "lyric": "And I'll be there forever and a day, always\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 192.32837290763857, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 210.633424044, 
+        "index": 37, 
+        "lyric": "I'll be there 'til the stars don't shine\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 207.05550208100001, 
+        "transcription": "And I'll be there 'til the stars don't shine\n", 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 214.04441199302673, 
+        "index": 38, 
+        "lyric": "'Til the heavens burst and the words don't rhyme\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 210.49284310340883, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 217.4928120136261, 
+        "index": 39, 
+        "lyric": "I know when I die, you'll be on my mind\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 214.00374093055726, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 223.83494591712952, 
+        "index": 40, 
+        "lyric": "And I'll love you, always\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 217.3520761013031, 
+        "wavfile": "M046_046_01_0101"
+    }, 
+    {
+        "end": 230.78423404693604, 
+        "index": 41, 
+        "lyric": "Always\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 226.7852489471434, 
+        "wavfile": "M046_046_01_0101"
+    }
+]

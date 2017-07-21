@@ -1,0 +1,10 @@
+<song artist="Elvis_Presley" title="I_Shall_Be_Released">
+I see my light, I see my light come shining
+From the west down to the east
+Any day now, any day now 
+I shall be released
+I see my light come shining
+From the west down to the east
+Any day now, any day now 
+I shall be released
+</song>

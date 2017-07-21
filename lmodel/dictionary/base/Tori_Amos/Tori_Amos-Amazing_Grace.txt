@@ -1,0 +1,14 @@
+<song artist="Tori_Amos" title="Amazing_Grace">
+Amazing grace, how sweet the sound
+That saved a wretch like me
+I once was lost but now I sure is found
+Was blind but now I see
+'Twas grace, mother, that taught my heart to fear
+And grace my fears relieved
+How precious did ever, yes, your grace, sweet grace appear
+The hour I first believed
+When we've been there ten thousand years
+Bright shining, said as his sun
+You say I know that grace, sweet grace has appeared
+And now she'll bring me home
+</song>

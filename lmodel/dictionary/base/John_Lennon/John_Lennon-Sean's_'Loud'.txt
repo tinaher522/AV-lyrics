@@ -1,0 +1,6 @@
+<song artist="John_Lennon" title="Sean's_'Loud'">
+- "YEAH! I like it very loud!"
+- "Well, that's how I like it too";
+- "Can't you make it more louder?";
+- "I can't make it any louder than it is, it's on full you see."
+</song>

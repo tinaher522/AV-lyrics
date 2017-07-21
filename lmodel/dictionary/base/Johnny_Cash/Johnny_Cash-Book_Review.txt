@@ -1,0 +1,3 @@
+<song artist="Johnny_Cash" title="Book_Review">
+Spoken text
+</song>

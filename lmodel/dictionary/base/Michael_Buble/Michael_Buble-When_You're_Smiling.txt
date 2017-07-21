@@ -1,0 +1,15 @@
+<song artist="Michael_Buble" title="When_You're_Smiling">
+When you're smilin'
+When you're smilin'
+The whole world smiles with you.
+And when you're laughin'
+When you're laughin'
+The sun comes shinin' through.
+When you're cryin',
+You bring on the rain,
+So, stop you're sighin',
+Won't you be happy again!
+When you're smiling,
+Keep on smilin'
+And the whole world smiles with you.
+</song>

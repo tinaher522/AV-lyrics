@@ -1,0 +1,3 @@
+<song artist="Nobuo_Uematsu" title="Opening_-_Bombing_Mission">
+ Instrumental
+</song>

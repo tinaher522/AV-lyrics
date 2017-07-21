@@ -1,0 +1,3 @@
+<song artist="Coldplay" title="Mylo_Xyloto">
+ Instrumental
+</song>

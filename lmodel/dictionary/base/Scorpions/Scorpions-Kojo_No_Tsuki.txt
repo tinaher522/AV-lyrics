@@ -1,0 +1,19 @@
+<song artist="Scorpions" title="Kojo_No_Tsuki">
+Haru koro no hana no en
+Meguru sakazuki kagesashite
+Chiyo no matsu ga e wakeideshi
+Mukashi no hikari ima izuko
+Mukashi no hikari ima izuko
+Aki jinei no schimo no iro
+Nakiyuku kari no kazu misete
+Uuru tsurugi ni terisoishi
+Mukashi no hikari ima izuko
+Ima kojo no yowa no tsuki
+Kawaranu hikari ta ga tame zo
+Kaki ni nokoru wa tada kazura
+Matsu ni uto wa tada arashi
+Tenjokage wa kawaranedo
+Eiko wa utsuru yo no sugata
+Utsusan toteka ima mo nao
+Ah! Kojo no yowa no tsuki
+</song>

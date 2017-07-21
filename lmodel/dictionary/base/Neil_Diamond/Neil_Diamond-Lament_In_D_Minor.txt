@@ -1,0 +1,3 @@
+<song artist="Neil_Diamond" title="Lament_In_D_Minor">
+ Instrumental
+</song>

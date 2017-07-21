@@ -1,0 +1,3 @@
+<song artist="Whitesnake" title="Belgian_Tom's_Hat_Trick">
+ Instrumental
+</song>

@@ -1,0 +1,240 @@
+M,Boyce Avenue,guitar,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+F,Sofia,guitar,https://www.youtube.com/channel/UCfjnEW3mVXfW0Wb602r1IrQ
+F,Daniela Andrade,guitar,https://www.youtube.com/channel/UC2vPHIqjFdpPVMa2PGwJuYg
+F,Beth,piano,https://www.youtube.com/channel/UCfYReF1e8lI85qH8FndkqBw
+F,Mackenzie Johnson,guitar,https://www.youtube.com/channel/UC4r0mPU6KZLgAwXDEjqQv_g
+F,Jess Greenberg,guitar,https://www.youtube.com/channel/UC7gHHtlv-Oyll1jbsJh8qJA
+M,Mike Massé,guitar,https://www.youtube.com/channel/UCEVZNpzM9oDegvplv5Z36Sw
+F,Birdy,guitar,-
+M,Obadiah Parker,guitar,-
+M,Gustavo Trebien,guitar,https://www.youtube.com/channel/UCwE5BXvQEmF14oqTzzYigLA
+M,Ed Sheeran,guitar,-
+F,Zella Day,guitar,-
+F,Rebecca Shearing,guitar,https://www.youtube.com/channel/UCVJiwN_aOgQ75RBg91ANjqQ
+M,Brian Mikula,guitar,https://www.youtube.com/channel/UCfM4QHJnyKLvQLED5aGNSvw
+M,Alex Hamel,guitar,https://www.youtube.com/channel/UCF8KPEcWk1GDc86nRKw38Ow
+M,Alan Robinson,guitar,https://www.youtube.com/channel/UCEGsUxJtGEJhDfKSwYDNaXw
+M,Mike Peralta,guitar,https://www.youtube.com/channel/UCIfnWOeWsRHpZsjBGnz8_Hw
+M,John Mayer,guitar,https://www.youtube.com/channel/UC9KhB07HSEtWISy_LFWwHzw
+M,Awake! Awake!,guitar,https://www.youtube.com/channel/UCxtjoXZ03mKLUnW7eaKAqKA
+M,Janick Thibault,guitar,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+F,EMG Acoustics Cover,guitar,https://www.youtube.com/channel/UCSax4jQjNjIRjXbUtbUantw
+F,Grace Weber,guitar,https://www.youtube.com/channel/UCfTNidt3axo_u_ioJVQWwDg
+M,Andrew Garcia,guitar,https://www.youtube.com/channel/UC6issK8yf-L-sW-SZgU8vOA
+M,Jeremy Passion,guitar,-
+M,Noah Cover,guitar,-
+F,Tori Kelly,guitar,-
+F,Arlene Zelina,guitar,-
+F,Hannah Trigwell,guitar,https://www.youtube.com/channel/UCwE5BXvQEmF14oqTzzYigLA
+F,Alexandra Burke,guitar,-
+F,Lindsey Saunders,guitar,-
+M,ACMusic7,guitar,https://www.youtube.com/user/ACMusic7
+M,Joe Muscatello,guitar,-
+F,Amanda Law,guitar,-
+M,Fré Monti,guitar,-
+M,Will Gittens,guitar,-
+F,isabelle alexandra,guitar,-
+F,Cammie Lester,guitar,-
+M,Braeden Counts,guitar,-
+M,Fabio Righi,guitar,-
+M,KjGydell,guitar,-
+M,Jon Prucha,guitar,-
+F,LaurenBonnell24,guitar,-
+F,murasakimochi,guitar,-
+M,Alex Aiono,guitar,https://www.youtube.com/user/AlexAiono
+M,Jeremy Ornelas,guitar,-
+M,Travis Cormier,guitar,-
+F,Jennifer Hannah,guitar,-
+M,BaneSIlvermoon,guitar,-
+F,moderndaywarrior3,guitar,-
+F,Emily Davis,guitar,-
+M,Dennis Baumann,guitar,-
+M,JaysonGW,guitar,-
+M,Ray Lamontagne,guitar,-
+M,Mel Plant Music,guitar,-
+M,Craig,guitar,-
+M,ortoPilot,guitar,-
+M,Rick Farmer,guitar,-
+M,VintageJamesT,guitar,-
+F,Florence Pardoe,guitar,-
+M,Janick Thibault,guitar,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+M,220volt74,guitar,https://www.youtube.com/user/220volt74
+M,Patrick Carroll,guitar,-
+M,Luke Duffett,guitar,-
+F,Jenn Fiorentino,guitar,-
+M,Henry Capelossi,guitar,-
+M,Danny McEvoy,guitar,-
+M,Jamé Forbes,guitar,https://www.youtube.com/channel/UCDqnR1rC-FQ6sKq5QxVyMfA
+F,Val Maugenest,guitar,-
+F,Iman,guitar,-
+F,Phebe Edwards,guitar,-
+F,Magdalena Wolk,guitar,-
+F,ELIZA,guitar,-
+F,Sophia Alexa,guitar,https://www.youtube.com/channel/UCasVZcSPRBQPt7R_XORnkwg
+M,Mullally,guitar,-
+F,Rothwell,guitar,-
+F,Lauren Thalia,guitar,-
+F,Phoebe Katis,guitar,-
+F,Clara Bond,guitar,-
+F,Mila Falls,guitar,-
+M,Tom Bem,guitar,-
+F,Kristie Killick,guitar,-
+F,Stephanie Rainey,guitar,-
+F,Philippa June,guitar,-
+F,Ebony Day,guitar,-
+M,Etham,guitar,-
+F,Ebony Day,guitar,-
+F,Sophia Alexa,guitar,https://www.youtube.com/channel/UCasVZcSPRBQPt7R_XORnkwg
+F,Linah Is,guitar,-
+M,Jasper Storey,guitar,-
+F,Lisa Wright,guitar,-
+F,De La Rose,guitar,-
+M,Conor Coughlan,guitar,-
+M,Matt Wills,guitar,-
+M,Richard De Soussa,guitar,-
+F,Letisha Gordon,guitar,-
+M,Brodie Kelly,guitar,-
+F,Storm,guitar,-
+M,Harry Pane,guitar,-
+M,Ady Suleiman,guitar,https://www.youtube.com/user/AdySuleimanVEVO
+F,Scarlet Baxter,guitar,-
+M,KYKO,guitar,-
+M,Project Alfie,guitar,-
+M,Shaun Colwill,guitar,-
+M,Mark Asari,guitar,-
+M,Sam Brett,guitar,-
+M,Elliott Pritchard,guitar,-
+M,Boyce Avenue,guitar,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+M,Boyce Avenue,guitar,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+M,Boyce Avenue,guitar,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+F,Sofia,guitar,https://www.youtube.com/channel/UCfjnEW3mVXfW0Wb602r1IrQ
+F,Daniela Andrade,guitar,https://www.youtube.com/channel/UC2vPHIqjFdpPVMa2PGwJuYg
+F,Daniela Andrade,guitar,https://www.youtube.com/channel/UC2vPHIqjFdpPVMa2PGwJuYg
+F,Daniela Andrade,guitar,https://www.youtube.com/channel/UC2vPHIqjFdpPVMa2PGwJuYg
+F,Mackenzie Johnson,guitar,https://www.youtube.com/channel/UC4r0mPU6KZLgAwXDEjqQv_g
+F,Mackenzie Johnson,guitar,https://www.youtube.com/channel/UC4r0mPU6KZLgAwXDEjqQv_g
+F,Mackenzie Johnson,guitar,https://www.youtube.com/channel/UC4r0mPU6KZLgAwXDEjqQv_g
+F,Jess Greenberg,guitar,https://www.youtube.com/channel/UC7gHHtlv-Oyll1jbsJh8qJA
+F,Jess Greenberg,guitar,https://www.youtube.com/channel/UC7gHHtlv-Oyll1jbsJh8qJA
+F,Jess Greenberg,guitar,https://www.youtube.com/channel/UC7gHHtlv-Oyll1jbsJh8qJA
+M,Mike Massé,guitar,https://www.youtube.com/channel/UCEVZNpzM9oDegvplv5Z36Sw
+M,Mike Massé,guitar,https://www.youtube.com/channel/UCEVZNpzM9oDegvplv5Z36Sw
+M,Gustavo Trebien,guitar,https://www.youtube.com/channel/UCwE5BXvQEmF14oqTzzYigLA
+M,Gustavo Trebien,guitar,https://www.youtube.com/channel/UCwE5BXvQEmF14oqTzzYigLA
+M,Gustavo Trebien,guitar,https://www.youtube.com/channel/UCwE5BXvQEmF14oqTzzYigLA
+F,Tristan Prettyman,guitar,-
+F,Rebecca Shearing,guitar,https://www.youtube.com/channel/UCVJiwN_aOgQ75RBg91ANjqQ
+F,Rebecca Shearing,guitar,https://www.youtube.com/channel/UCVJiwN_aOgQ75RBg91ANjqQ
+M,Brian Mikula,guitar,https://www.youtube.com/channel/UCfM4QHJnyKLvQLED5aGNSvw
+M,Brian Mikula,guitar,https://www.youtube.com/channel/UCfM4QHJnyKLvQLED5aGNSvw
+M,Brian Mikula,guitar,https://www.youtube.com/channel/UCfM4QHJnyKLvQLED5aGNSvw
+M,Alex Hamel,guitar,https://www.youtube.com/channel/UCF8KPEcWk1GDc86nRKw38Ow
+M,Alex Hamel,guitar,https://www.youtube.com/channel/UCF8KPEcWk1GDc86nRKw38Ow
+M,Alex Hamel,guitar,https://www.youtube.com/channel/UCF8KPEcWk1GDc86nRKw38Ow
+M,Alex Hamel,guitar,https://www.youtube.com/channel/UCF8KPEcWk1GDc86nRKw38Ow
+M,Alan Robinson,guitar,https://www.youtube.com/channel/UCEGsUxJtGEJhDfKSwYDNaXw
+M,Alan Robinson,guitar,https://www.youtube.com/channel/UCEGsUxJtGEJhDfKSwYDNaXw
+M,Alan Robinson,guitar,https://www.youtube.com/channel/UCEGsUxJtGEJhDfKSwYDNaXw
+M,Mike Peralta,guitar,https://www.youtube.com/channel/UCIfnWOeWsRHpZsjBGnz8_Hw
+M,Mike Peralta,guitar,https://www.youtube.com/channel/UCIfnWOeWsRHpZsjBGnz8_Hw
+M,Mike Peralta,guitar,https://www.youtube.com/channel/UCIfnWOeWsRHpZsjBGnz8_Hw
+M,Awake! Awake!,guitar,https://www.youtube.com/channel/UCxtjoXZ03mKLUnW7eaKAqKA
+M,Awake! Awake!,guitar,https://www.youtube.com/channel/UCxtjoXZ03mKLUnW7eaKAqKA
+M,Janick Thibault,guitar,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+M,Janick Thibault,guitar,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+M,Janick Thibault,guitar,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+M,Janick Thibault,guitar,https://www.youtube.com/channel/UClG1kIGreMCa_KR9Zhgb7yA
+F,EMG Acoustics Cover,guitar,https://www.youtube.com/channel/UCSax4jQjNjIRjXbUtbUantw
+F,EMG Acoustics Cover,guitar,https://www.youtube.com/channel/UCSax4jQjNjIRjXbUtbUantw
+F,EMG Acoustics Cover,guitar,https://www.youtube.com/channel/UCSax4jQjNjIRjXbUtbUantw
+F,EMG Acoustics Cover,guitar,https://www.youtube.com/channel/UCSax4jQjNjIRjXbUtbUantw
+M,Andrew Garcia,guitar,https://www.youtube.com/channel/UC6issK8yf-L-sW-SZgU8vOA
+M,Andrew Garcia,guitar,https://www.youtube.com/channel/UC6issK8yf-L-sW-SZgU8vOA
+F,Lovelle,guitar,-
+F,Ayelle,guitar,-
+F,Sylvia Mwenze,guitar,-
+F,Flynn,guitar,-
+F,Lilly Ahlberg,guitar,-
+F,Lianne Kaye,guitar,-
+F,Jess Thristan,guitar,-
+F,Rukhsana Merrise,guitar,-
+F,Delaire,guitar,-
+M,Fraser Churchill,guitar,-
+F,Kyra,guitar,-
+F,Effie,guitar,-
+F,Katie Nicholas,guitar,-
+M,Jamie Grey,guitar,-
+M,Chromatone,guitar,-
+F,Violet Skies,guitar,-
+M,Etham Basden,guitar,-
+M,Alex Francis,guitar,-
+F,Amber Whitworth,guitar,-
+F,Beth Sherburn,guitar,-
+F,Kina Grannis,guitar,-
+F,Eliza Shaddad,guitar,-
+F,Miss Sha,guitar,-
+F,Laura Zocca,guitar,-
+F,Sasha Keable,guitar,-
+M,James Robb,guitar,https://www.youtube.com/user/jamja3
+M,Andreas Moe,guitar,-
+F,Shannon Saunders,guitar,https://www.youtube.com/user/Shannooonx
+M,JC Villafan,guitar,-
+M,Charlie Brown,guitar,-
+F,Kyra,guitar,-
+M,JP Cooper,guitar,-
+M,Jamie Grey,guitar,-
+M,Jake Isaac,guitar,-
+M,Zach London,guitar,-
+F,Shannon Saunders,guitar,https://www.youtube.com/user/Shannooonx
+M,Jacob Banks,guitar,-
+M,Rufio Summers,guitar,-
+M,James Craise,guitar,-
+M,Jackie D Williams,guitar,https://www.youtube.com/user/jackiedwilliams
+F,Olivia Leisk,guitar,-
+F,Ebony Day,guitar,-
+F,Lucy Kilner,guitar,-
+F,Lianne Kaye,guitar,-
+M,Zack Knight,guitar,-
+M,Luke Towler,guitar,-
+M,Eskimos,guitar,-
+M,Yo Preston,guitar,-
+M,Boyce Avenue,piano,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+M,Boyce Avenue,piano,https://www.youtube.com/channel/UCgc00bfF_PvO_2AvqJZHXFg
+F,Sofia,piano,https://www.youtube.com/channel/UCfjnEW3mVXfW0Wb602r1IrQ
+F,Beth,piano,https://www.youtube.com/channel/UCfYReF1e8lI85qH8FndkqBw
+F,Beth,piano,https://www.youtube.com/channel/UCfYReF1e8lI85qH8FndkqBw
+M,Mike Massé,piano,https://www.youtube.com/channel/UCEVZNpzM9oDegvplv5Z36Sw
+F,Rebecca Shearing,piano,https://www.youtube.com/channel/UCVJiwN_aOgQ75RBg91ANjqQ
+F,Rebecca Shearing,piano,https://www.youtube.com/channel/UCVJiwN_aOgQ75RBg91ANjqQ
+F,Emi McDade,piano,-
+F,Abi Alton,piano,https://www.youtube.com/channel/UCzYCy4ByCl-3GXUqtBJj2eA
+F,Sally Caitlin,piano,-
+F,Rebecca James,piano,-
+M,Jamie,piano,-
+F,Hope,piano,-
+M,Quigley,piano,-
+M,James Robb,piano,https://www.youtube.com/user/jamja3
+F,Pharella,piano,-
+F,Abi Alton,piano,https://www.youtube.com/channel/UCzYCy4ByCl-3GXUqtBJj2eA
+M,Tom Prior,piano,-
+F,Lauren Faith,piano,-
+M,Benedict,piano,-
+F,MALLiE,piano,-
+M,Jackie D Williams,piano,https://www.youtube.com/user/jackiedwilliams
+M,Sid Batham,piano,-
+M,Jody Brock,piano,-
+F,Raphaella,piano,-
+F,Erika David,piano,-
+F,Sarah Close,piano,-
+F,Raphaella,piano,-
+F,Kelli-Leigh,piano,-
+M,MexiRass,piano,https://www.youtube.com/channel/UCrXSVOxl1xot5nJwiAhUNKQ
+F,Carrie Haber,piano,-
+M,Jacob Wellfair,piano,-
+M,Martin Luke Brown,piano,-
+M,Ollie Sloan,piano,-
+F,Lauren Aquilina,piano,-
+M,Ben Schuller,piano,-
+F,Ellysa Rose,piano,https://www.youtube.com/channel/UCl1_SyiLIx7f4TBTwW9aDfg
+M,Sean Rumsey,piano,https://www.youtube.com/channel/UCDZwNdT9yq9ClSDqVoBJxrA
+F,Kina Grannis,guitar,https://www.youtube.com/channel/UCMJOksbUeFSWjzw4AFI3tig

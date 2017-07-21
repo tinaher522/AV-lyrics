@@ -1,0 +1,7 @@
+<song artist="Neil_Diamond" title="Happy_Birthday_To_You">
+Happy Birthday to you
+Happy Birthday to you
+Happy Birthday
+Happy Birthday
+Happy Birthday to you.
+</song>

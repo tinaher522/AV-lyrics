@@ -1,0 +1,5 @@
+<song artist="Red_Hot_Chili_Peppers" title="Freaky_Styley">
+Say it loud
+I'm freaky styley
+And I'm proud! [repeat many times]
+</song>

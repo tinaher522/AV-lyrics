@@ -1,0 +1,230 @@
+[
+    {
+        "end": 26.79001994132996, 
+        "index": 1, 
+        "lyric": "One Friday night I took a pill or maybe two\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 20.343615913391112, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 32.04263482093811, 
+        "index": 2, 
+        "lyric": "Down at the car park I saw everyone I knew\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 26.774768829345703, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 38.22710785865784, 
+        "index": 3, 
+        "lyric": "And before the night was started we had planned to crash a party\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 31.99725284576416, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 41.28832697868347, 
+        "index": 4, 
+        "lyric": "Just a place that someone knew\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 38.186475896835326, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 48.77068681716919, 
+        "index": 5, 
+        "lyric": "A local house belonging to a gangster's crew\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 40.91601681709289, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 57.965484905242924, 
+        "index": 6, 
+        "lyric": "And at the door they shone a light into my face\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 51.14229383468628, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 63.45324392318726, 
+        "index": 7, 
+        "lyric": "Have to admit I felt a little out of place\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 57.77600994110107, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 69.57508797645568, 
+        "index": 8, 
+        "lyric": "But I made my way inside past a thousand crazy eyes\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 63.248914861679076, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 75.6593090057373, 
+        "index": 9, 
+        "lyric": "Then a friend took me aside said everyone here has a knife\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 69.53441095352173, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 80.81109089851378, 
+        "index": 10, 
+        "lyric": "I've seen it all, I've seen it all now\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 75.317652797699, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 85.52143197059632, 
+        "index": 11, 
+        "lyric": "I swear to God I've seen it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 81.59345593452457, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 92.09607892036436, 
+        "index": 12, 
+        "lyric": "Nothing shocks me any more after tonight\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 85.09410796165471, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 102.08253488540649, 
+        "index": 13, 
+        "lyric": "Those little doves had sent my mind and heart a-beating\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 95.67762293815613, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 107.5145278930664, 
+        "index": 14, 
+        "lyric": "To say I felt weird really doesn't need repeating\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 102.13132882118225, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 113.186149836, 
+        "index": 15, 
+        "lyric": "I could sense the mounting tension, the atmosphere of violence\n", 
+        "repeat": 0, 
+        "start": 107.526125908, 
+        "transcription": "I could sense the mounting tension, the atmosphere of violence\n", 
+        "wavfile": "M040_040_01_0101", 
+        "wrong": true
+    }, 
+    {
+        "end": 116.56185979800001, 
+        "index": 16, 
+        "lyric": "And then they took a guy out side\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 113.528985977, 
+        "transcription": "then a friend took me aside", 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 119.61222381599998, 
+        "index": 17, 
+        "lyric": "And someone stabbed him with a knife\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 116.383695889, 
+        "transcription": "said everyone here has a knife", 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 125.38443994522095, 
+        "index": 18, 
+        "lyric": "I've seen it all, I've seen it all now\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 119.43968596458436, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 129.3259548187256, 
+        "index": 19, 
+        "lyric": "I swear to God I've seen it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 125.50090289115906, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 136.455961894989, 
+        "index": 20, 
+        "lyric": "Nothing shocks me any more after tonight\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 128.92687597274784, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 150.5213449954986, 
+        "index": 21, 
+        "lyric": "I've seen it all, I've seen it all now\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 143.95940580368, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 154.04198384284973, 
+        "index": 22, 
+        "lyric": "I swear to God I've seen it all\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 150.19532794952394, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 160.49552578926085, 
+        "index": 23, 
+        "lyric": "Nothing shocks me any more after tonight\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 153.78011188507082, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 163.21415395736693, 
+        "index": 24, 
+        "lyric": "I've seen the light\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 160.14446082115177, 
+        "wavfile": "M040_040_01_0101"
+    }, 
+    {
+        "end": 173.5232388973236, 
+        "index": 25, 
+        "lyric": "But not the kind I would've liked\n", 
+        "repeat": 0, 
+        "selected": true, 
+        "start": 164.12400498390198, 
+        "wavfile": "M040_040_01_0101"
+    }
+]

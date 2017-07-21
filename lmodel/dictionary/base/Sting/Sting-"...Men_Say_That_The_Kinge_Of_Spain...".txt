@@ -1,0 +1,4 @@
+<song artist="Sting" title=""...Men_Say_That_The_Kinge_Of_Spain..."">
+spoken:
+...men say that the king of Spain is making great preparation to come for England this next summer, where if it pleased your honor to advise me I would most willingly lose my life against them, most humbly beseeching your honor to pardon my ill writing...and to think that I desire to serve my country, and hope to hear of your good opinion of me. From Nuremberg, this tenth of November 1595. Your honor's most bounden forever, John Dowland
+</song>

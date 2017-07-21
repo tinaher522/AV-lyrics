@@ -1,0 +1,17 @@
+<song artist="Paul_McCartney" title="Sgt._Pepper's_Lonely_Hearts_Club_Band-The_End">
+(1,2,3,4)
+We're Seargent Pepper's Lonely Hearts Club Band,
+We hope that you've enjoyed the show!
+We're Seargent Pepper's Lonely Hearts Club Band,
+We're sorry but it's time to go!
+Seargent Pepper's Lonely, Seargent Pepper's Lonely, Seargent Pepper's Lonely, Seargent Pepper's Lonely...
+We're Seargent Pepper's Lonely Hearts Club Band,
+We'd like to thank you once again!
+We're Seargent Pepper's One and Only Lonely Hearts Club Band,
+It's getting very near the end!
+Seargent Pepper's Lonely, Seargent Pepper's Loenly, Seargent Pepper's Lonely Hearts Club Band.
+Oh yeah! All Right!
+Are you're gonna be in my dreams tonight?
+Love you, love you, love you, love you, love you, love you, love you, love you, love you, love you, love you, love you, love you, love you.
+And in the end: The love you take, is equal to the love you make!
+</song>

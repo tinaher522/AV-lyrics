@@ -1,0 +1,26 @@
+<song artist="Leonard_Cohen" title="The_Lost_Canadian">
+Un Canadien Errant
+Banni de ses foyers,
+Parcourait en pleurant
+Des pays étrangers.
+Parcourait en pleurant
+Des pays étrangers.
+Un jour, triste et pensif,
+Assis au bord des flots,
+Au courant fugitif
+Il adressa ces mots:
+Au courant fugitif
+Il adressa ces mots:
+"Si tu vois mon pays,
+Mon pays malheureux,
+Va dire a mes amis
+Que je me souviens d'eux.
+Va dire à mes amis
+Que je me souviens d'eux.
+O jours si pleins d'appas,
+Vous êtes disparus...
+Et ma patrie, helas!
+Je ne la verrai plus.
+Et ma patrie, helas!
+Je ne la verrai plus.
+</song>

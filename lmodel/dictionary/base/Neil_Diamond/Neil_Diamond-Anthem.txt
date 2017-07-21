@@ -1,0 +1,19 @@
+<song artist="Neil_Diamond" title="Anthem">
+Written by: Neil Diamond
+Sanctus
+Kyrie
+Sanctus
+Kyrie
+Kyrie Gloria
+Gloria Holy
+Holy Holy
+Gloria
+Sanctus
+Kyrie
+Sanctus
+Kyrie
+Kyrie Gloria
+Gloria Holy
+Holy Holy
+Gloria
+</song>
