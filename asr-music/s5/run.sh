@@ -78,19 +78,19 @@ echo
 
 for x in exp/*/decode*; do [ -d $x ] && grep WER $x/wer_* | utils/best_wer.sh; done
 
-echo
-echo "===== RUN DNN ====="
-echo
+#echo
+#echo "===== RUN DNN ====="
+#echo
 
-local/run_dnn.sh  $stage=$stage  $nj $mail $email
+#local/run_dnn.sh  $stage=$stage  $nj $mail $email
 
 #score
 
-echo
-echo "===== SCORES ====="
-echo
+#echo
+#echo "===== SCORES ====="
+#echo
 
-for x in exp/*/decode*; do [ -d $x ] && grep WER $x/wer_* | utils/best_wer.sh; done
+#for x in exp/*/decode*; do [ -d $x ] && grep WER $x/wer_* | utils/best_wer.sh; done
 
 echo
 echo "===== $filename script is finished ====="
