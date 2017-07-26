@@ -8,15 +8,15 @@
 # the number of cpus on your machine.
 
 # Run locally:
-export long_cmd="run.pl"
-export train_cmd="run.pl"
-export decode_cmd="run.pl"
-export cuda_cmd="run.pl"
-export long_cuda_cmd="run.pl"
-export parallel_opts=""
-export jq_cmd="jq"
+#export long_cmd="run.pl"
+#export train_cmd="run.pl"
+#export decode_cmd="run.pl"
+#export cuda_cmd="run.pl"
+#export long_cuda_cmd="run.pl"
+#export parallel_opts=""
+#export jq_cmd="jq"
 
-fullhost=`hostname -f`
+#fullhost=`hostname -f`
 
 # If on the Iceberg cluster...
 if [[ ${fullhost} == *"iceberg.shef.ac.uk" ]]; then
