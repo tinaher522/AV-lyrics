@@ -2,13 +2,13 @@ fullhost=`hostname -f`
 
 # If on the Iceberg cluster...
 if [[ ${fullhost} == *"iceberg.shef.ac.uk" ]]; then
-	export KALDI_ROOT="/data/acp15gr/kaldi" 
-	export DATA_ROOT="/data/acp15gr/wav/"
-	export LYRICS_ROOT="/home/acp15gr/lyrics"
+	export KALDI_ROOT="/home/acu16xh/kaldi-git" 
+	export DATA_ROOT="/data/acu16xh/wav/"
+	export LYRICS_ROOT="/home/acu16xh/av-lyrics"
 else
 	export KALDI_ROOT=`pwd`/../../..
-	export DATA_ROOT="/home/gerardo/ARS-Music/wav/"
-	export LYRICS_ROOT="/home/gerardo/ARS-Music/lyrics"
+	export DATA_ROOT="/home/acu16xh/ARS-Music/wav/"
+	export LYRICS_ROOT="/home/acu16xh/ARS-Music/lyrics"
 fi
 
 [ -f $KALDI_ROOT/tools/env.sh ] && . $KALDI_ROOT/tools/env.sh
