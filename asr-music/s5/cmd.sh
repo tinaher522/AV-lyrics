@@ -16,7 +16,7 @@
 #export parallel_opts=""
 #export jq_cmd="jq"
 
-#fullhost=`hostname -f`
+fullhost=`hostname -f`
 
 # If on the Iceberg cluster...
 if [[ ${fullhost} == *"iceberg.shef.ac.uk" ]]; then
