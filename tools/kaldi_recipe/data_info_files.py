@@ -58,7 +58,8 @@ def read_file(source_file):
     with open(source_file) as f:
        for line in f:
            if line[0] != '#':
-               source_list.append(line.replace("\n",""))
+               source_list.append(line.replace('\n',''))
+               
     return source_list
     
 
@@ -90,8 +91,10 @@ def read_text(path, speaker, mod):
     return text
 
 
-def speaker_data(chunks_files, chunk_list):
-    spk = set()
+#def speaker_data(chunks_files, chunk_list):
+def speaker_data(chunks_files, train_chunk, test_chunk):
+    spk_train = set()
+    spk_test = set()
 
     for cf in range(len(chunks_files)):
         with open(chunks_files[cf]) as csvfile:
@@ -100,11 +103,13 @@ def speaker_data(chunks_files, chunk_list):
                 cartist = row['id'][:4]+ "_" + row['id'][9:11]
                 row_chunk = row['chunk'][3:]
                 
-                if row_chunk in chunk_list:
-                    spk.add(cartist)
+                if row_chunk in train_chunk:
+                    spk_train.add(cartist)
+                elif row_chunk in test_chunk:
+                    spk_test.add(cartist)
 
                     
-    return spk
+    return spk_train , spk_test
 
 
 def gen_text_files(mod, path_to_annotation, path_to_recipe, speaker):
@@ -161,8 +166,8 @@ def main():
     text_train = gen_text_files(mod, path_to_annotation, path_to_recipe, spk_train)
     text_test  = gen_text_files(mod, path_to_annotation, path_to_recipe, spk_test)
 
-    wav_scp_train, utt2spk_train = gen_wavscp_utt2spk_files(mod, text_train)
-    wav_scp_test, utt2spk_test = gen_wavscp_utt2spk_files(mod, text_test)     
+    wav_scp_train, utt2spk_train = gen_wavscp_utt2spk_files(text_train)
+    wav_scp_test, utt2spk_test = gen_wavscp_utt2spk_files(text_test)     
     
     spk2gender_train = gen_spk2gen(spk_train)
     spk2gender_test = gen_spk2gen(spk_test)

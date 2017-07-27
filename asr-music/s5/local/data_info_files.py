@@ -39,7 +39,7 @@ def check_utterance_with_vocabulary(path_to_recipe, text):
     newlines = []
 
     for line in text:
-        line2 = line[30:]
+        line2 = line[24:]
         line2=line2.replace('-', " ").replace(".", " ")
         delete = 0 
         for word in line2.split():
@@ -58,16 +58,13 @@ def read_file(source_file):
     with open(source_file) as f:
        for line in f:
            if line[0] != '#':
-               source_list.append(line.replace("\n",""))
+               source_list.append(line.replace('\n',''))
+               
     return source_list
     
 
 def read_text(path, speaker, mod):
     text = []
-    spk = list(speaker)
-    speaker = set()
-    for s in spk:
-        speaker.add(s[:7])
     for root, dirs, files in os.walk(path, topdown=True):
         for fil in files:
             if fil[:4]+ "_" + fil[9:11] in speaker:
@@ -75,36 +72,29 @@ def read_text(path, speaker, mod):
                     with open(root + '/' + fil) as f:
                         for index, line in enumerate(f):
                             line = line.replace(',', ' ').replace('"', '').replace('-',' ').strip()
-                            spk = line[:4]+ "_" + line[9:11] + "_" + line[12:14]
-                            line = spk + line[4:]
                             text.append(line.upper())
                 elif mod == 'P' and fil[12:16] in ('0201', '0301'):
                     with open(root + '/' + fil) as f:
                         for index, line in enumerate(f):
                             line = line.replace(',', ' ').replace('"', '').replace('-',' ').strip()
-                            spk = line[:4] + "_" + line[9:11] + "_" + line[12:14]
-                            line = spk + line[4:]
                             text.append(line.upper())
                 elif mod == 'T' and fil[12:16] in ('0102', '0103'):
                     with open(root + '/' + fil) as f:
                         for index, line in enumerate(f):
                             line = line.replace(',', ' ').replace('"', '').replace('-',' ').strip()
-                            spk = line[:4] + "_" + line[9:11] + "_" + line[12:14]
-                            line = spk + line[4:]
                             text.append(line.upper())
                 elif mod == 'C':
                     with open(root + '/' + fil) as f:
                         for index, line in enumerate(f):
                             line = line.replace(',', ' ').replace('"', '').replace('-',' ').strip()
-                            spk = line[:4] + "_" + line[9:11] + "_" + line[12:14]
-                            line = spk + line[4:]
                             text.append(line.upper())
-
     return text
 
 
-def speaker_data(spk, chunks_files, chunk_list, mod):
-    #spk = set()
+#def speaker_data(chunks_files, chunk_list):
+def speaker_data(chunks_files, train_chunk, test_chunk):
+    spk_train = set()
+    spk_test = set()
 
     for cf in range(len(chunks_files)):
         with open(chunks_files[cf]) as csvfile:
@@ -112,17 +102,14 @@ def speaker_data(spk, chunks_files, chunk_list, mod):
             for row in reader:
                 cartist = row['id'][:4]+ "_" + row['id'][9:11]
                 row_chunk = row['chunk'][3:]
-                if row_chunk in chunk_list:
-                    if mod == 'N':
-                        spk.add(cartist + "_" + '01')
-                    if mod == 'P':
-                        spk.add(cartist + "_" + '02')
-                        spk.add(cartist + "_" + '03')
-
-
+                
+                if row_chunk in train_chunk:
+                    spk_train.add(cartist)
+                elif row_chunk in test_chunk:
+                    spk_test.add(cartist)
 
                     
-    return spk
+    return spk_train , spk_test
 
 
 def gen_text_files(mod, path_to_annotation, path_to_recipe, speaker):
@@ -141,22 +128,17 @@ def gen_text_files(mod, path_to_annotation, path_to_recipe, speaker):
 def gen_wavscp_utt2spk_files(text):
     wav_scp = []
     utt2spk = []
-
+        
     for line in text:
-        if line[18:22] == '0101':
+        if line[12:16] == '0101':
             path_audio = "wav/wav_segments/"
         else:
             path_audio ="wav/wav_modifications/"
-
-        wav_scp.append(line[:29] \
-                       + " " + path_audio + line[0] + "/" + line[:4] + "/" + line.split()[0][:5]+line.split()[0][11:] + ".wav")
-        utt2spk.append(line[:29] \
-                       + " " + line[:10])
-        #wav_scp.append(line.split()[0] + " " + path_audio + \
-        #    line[0] + "/" + line[:4] + "/" + line.split()[0] + ".wav")
-        #utt2spk.append(line.split()[0] + " " + line[:4]+ "_" + line[9:11] + "_" + line[12:14])
-
-
+        
+        wav_scp.append(line.split()[0] + " " + path_audio + \
+            line[0] + "/" + line[:4] + "/" + line.split()[0] + ".wav")
+        utt2spk.append(line.split()[0] + " " + line[:4]+ "_" + line[9:11])
+    
     return wav_scp, utt2spk
     
 
@@ -179,13 +161,13 @@ def main():
     train_chunk = read_file(path_to_config_files+"train_chunk.txt")
     test_chunk = read_file(path_to_config_files+"test_chunk.txt")
     
-    spk_train, spk_test = speaker_data(chunks_files, train_chunk, test_chunk, mod)
+    spk_train, spk_test = speaker_data(chunks_files, train_chunk, test_chunk)
  
     text_train = gen_text_files(mod, path_to_annotation, path_to_recipe, spk_train)
     text_test  = gen_text_files(mod, path_to_annotation, path_to_recipe, spk_test)
 
-    wav_scp_train, utt2spk_train = gen_wavscp_utt2spk_files(mod, text_train)
-    wav_scp_test, utt2spk_test = gen_wavscp_utt2spk_files(mod, text_test)     
+    wav_scp_train, utt2spk_train = gen_wavscp_utt2spk_files(text_train)
+    wav_scp_test, utt2spk_test = gen_wavscp_utt2spk_files(text_test)     
     
     spk2gender_train = gen_spk2gen(spk_train)
     spk2gender_test = gen_spk2gen(spk_test)
