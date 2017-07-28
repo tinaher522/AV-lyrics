@@ -2,10 +2,10 @@
 
 . cmd.sh
 
-stage=$1
-nj=$2
-mail=$3
-email=$4
+stage=1
+nj=2
+mail=3
+email=4
 
 
 # check whether run_tri2b is executed

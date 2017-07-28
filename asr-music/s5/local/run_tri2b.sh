@@ -2,8 +2,8 @@
 
 . cmd.sh
 
-stage=$1
-nj=$2
+stage=1
+nj=2
 
 # check whether run_tri1 is executed
 if [ ! -d exp/tri1 ]; then

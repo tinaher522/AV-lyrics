@@ -29,7 +29,7 @@ stage=0
 
 # Run Cleanup
 mail=0      # run cleanup and send email (1 = true|0 = false)
-email="groadabike1@sheffield.ac.uk"  # if mail=1 the results will send to this email
+email="xhe15@sheffield.ac.uk"  # if mail=1 the results will send to this email
 
 filename=${PWD##*/}
 

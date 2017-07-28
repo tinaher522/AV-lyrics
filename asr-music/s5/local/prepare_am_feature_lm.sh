@@ -1,11 +1,11 @@
 #!/bin/bash
 
-. ./cmd.sh
+. cmd.sh
 
-stage=$1
-nj=$2
-lm_order=$3
-feature=$4
+stage=1
+nj=2
+lm_order=3
+feature=4
 
 fullhost=`hostname -f`
 

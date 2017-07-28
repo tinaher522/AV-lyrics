@@ -2,8 +2,8 @@
 
 . cmd.sh
 
-stage=$1
-nj=$2
+stage=1
+nj=2
 
 if [ $stage -le 1 ]; then
     echo
