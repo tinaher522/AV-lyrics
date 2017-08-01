@@ -12,8 +12,8 @@ if [ $stage -le 1 ]; then
     echo "===== MONO TRAINING ====="
     echo
 
-    steps/train_mono.sh --boost-silence 1.25 --nj $nj --cmd "$train_cmd" \
-     data/train data/lang exp/mono  || exit 1
+    /home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh --boost-silence 1.25 --nj $nj --cmd "$train_cmd" \
+     /home/acu16xh/av-lyrics/asr-music/s5/data/train data/lang exp/mono  || exit 1
 
     echo
     echo "===== MONO ALIGNMENT ====="

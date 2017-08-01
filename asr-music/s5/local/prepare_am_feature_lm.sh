@@ -2,13 +2,12 @@
 
 . cmd.sh
 
-stage=1
-nj=2
-lm_order=3
-feature=4
+stage=$1
+nj=$2
+lm_order=$3
+feature=$4
 
 fullhost=`hostname -f`
-
 if [ $stage -le 0 ]; then
 
     # Removing previously created data (from last run.sh execution)
