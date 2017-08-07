@@ -197,3 +197,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+#./data_info_files.py /home/acu16xh/av-lyrics/asr-music/s5/input/ /home/acu16xh/av-lyrics/asr-music/annotation /home/acu16xh/av-lyrics/asr-music/s5

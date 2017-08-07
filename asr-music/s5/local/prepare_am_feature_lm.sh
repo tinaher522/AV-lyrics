@@ -30,7 +30,8 @@ if [ $stage -le 0 ]; then
 	echo "Creating text..."
 	echo "Creating utt2spk..."
 
-    local/recipe_data_files.py input $LYRICS_ROOT/annotation .
+    local/recipe_data_files.py /home/acu16xh/av-lyrics/asr-music/s5/input/ /home/acu16xh/av-lyrics/asr-music/annotation /home/acu16xh/av-lyrics/asr-music/s5
+    #local/recipe_data_files.py input $LYRICS_ROOT/annotation .
     #local/create_corpus.py $lyrics/lmodel/lyrics_out.txt $lyrics/lmodel/lexicon.txt $lyrics/lmodel/corpus.txt
 
     echo
@@ -43,21 +44,21 @@ if [ $stage -le 0 ]; then
     for x in train test test_final test_piano; do
 
         # Making spk2utt files
-        utils/utt2spk_to_spk2utt.pl data/$x/utt2spk > data/$x/spk2utt
+        /home/acu16xh/av-lyrics/asr-music/s5/utils/utt2spk_to_spk2utt.pl /home/acu16xh/av-lyrics/asr-music/s5/data/$x/utt2spk > /home/acu16xh/av-lyrics/asr-music/s5/data/$x/spk2utt
 
-        utils/validate_data_dir.sh data/$x     # script for checking if prepared data is all right
-        utils/fix_data_dir.sh data/$x          # tool for data sorting if something goes wrong above
+        /home/acu16xh/av-lyrics/asr-music/s5/utils/validate_data_dir.sh /home/acu16xh/av-lyrics/asr-music/s5/data/$x     # script for checking if prepared data is all right
+        /home/acu16xh/av-lyrics/asr-music/s5/utils/fix_data_dir.sh /home/acu16xh/av-lyrics/asr-music/s5/data/$x          # tool for data sorting if something goes wrong above
 
         if [ ${feature} == "mfcc" ]; then
             mfccdir=mfcc
-            steps/make_mfcc.sh --nj $nj --cmd "$train_cmd" data/$x exp/make_mfcc/$x $mfccdir
+            /home/acu16xh/av-lyrics/asr-music/s5/steps/make_mfcc.sh --nj $nj --cmd "$train_cmd" /home/acu16xh/av-lyrics/asr-music/s5/data/$x /home/acu16xh/av-lyrics/asr-music/s5/exp/make_mfcc/$x $mfccdir
         elif [ ${feature} == "plp" ]; then
             mfccdir=plp
-            steps/make_plp.sh --nj $nj --cmd "$train_cmd" data/$x exp/make_mfcc/$x $mfccdir
+            /home/acu16xh/av-lyrics/asr-music/s5/steps/make_plp.sh --nj $nj --cmd "$train_cmd" /home/acu16xh/av-lyrics/asr-music/s5/data/$x /home/acu16xh/av-lyrics/asr-music/s5/exp/make_mfcc/$x $mfccdir
         fi
 
         # Making cmvn.scp files
-        steps/compute_cmvn_stats.sh data/$x exp/make_mfcc/$x $mfccdir
+        /home/acu16xh/av-lyrics/asr-music/s5/steps/compute_cmvn_stats.sh data/$x /home/acu16xh/av-lyrics/asr-music/s5/exp/make_mfcc/$x $mfccdir
     done
 
     echo
@@ -72,7 +73,7 @@ if [ $stage -le 0 ]; then
     # optional_silence.txt   [<phone>]
 
     # Preparing language data
-    utils/prepare_lang.sh data/local/dict "<UNK>" data/local/lang data/lang
+    /home/acu16xh/av-lyrics/asr-music/s5/utils/prepare_lang.sh /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict "<UNK>" /home/acu16xh/av-lyrics/asr-music/s5/data/local/lang /home/acu16xh/av-lyrics/asr-music/s5/data/lang
 
     echo
     echo "===== LANGUAGE MODEL CREATION ====="
