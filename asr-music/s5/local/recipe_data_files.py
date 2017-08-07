@@ -27,7 +27,7 @@ def recipe_data(path_to_config_files, path_to_annotation, path_to_recipe):
     reader = csv.DictReader(mod, fieldnames=['mod', 'activate'])
 
     spk_train = set()
-    spk_test = set ()
+    spk_test = set()
 
     for row in reader:
         mods[row['mod']] = int(row['activate'])
