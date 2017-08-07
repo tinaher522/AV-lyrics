@@ -1,6 +1,5 @@
 #!/bin/bash
-
-. cmd.sh
+. ./cmd.sh
 
 stage=$1
 nj=$2
@@ -30,7 +29,7 @@ if [ $stage -le 0 ]; then
 	echo "Creating text..."
 	echo "Creating utt2spk..."
 
-    local/recipe_data_files.py input $LYRICS_ROOT/annotation .
+    /home/acu16xh/av-lyrics/asr-music/s5/local/recipe_data_files.py input $LYRICS_ROOT/annotation .
     #local/create_corpus.py $lyrics/lmodel/lyrics_out.txt $lyrics/lmodel/lexicon.txt $lyrics/lmodel/corpus.txt
 
     echo
