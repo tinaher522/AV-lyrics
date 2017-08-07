@@ -1,6 +1,5 @@
 #!/bin/bash
-
-. cmd.sh
+. ./cmd.sh
 
 stage=$1
 nj=$2
@@ -29,9 +28,21 @@ if [ $stage -le 0 ]; then
 	echo "Creating wav.scp..."
 	echo "Creating text..."
 	echo "Creating utt2spk..."
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+    /home/acu16xh/av-lyrics/asr-music/s5/local/recipe_data_files.py input $LYRICS_ROOT/annotation .
+=======
+=======
+    
+>>>>>>> 9231cc7bf7aaac719b49f1a8992e9225e4fc44c1
+>>>>>>> 12a3aa31199c9034243a00d3194c37bc8b238cd3
     local/recipe_data_files.py /home/acu16xh/av-lyrics/asr-music/s5/input/ /home/acu16xh/av-lyrics/asr-music/annotation /home/acu16xh/av-lyrics/asr-music/s5
     #local/recipe_data_files.py input $LYRICS_ROOT/annotation .
+>>>>>>> 3c8083ed69a0c028dd999e485a8b0043f9c816e8
     #local/create_corpus.py $lyrics/lmodel/lyrics_out.txt $lyrics/lmodel/lexicon.txt $lyrics/lmodel/corpus.txt
 
     echo
