@@ -92,7 +92,7 @@ def read_text(path, speaker, mod):
 
 
 #def speaker_data(chunks_files, chunk_list):
-def speaker_data(chunks_files, train_chunk, test_chunk):
+def speaker_data(chunks_files, train_chunk, test_chunk, mod):
     spk_train = set()
     spk_test = set()
 
@@ -161,7 +161,7 @@ def main():
     train_chunk = read_file(path_to_config_files+"train_chunk.txt")
     test_chunk = read_file(path_to_config_files+"test_chunk.txt")
     
-    spk_train, spk_test = speaker_data(chunks_files, train_chunk, test_chunk)
+    spk_train, spk_test = speaker_data(chunks_files, train_chunk, test_chunk, mod)
  
     text_train = gen_text_files(mod, path_to_annotation, path_to_recipe, spk_train)
     text_test  = gen_text_files(mod, path_to_annotation, path_to_recipe, spk_test)

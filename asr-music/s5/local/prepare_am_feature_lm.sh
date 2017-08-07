@@ -29,10 +29,24 @@ if [ $stage -le 0 ]; then
 	echo "Creating text..."
 	echo "Creating utt2spk..."
 
+<<<<<<< HEAD
    #/home/acu16xh/av-lyrics/asr-music/s5/local/recipe_data_files.py input $LYRICS_ROOT/annotation .
     
 
    /home/acu16xh/av-lyrics/asr-music/s5/local/recipe_data_files.py /home/acu16xh/av-lyrics/asr-music/s5/input/ /home/acu16xh/av-lyrics/asr-music/annotation /home/acu16xh/av-lyrics/asr-music/s5
+=======
+=======
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+    /home/acu16xh/av-lyrics/asr-music/s5/local/recipe_data_files.py input $LYRICS_ROOT/annotation .
+=======
+=======
+    
+>>>>>>> 9231cc7bf7aaac719b49f1a8992e9225e4fc44c1
+>>>>>>> 12a3aa31199c9034243a00d3194c37bc8b238cd3
+    local/recipe_data_files.py /home/acu16xh/av-lyrics/asr-music/s5/input/ /home/acu16xh/av-lyrics/asr-music/annotation /home/acu16xh/av-lyrics/asr-music/s5
+>>>>>>> 87538377585e262649880d9ccc4ad2d9f13dcac1
     #local/recipe_data_files.py input $LYRICS_ROOT/annotation .
 
     #local/create_corpus.py $lyrics/lmodel/lyrics_out.txt $lyrics/lmodel/lexicon.txt $lyrics/lmodel/corpus.txt
