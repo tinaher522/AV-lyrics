@@ -143,10 +143,10 @@ def gen_wavscp_utt2spk_files(text):
     
 
 def gen_spk2gen(speaker):
-    spk2gender = []
+    spk2gender1 = []
     for spk in speaker:
-        spk2gender.append(spk + " " + spk[0].lower())
     
+        spk2gender = sorted(spk2gender1.append(spk + " " + spk[0].lower()))
     return spk2gender
     
 def main():
