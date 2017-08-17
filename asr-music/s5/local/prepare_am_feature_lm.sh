@@ -48,7 +48,6 @@ if [ $stage -le 0 ]; then
 
         # Making spk2utt files
         /home/acu16xh/av-lyrics/asr-music/s5/utils/utt2spk_to_spk2utt.pl /home/acu16xh/av-lyrics/asr-music/s5/data/$x/utt2spk > /home/acu16xh/av-lyrics/asr-music/s5/data/$x/spk2utt
-
         /home/acu16xh/av-lyrics/asr-music/s5/utils/validate_data_dir.sh /home/acu16xh/av-lyrics/asr-music/s5/data/$x     # script for checking if prepared data is all right
         /home/acu16xh/av-lyrics/asr-music/s5/utils/fix_data_dir.sh /home/acu16xh/av-lyrics/asr-music/s5/data/$x          # tool for data sorting if something goes wrong above
 
