@@ -12,7 +12,6 @@
 \usetikzlibrary{arrows,backgrounds}
 \RequirePackage[T1]{fontenc}
 \RequirePackage{lmodern}
-\usepackage{exscale}
 \RequirePackage{textcomp}
 \RequirePackage{amsmath,amssymb}
 \usefonttheme{professionalfonts}
@@ -144,7 +143,7 @@
 \setbeamercolor{palette secondary} {fg=black,bg=white}
 \setbeamercolor{palette tertiary}  {bg=jblue,fg=white}
 \setbeamercolor{palette quaternary}{fg=black,bg=white}
-\setbeamercolor{structure}			{fg=jblue}
+\setbeamercolor{structure}{fg=jblue}
 \setbeamercolor{titlelike}         {bg=jblue,fg=white}
 \setbeamercolor{frametitle}        {bg=jblue!10,fg=jblue}
 \setbeamercolor{cboxb}{fg=black,bg=jblue}
@@ -155,7 +154,7 @@
 \setbeamercolor{item projected}{fg=white,bg=ngreen}
 
 % set colors for blocks
-\setbeamercolor{block title}{fg=jblue,bg=white}
+\setbeamercolor{block title}{fg=ngreen,bg=white}
 \setbeamercolor{block body}{fg=black,bg=white}
 
 % set colors for alerted blocks (blocks with frame)
@@ -196,22 +195,14 @@
 \setbeamertemplate{headline}{
  \leavevmode
   \begin{columns}
-      \begin{column}{0.25\linewidth}
-          \centering
-          \inserttitlegraphic
-      \end{column}
-   \begin{column}{0.5\linewidth}
+   \begin{column}{\linewidth}
     \vskip1cm
     \centering
-    \usebeamercolor{title in headline}{\color{fg}\Huge{\textbf{\inserttitle}}\\[1ex]}
+    \usebeamercolor{title in headline}{\color{jblue}\Huge{\textbf{\inserttitle}}\\[0.5ex]}
     \usebeamercolor{author in headline}{\color{fg}\Large{\insertauthor}\\[1ex]}
     \usebeamercolor{institute in headline}{\color{fg}\large{\insertinstitute}\\[1ex]}
     \vskip1cm
    \end{column}
-   \begin{column}{0.25\linewidth}
-       \centering
-       \graphic{\includegraphics[width=0.55\onecolwid]{images/guitar.jpg}}
-    \end{column}
    \vspace{1cm}
   \end{columns}
  \vspace{0.5in}

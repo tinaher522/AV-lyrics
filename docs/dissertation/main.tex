@@ -1,92 +1,80 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%
-% MSc Project Background Report  
-% Gerardo Roa Dabike
+% MSc Project 
 % University of Sheffield
-% 05th Mar 2016
+% September 2017
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% This version uses the TUOS Blake font
-%https://www.sheffield.ac.uk/marketing/help-yourself/visual-identity/downloads/fonts/download-stephenson-blake
 
-% Compile with XeLaTeX or LuaLaTeX
-
-% Declare document
 \documentclass[11pt,oneside]{book}
-
-% Change all margin to 1 inch
-\usepackage[margin=1in]{geometry}
-
-\usepackage{setspace,fontspec}
-
-% Use apendix
+\usepackage[margin=1.2in]{geometry}
+\usepackage{setspace}
 \usepackage[toc,page]{appendix}
-
-% Use multicolumns and multirows
-\usepackage{multicol}
-\usepackage{multirow}
-% For Acronymus
-\usepackage{acronym}
-
-% Long Tables
-\usepackage{booktabs}
-\usepackage{tabularx}
-\usepackage{ltablex}
-\usepackage{longtable}
-
-
+\usepackage[none]{hyphenat} % turn hyphenation off by default
 \usepackage{graphicx}
-\usepackage{spverbatim}
-\usepackage{amsmath}
-\usepackage{afterpage}
-\usepackage{framed}
-\usepackage{url}
-\usepackage{array}
-\usepackage{pgfgantt}
-\usepackage{rotating}
-\usepackage[graphicx]{realboxes}
-\usepackage{pstricks,pst-node,pst-text,pst-3d}
-
-% To handle with the itemize left spacing in Introduction Chapter
-\usepackage{enumitem}
-
-\usepackage{tikz}
-\usetikzlibrary{positioning}
-
-\tikzset{basic/.style={draw,fill=blue!20,text width=1em,text badly centered}}
-\tikzset{input/.style={basic,circle}}
-\tikzset{weights/.style={basic,rectangle}}
-\tikzset{functions/.style={basic,circle,fill=blue!10}}
-
-\newcolumntype{C}[1]{>{\centering}m{#1}}
-
-
-\setmainfont{TUOS Blake}
-
-\makeatletter
-\setlength{\@fptop}{0pt}
-\makeatother
-
-
-         
 
 \begin{document}
 
 \frontmatter
 
+\begin{titlepage}
+
+% You need to edit the details here
+
+\begin{center}
+{\LARGE University of Sheffield}\\[1.5cm]
+\linespread{1.2}\huge {\bfseries Lip reading for song transcription}\\[1.5cm]
+\linespread{1}
+\includegraphics[width=5cm]{images/tuoslogo.png}\\[1cm]
+{\Large Xinghui He}\\[1cm]
+{\large \emph{Supervisor:} Dr Jon Barker}\\[1cm]
+\large A report submitted in fulfilment of the requirements\\ for the degree of MSc in Advanced Computer Science\\[0.3cm] 
+\textit{in the}\\[0.3cm]
+Department of Computer Science\\[2cm]
+\today
+\end{center}
+
+\end{titlepage}
+
 % -------------------------------------------------------------------
-% Title Page
+% Declaration
 % -------------------------------------------------------------------
 
-\input{chapters/Chapter0/Title.tex}
-\input{chapters/Chapter0/Declaration.tex}
-\input{chapters/Chapter0/Acknowledgement.tex}
-\input{chapters/Chapter0/Abstract.tex}
-\input{chapters/Chapter0/Acronyms.tex}
+\newpage
+\chapter*{\Large Declaration}
 
+\setstretch{1.1} % set the line spacing differently if you wish, but this looks good to me. 
+
+All sentences or passages quoted in this report from other people's work have been specifically acknowledged by clear cross-referencing to author, work and page(s). Any illustrations that are not the work of the author of this report have been used with the explicit permission of the originator and are specifically acknowledged. I understand that failure to do this amounts to plagiarism and will be considered grounds for failure in this project and the degree examination as a whole.\\[1cm]
+
+\noindent Name:\\[1mm]
+\rule[1em]{25em}{0.5pt}
+
+\noindent Signature:\\[1mm]
+\rule[1em]{25em}{0.5pt}
+
+\noindent Date:\\[1mm]
+\rule[1em]{25em}{0.5pt}
+
+% -------------------------------------------------------------------
+% Abstract
+% -------------------------------------------------------------------
+
+\input{chapters/abstract.tex}
 
 % -------------------------------------------------------------------
 % TOC etc
 % -------------------------------------------------------------------
+
+% -------------------------------------------------------------------
+% Acronyms 
+% -------------------------------------------------------------------
+
+\input{chapters/acronyms.tex}
+
+% -------------------------------------------------------------------
+% TOC etc
+% -------------------------------------------------------------------
+
 
 \tableofcontents
 \listoffigures
@@ -96,24 +84,17 @@
 
 \mainmatter
 
-\input{chapters/Chapter1/ch1-Introduction.tex}
-\input{chapters/Chapter2/ch2-LiteratureReview.tex}
-\input{chapters/Chapter3/ch3-CorpusDesign}
-\input{chapters/Chapter4/ch4-EvaluationFramework.tex}
-\input{chapters/Chapter5/ch5-SystemDevelopment.tex}
-\input{chapters/Chapter6/ch6-ExperimentalResults.tex}
-\input{chapters/Chapter7/ch7-Conclusions}
-
+\input{chapters/chapter1.tex}
+\input{chapters/chapter2.tex}
+\input{chapters/chapter3.tex}
+\input{chapters/chapter4.tex}
+\input{chapters/chapter5.tex}
 
 \bibliographystyle{acm} 
-\bibliography{bib/ASRMusic,bib/ASR,bib/lawConsiderations,bib/dataSources,bib/musicProp,bib/singerIdent,bib/langAcoustModel,bib/singingProp} 
-
+\bibliography{mybibliography} 
 
 \begin{appendices}
-\input{chapters/Appendix/VideoList.tex}
-\input{chapters/Appendix/Sources_LM.tex}
-\input{chapters/Appendix/CookingRecipe.tex}
-\input{chapters/Appendix/ExperimentsResults.tex}
+\input{chapters/appendixA.tex}
 
 \end{appendices}
 

@@ -1,0 +1,484 @@
+
+===== STARTING PROCESS S5 =====
+
+Using steps and utils from wsj recipe
+
+===== PREPARING ACOUSTIC DATA =====
+
+Creating spk2gender...
+Creating wav.scp...
+Creating text...
+Creating utt2spk...
+
+===== FEATURES EXTRACTION =====
+
+/home/acu16xh/av-lyrics/asr-music/s5/utils/validate_data_dir.sh: no such directory /home/au16xh/av-lyrics/asr-music/s5/data/train
+fix_data_dir.sh: kept all 2533 utterances.
+fix_data_dir.sh: old files are kept in /home/acu16xh/av-lyrics/asr-music/s5/data/train/.backup
+/home/acu16xh/av-lyrics/asr-music/s5/steps/make_mfcc.sh /home/acu16xh/av-lyrics/asr-music/s5/data/train /home/acu16xh/av-lyrics/asr-music/s5/exp/make_mfcc/train mfcc
+/home/acu16xh/av-lyrics/asr-music/s5/utils/validate_data_dir.sh: Successfully validated data-directory /home/acu16xh/av-lyrics/asr-music/s5/data/train
+/home/acu16xh/av-lyrics/asr-music/s5/steps/make_mfcc.sh: [info]: no segments file exists: assuming wav.scp indexed by utterance.
+Succeeded creating MFCC features for train
+/home/acu16xh/av-lyrics/asr-music/s5/steps/compute_cmvn_stats.sh /home/acu16xh/av-lyrics/asr-music/s5/data/train /home/acu16xh/av-lyrics/asr-music/s5/exp/make_mfcc/train mfcc
+Succeeded creating CMVN stats for train
+/home/acu16xh/av-lyrics/asr-music/s5/utils/validate_data_dir.sh: no such directory /home/au16xh/av-lyrics/asr-music/s5/data/test
+fix_data_dir.sh: kept all 894 utterances.
+fix_data_dir.sh: old files are kept in /home/acu16xh/av-lyrics/asr-music/s5/data/test/.backup
+/home/acu16xh/av-lyrics/asr-music/s5/steps/make_mfcc.sh /home/acu16xh/av-lyrics/asr-music/s5/data/test /home/acu16xh/av-lyrics/asr-music/s5/exp/make_mfcc/test mfcc
+/home/acu16xh/av-lyrics/asr-music/s5/utils/validate_data_dir.sh: Successfully validated data-directory /home/acu16xh/av-lyrics/asr-music/s5/data/test
+/home/acu16xh/av-lyrics/asr-music/s5/steps/make_mfcc.sh: [info]: no segments file exists: assuming wav.scp indexed by utterance.
+Succeeded creating MFCC features for test
+/home/acu16xh/av-lyrics/asr-music/s5/steps/compute_cmvn_stats.sh /home/acu16xh/av-lyrics/asr-music/s5/data/test /home/acu16xh/av-lyrics/asr-music/s5/exp/make_mfcc/test mfcc
+Succeeded creating CMVN stats for test
+
+===== PREPARING LANGUAGE DATA =====
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/silence_phones.txt ...
+--> reading /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/silence_phones.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/silence_phones.txt is OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/optional_silence.txt ...
+--> reading /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/optional_silence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/optional_silence.txt is OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/nonsilence_phones.txt ...
+--> reading /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/nonsilence_phones.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/nonsilence_phones.txt is OK
+
+Checking disjoint: silence_phones.txt, nonsilence_phones.txt
+--> disjoint property is OK.
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/lexicon.txt
+--> reading /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/lexicon.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/lexicon.txt is OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/extra_questions.txt ...
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/extra_questions.txt is empty (this is OK)
+--> SUCCESS [validating dictionary directory /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict]
+
+**Creating /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/lexiconp.txt from /home/acu16xh/av-lyrics/asr-music/s5/data/local/dict/lexicon.txt
+prepare_lang.sh: validating output directory
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones.txt ...
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones.txt is OK
+
+Checking words.txt: #0 ...
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/words.txt has "#0"
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/words.txt is OK
+
+Checking disjoint: silence.txt, nonsilence.txt, disambig.txt ...
+--> silence.txt and nonsilence.txt are disjoint
+--> silence.txt and disambig.txt are disjoint
+--> disambig.txt and nonsilence.txt are disjoint
+--> disjoint property is OK
+
+Checking sumation: silence.txt, nonsilence.txt, disambig.txt ...
+--> summation property is OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/context_indep.{txt, int, csl} ...
+--> 10 entry/entries in /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/context_indep.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/context_indep.int corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/context_indep.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/context_indep.csl corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/context_indep.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/context_indep.{txt, int, csl} are OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/disambig.{txt, int, csl} ...
+--> 8 entry/entries in /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/disambig.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/disambig.int corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/disambig.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/disambig.csl corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/disambig.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/disambig.{txt, int, csl} are OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/nonsilence.{txt, int, csl} ...
+--> 156 entry/entries in /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/nonsilence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/nonsilence.int corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/nonsilence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/nonsilence.csl corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/nonsilence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/nonsilence.{txt, int, csl} are OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/silence.{txt, int, csl} ...
+--> 10 entry/entries in /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/silence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/silence.int corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/silence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/silence.csl corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/silence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/silence.{txt, int, csl} are OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/optional_silence.{txt, int, csl} ...
+--> 1 entry/entries in /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/optional_silence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/optional_silence.int corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/optional_silence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/optional_silence.csl corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/optional_silence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/optional_silence.{txt, int, csl} are OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/roots.{txt, int} ...
+--> 41 entry/entries in /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/roots.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/roots.int corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/roots.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/roots.{txt, int} are OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/sets.{txt, int} ...
+--> 41 entry/entries in /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/sets.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/sets.int corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/sets.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/sets.{txt, int} are OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/extra_questions.{txt, int} ...
+--> 9 entry/entries in /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/extra_questions.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/extra_questions.int corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/extra_questions.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/extra_questions.{txt, int} are OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/word_boundary.{txt, int} ...
+--> 166 entry/entries in /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/word_boundary.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/word_boundary.int corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/word_boundary.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/word_boundary.{txt, int} are OK
+
+Checking optional_silence.txt ...
+--> reading /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/optional_silence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/optional_silence.txt is OK
+
+Checking disambiguation symbols: #0 and #1
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/disambig.txt has "#0" and "#1"
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/disambig.txt is OK
+
+Checking topo ...
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/topo's nonsilence section is OK
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/topo's silence section is OK
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/topo is OK
+
+Checking word_boundary.txt: silence.txt, nonsilence.txt, disambig.txt ...
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/word_boundary.txt doesn't include disambiguation symbols
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/word_boundary.txt is the union of nonsilence.txt and silence.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/phones/word_boundary.txt is OK
+
+Checking word_boundary.int and disambig.int
+--> generating a 65 word sequence
+--> resulting phone sequence from L.fst corresponds to the word sequence
+--> L.fst is OK
+--> generating a 64 word sequence
+--> resulting phone sequence from L_disambig.fst corresponds to the word sequence
+--> L_disambig.fst is OK
+
+Checking /home/acu16xh/av-lyrics/asr-music/s5/data/lang/oov.{txt, int} ...
+--> 1 entry/entries in /home/acu16xh/av-lyrics/asr-music/s5/data/lang/oov.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/oov.int corresponds to /home/acu16xh/av-lyrics/asr-music/s5/data/lang/oov.txt
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/oov.{txt, int} are OK
+
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/L.fst is olabel sorted
+--> /home/acu16xh/av-lyrics/asr-music/s5/data/lang/L_disambig.fst is olabel sorted
+--> SUCCESS [validating lang directory /home/acu16xh/av-lyrics/asr-music/s5/data/lang]
+
+===== LANGUAGE MODEL CREATION =====
+===== MAKING lm.arpa =====
+
+
+===== MAKING G.fst =====
+
+
+===== MONOPHONE MODEL =====
+
+===== MONO TRAINING =====
+
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh --boost-silence 1.25 --nj 2 --cmd queue.pl -l mem=24G -j y /home/acu16xh/av-lyrics/asr-music/s5/data/train data/lang exp/mono
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Initializing monophone system.
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Compiling training graphs
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data equally (pass 0)
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 1
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 2
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 3
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 4
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 5
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 6
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 7
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 8
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 9
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 10
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 11
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 12
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 13
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 14
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 15
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 16
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 17
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 18
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 19
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 20
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 21
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 22
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 23
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 24
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 25
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 26
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 27
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 28
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 29
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 30
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 31
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 32
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 33
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 34
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 35
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 36
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 37
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 38
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 39
+91 warnings in exp/mono/log/acc.*.*.log
+317 warnings in exp/mono/log/update.*.log
+3870 warnings in exp/mono/log/align.*.*.log
+Done
+
+===== MONO ALIGNMENT =====
+
+steps/align_si.sh --boost-silence 1.25 --nj 2 --cmd queue.pl -l mem=24G -j y data/train data/lang exp/mono exp/mono_ali
+steps/align_si.sh: feature type is delta
+steps/align_si.sh: aligning data in data/train using model from exp/mono, putting alignments in exp/mono_ali
+steps/align_si.sh: done aligning data.
+
+===== MONOPHONE END =====
+
+
+===== TRIPHONE MODEL (delta, delta+delta) =====
+
+===== TRI1 TRAINING =====
+
+steps/train_deltas.sh --boost-silence 1.25 --cmd queue.pl -l mem=24G -j y 2000 11000 data/train data/lang exp/mono_ali exp/tri1
+steps/train_deltas.sh: accumulating tree stats
+steps/train_deltas.sh: getting questions for tree-building, via clustering
+steps/train_deltas.sh: building the tree
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 1 with no stats; corresponding phone list: 6 7 8 9 10 
+** The warnings above about 'no stats' generally mean you have phones **
+** (or groups of phones) in your phone set that had no corresponding data. **
+** You should probably figure out whether something went wrong, **
+** or whether your data just doesn't happen to have examples of those **
+** phones. **
+steps/train_deltas.sh: converting alignments from exp/mono_ali to use current tree
+steps/train_deltas.sh: compiling graphs of transcripts
+steps/train_deltas.sh: training pass 1
+steps/train_deltas.sh: training pass 2
+steps/train_deltas.sh: training pass 3
+steps/train_deltas.sh: training pass 4
+steps/train_deltas.sh: training pass 5
+steps/train_deltas.sh: training pass 6
+steps/train_deltas.sh: training pass 7
+steps/train_deltas.sh: training pass 8
+steps/train_deltas.sh: training pass 9
+steps/train_deltas.sh: training pass 10
+steps/train_deltas.sh: aligning data
+steps/train_deltas.sh: training pass 11
+steps/train_deltas.sh: training pass 12
+steps/train_deltas.sh: training pass 13
+steps/train_deltas.sh: training pass 14
+steps/train_deltas.sh: training pass 15
+steps/train_deltas.sh: training pass 16
+steps/train_deltas.sh: training pass 17
+steps/train_deltas.sh: training pass 18
+steps/train_deltas.sh: training pass 19
+steps/train_deltas.sh: training pass 20
+steps/train_deltas.sh: aligning data
+steps/train_deltas.sh: training pass 21
+steps/train_deltas.sh: training pass 22
+steps/train_deltas.sh: training pass 23
+steps/train_deltas.sh: training pass 24
+steps/train_deltas.sh: training pass 25
+steps/train_deltas.sh: training pass 26
+steps/train_deltas.sh: training pass 27
+steps/train_deltas.sh: training pass 28
+steps/train_deltas.sh: training pass 29
+steps/train_deltas.sh: training pass 30
+steps/train_deltas.sh: aligning data
+steps/train_deltas.sh: training pass 31
+steps/train_deltas.sh: training pass 32
+steps/train_deltas.sh: training pass 33
+steps/train_deltas.sh: training pass 34
+126 warnings in exp/tri1/log/update.*.log
+1 warnings in exp/tri1/log/questions.log
+152 warnings in exp/tri1/log/init_model.log
+181 warnings in exp/tri1/log/align.*.*.log
+1 warnings in exp/tri1/log/build_tree.log
+steps/train_deltas.sh: Done training system with delta+delta-delta features in exp/tri1
+
+===== TRI1 ALIGNMENT =====
+
+steps/align_si.sh --nj 2 --cmd queue.pl -l mem=24G -j y --use-graphs true data/train data/lang exp/tri1 exp/tri1_ali
+steps/align_si.sh: feature type is delta
+steps/align_si.sh: aligning data in data/train using model from exp/tri1, putting alignments in exp/tri1_ali
+steps/align_si.sh: done aligning data.
+
+===== TRIPHONE MODEL with LDA + MLLT =====
+
+===== TRI2B ([LDA+MLLT]) TRAINING =====
+
+steps/train_lda_mllt.sh --cmd queue.pl -l mem=24G -j y --splice-opts --left-context=3 --right-context=3 2500 15000 data/train data/lang exp/tri1_ali exp/tri2b
+Accumulating LDA statistics.
+Accumulating tree stats
+Getting questions for tree clustering.
+Building the tree
+steps/train_lda_mllt.sh: Initializing the model
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 1 with no stats; corresponding phone list: 6 7 8 9 10 
+This is a bad warning.
+Converting alignments from exp/tri1_ali to use current tree
+Compiling graphs of transcripts
+Training pass 1
+Training pass 2
+Estimating MLLT
+Training pass 3
+Training pass 4
+Estimating MLLT
+Training pass 5
+Training pass 6
+Estimating MLLT
+Training pass 7
+Training pass 8
+Training pass 9
+Training pass 10
+Aligning data
+Training pass 11
+Training pass 12
+Estimating MLLT
+Training pass 13
+Training pass 14
+Training pass 15
+Training pass 16
+Training pass 17
+Training pass 18
+Training pass 19
+Training pass 20
+Aligning data
+Training pass 21
+Training pass 22
+Training pass 23
+Training pass 24
+Training pass 25
+Training pass 26
+Training pass 27
+Training pass 28
+Training pass 29
+Training pass 30
+Aligning data
+Training pass 31
+Training pass 32
+Training pass 33
+Training pass 34
+1 warnings in exp/tri2b/log/questions.log
+299 warnings in exp/tri2b/log/init_model.log
+1 warnings in exp/tri2b/log/build_tree.log
+186 warnings in exp/tri2b/log/align.*.*.log
+206 warnings in exp/tri2b/log/update.*.log
+Done training system with LDA+MLLT features in exp/tri2b
+
+===== TRI2B ([LDA+MLLT]) ALIGNMENT =====
+
+steps/align_si.sh --nj 2 --cmd queue.pl -l mem=24G -j y --use-graphs true data/train data/lang exp/tri2b exp/tri2b_ali
+steps/align_si.sh: feature type is lda
+steps/align_si.sh: aligning data in data/train using model from exp/tri2b, putting alignments in exp/tri2b_ali
+steps/align_si.sh: done aligning data.
+
+===== TRIPHONE MODEL with SAT =====
+
+===== TRI3B LDA+MLLT+SAT, and decode =====
+
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/train_sat.sh 2500 15000 /home/acu16xh/av-lyrics/asr-music/s5/data/train /home/acu16xh/av-lyrics/asr-music/s5/data/lang /home/acu16xh/av-lyrics/asr-music/s5/exp/tri2b_ali /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/train_sat.sh: feature type is lda
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/train_sat.sh: obtaining initial fMLLR transforms since not present in /home/acu16xh/av-lyrics/asr-music/s5/exp/tri2b_ali
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/train_sat.sh: Accumulating tree stats
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/train_sat.sh: Getting questions for tree clustering.
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/train_sat.sh: Building the tree
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/train_sat.sh: Initializing the model
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 1 with no stats; corresponding phone list: 6 7 8 9 10 
+This is a bad warning.
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/train_sat.sh: Converting alignments from /home/acu16xh/av-lyrics/asr-music/s5/exp/tri2b_ali to use current tree
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/train_sat.sh: Compiling graphs of transcripts
+Pass 1
+Pass 2
+Estimating fMLLR transforms
+Pass 3
+Pass 4
+Estimating fMLLR transforms
+Pass 5
+Pass 6
+Estimating fMLLR transforms
+Pass 7
+Pass 8
+Pass 9
+Pass 10
+Aligning data
+Pass 11
+Pass 12
+Estimating fMLLR transforms
+Pass 13
+Pass 14
+Pass 15
+Pass 16
+Pass 17
+Pass 18
+Pass 19
+Pass 20
+Aligning data
+Pass 21
+Pass 22
+Pass 23
+Pass 24
+Pass 25
+Pass 26
+Pass 27
+Pass 28
+Pass 29
+Pass 30
+Aligning data
+Pass 31
+Pass 32
+Pass 33
+Pass 34
+3 warnings in /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/log/est_alimdl.log
+1 warnings in /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/log/build_tree.log
+139 warnings in /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/log/align.*.*.log
+1 warnings in /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/log/questions.log
+210 warnings in /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/log/update.*.log
+267 warnings in /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/log/init_model.log
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/train_sat.sh: Likelihood evolution:
+-53.5517 -53.0366 -52.8605 -52.5479 -51.5379 -50.8087 -50.47 -50.2648 -50.015 -49.5285 -49.2183 -48.9963 -48.8182 -48.6606 -48.5073 -48.3598 -48.2215 -48.0723 -47.9348 -47.7593 -47.575 -47.4473 -47.3278 -47.2092 -47.0939 -46.9804 -46.8688 -46.7582 -46.653 -46.529 -46.4239 -46.3843 -46.3576 -46.3303 
+Done
+
+===== TRI3B LDA+MLLT+SAT DECODING =====
+
+0.000481889 -0.000470847
+0.000481889 -0.000470847
+0.000783269 -0.000777851
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/decode_fmllr.sh --config /home/acu16xh/av-lyrics/asr-music/s5/conf/decode.config --nj 2 --num-threads 3 --cmd queue.pl -l mem=16G -j y --scoring-opts --min-lmwt 10 --max-lmwt 25 /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/graph /home/acu16xh/av-lyrics/asr-music/s5/data/test /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/decode
+steps/decode.sh --scoring-opts --min-lmwt 10 --max-lmwt 25 --num-threads 3 --skip-scoring false --acwt 0.083333 --nj 2 --cmd queue.pl -l mem=16G -j y --beam 10.0 --model /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/final.alimdl --max-active 2000 /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/graph /home/acu16xh/av-lyrics/asr-music/s5/data/test /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/decode.si
+decode.sh: feature type is lda
+local/score.sh --cmd queue.pl -l mem=16G -j y --min-lmwt 10 --max-lmwt 25 /home/acu16xh/av-lyrics/asr-music/s5/data/test /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/graph /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b/decode.si
+local/score.sh: scoring with word insertion penalty=0.0,0.5,1.0
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/decode_fmllr.sh: feature type is lda
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/decode_fmllr.sh: getting first-pass fMLLR transforms.
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/decode_fmllr.sh: doing main lattice generation phase
+
+===== TRI3B LDA+MLLT+SAT ALIGNMENT =====
+
+/home/acu16xh/kaldi-git/egs/wsj/s5/steps/align_fmllr.sh --nj 2 --cmd queue.pl -l mem=24G -j y /home/acu16xh/av-lyrics/asr-music/s5/data/train /home/acu16xh/av-lyrics/asr-music/s5/data/lang /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b /home/acu16xh/av-lyrics/asr-music/s5/exp/tri3b_ali
+
+===== DECODE ALL MODELS =====
+
+
+===== MONO DECODING =====
+
+[info]: CLG not stochastic.
+
+===== SCORE GMMs =====
+
+%WER 92.39 [ 5706 / 6176, 114 ins, 2692 del, 2900 sub ] exp/tri3b/decode.si/wer_19_0.0
+
+===== s5 script is finished =====
+

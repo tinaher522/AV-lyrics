@@ -1,0 +1,70 @@
+
+===== STARTING PROCESS S5 =====
+
+Using steps and utils from wsj recipe
+
+===== MONOPHONE MODEL =====
+
+===== MONO TRAINING =====
+
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh --boost-silence 1.25 --nj 2 --cmd queue.pl -l mem=24G -j y /home/acu16xh/av-lyrics/asr-music/s5/data/train_video data/lang exp/mono
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Initializing monophone system.
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Compiling training graphs
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data equally (pass 0)
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 1
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+
+===== TRIPHONE MODEL (delta, delta+delta) =====
+
+===== TRI1 TRAINING =====
+
+steps/train_deltas.sh --boost-silence 1.25 --cmd queue.pl -l mem=24G -j y 2000 11000 data/train_video data/lang exp/mono_ali exp/tri1
+steps/train_deltas.sh: accumulating tree stats
+steps/train_deltas.sh: getting questions for tree-building, via clustering
+steps/train_deltas.sh: building the tree
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 1 with no stats; corresponding phone list: 6 7 8 9 10 
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 27 with no stats; corresponding phone list: 111 112 113 114 
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 40 with no stats; corresponding phone list: 163 164 165 166 
+** The warnings above about 'no stats' generally mean you have phones **
+** (or groups of phones) in your phone set that had no corresponding data. **
+** You should probably figure out whether something went wrong, **
+** or whether your data just doesn't happen to have examples of those **
+** phones. **
+steps/train_deltas.sh: converting alignments from exp/mono_ali to use current tree
+steps/train_deltas.sh: compiling graphs of transcripts
+steps/train_deltas.sh: training pass 1
+steps/train_deltas.sh: training pass 2
+steps/train_deltas.sh: training pass 3
+steps/train_deltas.sh: training pass 4
+steps/train_deltas.sh: training pass 5
+steps/train_deltas.sh: training pass 6
+steps/train_deltas.sh: training pass 7
+steps/train_deltas.sh: training pass 8
+steps/train_deltas.sh: training pass 9
+steps/train_deltas.sh: training pass 10
+steps/train_deltas.sh: aligning data
+steps/train_deltas.sh: training pass 11
+steps/train_deltas.sh: training pass 12
+steps/train_deltas.sh: training pass 13
+steps/train_deltas.sh: training pass 14
+steps/train_deltas.sh: training pass 15
+steps/train_deltas.sh: training pass 16
+steps/train_deltas.sh: training pass 17
+steps/train_deltas.sh: training pass 18
+steps/train_deltas.sh: training pass 19
+steps/train_deltas.sh: training pass 20
+steps/train_deltas.sh: aligning data
+steps/train_deltas.sh: training pass 21
+steps/train_deltas.sh: training pass 22
+steps/train_deltas.sh: training pass 23
+
+===== DECODE ALL MODELS =====
+
+
+===== SCORE GMMs =====
+
+%WER 100.14 [ 2124 / 2121, 4 ins, 1533 del, 587 sub ] exp/tri1/decode/wer_25_1.0
+%WER 99.10 [ 2102 / 2121, 3 ins, 1632 del, 467 sub ] exp/tri2b/decode/wer_10_0.0
+
+===== s5 script is finished =====
+

@@ -1,0 +1,246 @@
+
+===== STARTING PROCESS S5 =====
+
+Using steps and utils from wsj recipe
+
+===== MONOPHONE MODEL =====
+
+===== MONO TRAINING =====
+
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh --boost-silence 1.25 --nj 2 --cmd queue.pl -l mem=24G -j y /home/acu16xh/av-lyrics/asr-music/s5/data/train_video data/lang exp/mono
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Initializing monophone system.
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Compiling training graphs
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data equally (pass 0)
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 1
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 2
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 3
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 4
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 5
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 6
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 7
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 8
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 9
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 10
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 11
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 12
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 13
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 14
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 15
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 16
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 17
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 18
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 19
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 20
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 21
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 22
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 23
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 24
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 25
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 26
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 27
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 28
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 29
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 30
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 31
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 32
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 33
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 34
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 35
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 36
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 37
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 38
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 39
+14719 warnings in exp/mono/log/acc.*.*.log
+745 warnings in exp/mono/log/update.*.log
+42403 warnings in exp/mono/log/align.*.*.log
+Done
+
+===== MONO ALIGNMENT =====
+
+steps/align_si.sh --boost-silence 1.25 --nj 2 --cmd queue.pl -l mem=24G -j y data/train_video data/lang exp/mono exp/mono_ali
+steps/align_si.sh: feature type is delta
+steps/align_si.sh: aligning data in data/train_video using model from exp/mono, putting alignments in exp/mono_ali
+steps/align_si.sh: done aligning data.
+
+===== MONOPHONE END =====
+
+
+===== TRIPHONE MODEL (delta, delta+delta) =====
+
+===== TRI1 TRAINING =====
+
+steps/train_deltas.sh --boost-silence 1.25 --cmd queue.pl -l mem=24G -j y 2000 11000 data/train_video data/lang exp/mono_ali exp/tri1
+** split_data.sh: warning, #lines is (utt2spk,feats.scp) is (1661,615); you can 
+**  use utils/fix_data_dir.sh data/train_video to fix this.
+steps/train_deltas.sh: accumulating tree stats
+steps/train_deltas.sh: getting questions for tree-building, via clustering
+steps/train_deltas.sh: building the tree
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 1 with no stats; corresponding phone list: 6 7 8 9 10 
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 27 with no stats; corresponding phone list: 111 112 113 114 
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 40 with no stats; corresponding phone list: 163 164 165 166 
+** The warnings above about 'no stats' generally mean you have phones **
+** (or groups of phones) in your phone set that had no corresponding data. **
+** You should probably figure out whether something went wrong, **
+** or whether your data just doesn't happen to have examples of those **
+** phones. **
+steps/train_deltas.sh: converting alignments from exp/mono_ali to use current tree
+steps/train_deltas.sh: compiling graphs of transcripts
+steps/train_deltas.sh: training pass 1
+steps/train_deltas.sh: training pass 2
+steps/train_deltas.sh: training pass 3
+steps/train_deltas.sh: training pass 4
+steps/train_deltas.sh: training pass 5
+steps/train_deltas.sh: training pass 6
+steps/train_deltas.sh: training pass 7
+steps/train_deltas.sh: training pass 8
+steps/train_deltas.sh: training pass 9
+steps/train_deltas.sh: training pass 10
+steps/train_deltas.sh: aligning data
+steps/train_deltas.sh: training pass 11
+steps/train_deltas.sh: training pass 12
+steps/train_deltas.sh: training pass 13
+steps/train_deltas.sh: training pass 14
+steps/train_deltas.sh: training pass 15
+steps/train_deltas.sh: training pass 16
+steps/train_deltas.sh: training pass 17
+steps/train_deltas.sh: training pass 18
+steps/train_deltas.sh: training pass 19
+steps/train_deltas.sh: training pass 20
+steps/train_deltas.sh: aligning data
+steps/train_deltas.sh: training pass 21
+steps/train_deltas.sh: training pass 22
+steps/train_deltas.sh: training pass 23
+steps/train_deltas.sh: training pass 24
+steps/train_deltas.sh: training pass 25
+steps/train_deltas.sh: training pass 26
+steps/train_deltas.sh: training pass 27
+steps/train_deltas.sh: training pass 28
+steps/train_deltas.sh: training pass 29
+steps/train_deltas.sh: training pass 30
+steps/train_deltas.sh: aligning data
+steps/train_deltas.sh: training pass 31
+steps/train_deltas.sh: training pass 32
+steps/train_deltas.sh: training pass 33
+steps/train_deltas.sh: training pass 34
+55545 warnings in exp/tri1/log/update.*.log
+3 warnings in exp/tri1/log/questions.log
+11977 warnings in exp/tri1/log/acc.*.*.log
+1883 warnings in exp/tri1/log/init_model.log
+5593 warnings in exp/tri1/log/align.*.*.log
+1 warnings in exp/tri1/log/build_tree.log
+steps/train_deltas.sh: Done training system with delta+delta-delta features in exp/tri1
+
+===== TRI1 ALIGNMENT =====
+
+steps/align_si.sh --nj 2 --cmd queue.pl -l mem=24G -j y --use-graphs true data/train_video data/lang exp/tri1 exp/tri1_ali
+steps/align_si.sh: feature type is delta
+steps/align_si.sh: aligning data in data/train_video using model from exp/tri1, putting alignments in exp/tri1_ali
+steps/align_si.sh: done aligning data.
+
+===== TRIPHONE MODEL with LDA + MLLT =====
+
+===== TRI2B ([LDA+MLLT]) TRAINING =====
+
+steps/train_lda_mllt.sh --cmd queue.pl -l mem=24G -j y --splice-opts --left-context=3 --right-context=3 2500 15000 data/train_video data/lang exp/tri1_ali exp/tri2b
+** split_data.sh: warning, #lines is (utt2spk,feats.scp) is (1661,615); you can 
+**  use utils/fix_data_dir.sh data/train_video to fix this.
+Accumulating LDA statistics.
+Accumulating tree stats
+Getting questions for tree clustering.
+Building the tree
+steps/train_lda_mllt.sh: Initializing the model
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 1 with no stats; corresponding phone list: 6 7 8 9 10 
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 9 with no stats; corresponding phone list: 39 40 41 42 
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 27 with no stats; corresponding phone list: 111 112 113 114 
+WARNING (gmm-init-model:InitAmGmm():gmm-init-model.cc:55) Tree has pdf-id 40 with no stats; corresponding phone list: 163 164 165 166 
+This is a bad warning.
+Converting alignments from exp/tri1_ali to use current tree
+Compiling graphs of transcripts
+Training pass 1
+Training pass 2
+Estimating MLLT
+Training pass 3
+Training pass 4
+Estimating MLLT
+Training pass 5
+Training pass 6
+Estimating MLLT
+Training pass 7
+Training pass 8
+Training pass 9
+Training pass 10
+Aligning data
+Training pass 11
+Training pass 12
+Estimating MLLT
+Training pass 13
+Training pass 14
+Training pass 15
+Training pass 16
+Training pass 17
+Training pass 18
+Training pass 19
+Training pass 20
+Aligning data
+Training pass 21
+Training pass 22
+Training pass 23
+Training pass 24
+Training pass 25
+Training pass 26
+Training pass 27
+Training pass 28
+Training pass 29
+Training pass 30
+Aligning data
+Training pass 31
+Training pass 32
+Training pass 33
+Training pass 34
+4 warnings in exp/tri2b/log/questions.log
+8614 warnings in exp/tri2b/log/acc.*.*.log
+132 warnings in exp/tri2b/log/init_model.log
+1 warnings in exp/tri2b/log/build_tree.log
+4915 warnings in exp/tri2b/log/align.*.*.log
+1158 warnings in exp/tri2b/log/update.*.log
+356 warnings in exp/tri2b/log/lda_acc.*.log
+Done training system with LDA+MLLT features in exp/tri2b
+
+===== TRI2B ([LDA+MLLT]) ALIGNMENT =====
+
+steps/align_si.sh --nj 2 --cmd queue.pl -l mem=24G -j y --use-graphs true data/train_video data/lang exp/tri2b exp/tri2b_ali
+steps/align_si.sh: feature type is lda
+steps/align_si.sh: aligning data in data/train_video using model from exp/tri2b, putting alignments in exp/tri2b_ali
+steps/align_si.sh: done aligning data.
+
+===== DECODE ALL MODELS =====
+
+
+===== SCORE GMMs =====
+
+%WER 100.14 [ 2124 / 2121, 4 ins, 1533 del, 587 sub ] exp/tri1/decode/wer_25_1.0
+%WER 99.10 [ 2102 / 2121, 3 ins, 1632 del, 467 sub ] exp/tri2b/decode/wer_10_0.0
+
+===== s5 script is finished =====
+

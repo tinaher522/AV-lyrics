@@ -1,0 +1,98 @@
+
+===== STARTING PROCESS S5 =====
+
+Using steps and utils from wsj recipe
+
+===== MONOPHONE MODEL =====
+
+===== MONO TRAINING =====
+
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh --boost-silence 1.25 --nj 2 --cmd queue.pl -l mem=24G -j y /home/acu16xh/av-lyrics/asr-music/s5/data/train_video data/lang exp/mono
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Initializing monophone system.
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Compiling training graphs
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data equally (pass 0)
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 1
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 2
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 3
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 4
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 5
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 6
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 7
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 8
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 9
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 10
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 11
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 12
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 13
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 14
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 15
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 16
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 17
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 18
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 19
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 20
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 21
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 22
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 23
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 24
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 25
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 26
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 27
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 28
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 29
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 30
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 31
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 32
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 33
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 34
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 35
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 36
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 37
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 38
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Aligning data
+/home/acu16xh/av-lyrics/asr-music/s5/steps/train_mono.sh: Pass 39
+17883 warnings in exp/mono/log/acc.*.*.log
+669 warnings in exp/mono/log/update.*.log
+20724 warnings in exp/mono/log/align.*.*.log
+Done
+
+===== MONO ALIGNMENT =====
+
+steps/align_si.sh --boost-silence 1.25 --nj 2 --cmd queue.pl -l mem=24G -j y data/train_video data/lang exp/mono exp/mono_ali
+steps/align_si.sh: feature type is delta
+steps/align_si.sh: aligning data in data/train_video using model from exp/mono, putting alignments in exp/mono_ali
+steps/align_si.sh: done aligning data.
+
+===== MONOPHONE END =====
+
+
+===== DECODE ALL MODELS =====
+
+
+===== SCORE GMMs =====
+
+%WER 100.14 [ 2124 / 2121, 4 ins, 1533 del, 587 sub ] exp/tri1/decode/wer_25_1.0
+%WER 99.10 [ 2102 / 2121, 3 ins, 1632 del, 467 sub ] exp/tri2b/decode/wer_10_0.0
+
+===== s5 script is finished =====
+
